@@ -1,0 +1,85 @@
+{
+  "characterId": "japanese_girl",
+  "categories": [
+    {
+      "key": "face",
+      "label": "Face",
+      "subcategories": [
+        {
+          "key": "lips",
+          "label": "Lips",
+          "options": [
+            { "optionId": "lips_1", "label": "Style 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/lips_1.png" },
+            { "optionId": "lips_2", "label": "Style 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/lips_2.png" },
+            { "optionId": "lips_3", "label": "Style 3", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/lips_3.png" },
+            { "optionId": "lips_4", "label": "Style 4", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/lips_4.png" },
+            { "optionId": "lips_5", "label": "Style 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/lips_5.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "subcategories": [
+        {
+          "key": "hair",
+          "label": "Hair",
+          "options": [
+            { "optionId": "hair_1", "label": "Style 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_1.png" },
+            { "optionId": "hair_2", "label": "Style 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_2.png" },
+            { "optionId": "hair_3", "label": "Style 3", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_3.png" },
+            { "optionId": "hair_4", "label": "Style 4", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_4.png" },
+            { "optionId": "hair_5", "label": "Style 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_5.png" },
+            { "optionId": "hair_6", "label": "Style 6", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_6.png" },
+            { "optionId": "hair_7", "label": "Style 7", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_7.png" },
+            { "optionId": "hair_8", "label": "Style 8", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_8.png" },
+            { "optionId": "hair_9", "label": "Style 9", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/hair_9.png" }
+          ]
+        },
+        {
+          "key": "fan",
+          "label": "Fan",
+          "options": [
+            { "optionId": "fan_1", "label": "Fan 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/fan_1.png" },
+            { "optionId": "fan_2", "label": "Fan 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/fan_2.png" },
+            { "optionId": "fan_3", "label": "Fan 3", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/fan_3.png" },
+            { "optionId": "fan_4", "label": "Fan 4", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/fan_4.png" },
+            { "optionId": "fan_5", "label": "Fan 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/fan_5.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fashion",
+      "label": "Fashion",
+      "subcategories": [
+        {
+          "key": "costume",
+          "label": "Costume",
+          "options": [
+            { "optionId": "costume_1", "label": "Sailor 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/costume_1.png" },
+            { "optionId": "costume_2", "label": "Sailor 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/costume_2.png" },
+            { "optionId": "costume_3", "label": "Formal", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/costume_3.png" },
+            { "optionId": "costume_4", "label": "Outfit 4", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/costume_4.png" },
+            { "optionId": "costume_5", "label": "Outfit 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/japanese_girl/previews/costume_5.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "animation",
+      "label": "Animation",
+      "subcategories": [
+        {
+          "key": "animation",
+          "label": "Animation",
+          "options": [
+            { "optionId": "idel_anim_basic", "label": "Idle basic", "previewUrl": "" },
+            { "optionId": "idel_anim_offset", "label": "Idle offset", "previewUrl": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}
