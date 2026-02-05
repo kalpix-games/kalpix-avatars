@@ -3,63 +3,63 @@
   "avatarName": "Genz Boy",
   "categories": [
     {
-      "key": "face",
-      "label": "Face",
+      "key": "body",
+      "label": "Body",
       "subcategories": [
         {
-          "key": "hair",
-          "label": "Hair",
+          "key": "eyebrow",
+          "label": "eyebrow",
           "options": [
-            { "optionId": "hair_1", "label": "Style 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_1.png" },
-            { "optionId": "hair_2", "label": "Style 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_2.png" },
-            { "optionId": "hair_3", "label": "Style 3", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_3.png" },
-            { "optionId": "hair_4", "label": "Style 4", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_4.png" },
-            { "optionId": "hair_5", "label": "Style 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_5.png" },
-            { "optionId": "hair_7", "label": "Style 6", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_7.png" },
-            { "optionId": "hair_8", "label": "Style 7", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_8.png" },
-            { "optionId": "hair_9", "label": "Style 8", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_9.png" },
-            { "optionId": "hair_10", "label": "Style 9", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_10.png" },
-            { "optionId": "hair_11", "label": "Style 10", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_11.png" },
-            { "optionId": "hair_12", "label": "Style 11", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_12.png" },
-            { "optionId": "hair_13", "label": "Style 12", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_13.png" },
-            { "optionId": "hair_14", "label": "Style 13", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_14.png" },
-            { "optionId": "hair_15", "label": "Style 14", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/hair_15.png" }
+            { "optionId": "eyebrow_1", "label": "Eyebrow 1", "skinName": "eyebrow/eyebrow_1", "previewUrl": "" },
+            { "optionId": "eyebrow_2", "label": "Eyebrow 2", "skinName": "eyebrow/eyebrow_2", "previewUrl": "" },
+            { "optionId": "eyebrow_3", "label": "Eyebrow 3", "skinName": "eyebrow/eyebrow_3", "previewUrl": "" },
+            { "optionId": "eyebrow_4", "label": "Eyebrow 4", "skinName": "eyebrow/eyebrow_4", "previewUrl": "" },
+            { "optionId": "eyebrow_5", "label": "Eyebrow 5", "skinName": "eyebrow/eyebrow_5", "previewUrl": "" },
+            { "optionId": "eyebrow_6", "label": "Eyebrow 6", "skinName": "eyebrow/eyebrow_6", "previewUrl": "" },
+            { "optionId": "eyebrow_7", "label": "Eyebrow 7", "skinName": "eyebrow/eyebrow_7", "previewUrl": "" },
+            { "optionId": "eyebrow_8", "label": "Eyebrow 8", "skinName": "eyebrow/eyebrow_8", "previewUrl": "" }
           ]
         },
         {
-          "key": "eye_ball",
-          "label": "Eye ball",
+          "key": "eye_boll",
+          "label": "eye_boll",
           "options": [
-            { "optionId": "brown", "label": "Brown", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eye_brown.png" },
-            { "optionId": "blue", "label": "Blue", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eye_blue.png" },
-            { "optionId": "green", "label": "Green", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eye_green.png" },
-            { "optionId": "grey", "label": "Grey", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eye_grey.png" },
-            { "optionId": "purple", "label": "Purple", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eye_purple.png" },
-            { "optionId": "red", "label": "Red", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eye_red.png" },
-            { "optionId": "yellow", "label": "Yellow", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eye_yellow.png" }
+            { "optionId": "Eye_ball_1", "label": "Eye Ball 1", "skinName": "eye_boll/Eye_ball_1", "previewUrl": "" },
+            { "optionId": "Eye_ball_2", "label": "Eye Ball 2", "skinName": "eye_boll/Eye_ball_2", "previewUrl": "" },
+            { "optionId": "Eye_ball_3", "label": "Eye Ball 3", "skinName": "eye_boll/Eye_ball_3", "previewUrl": "" },
+            { "optionId": "Eye_ball_4", "label": "Eye Ball 4", "skinName": "eye_boll/Eye_ball_4", "previewUrl": "" },
+            { "optionId": "Eye_ball_5", "label": "Eye Ball 5", "skinName": "eye_boll/Eye_ball_5", "previewUrl": "" },
+            { "optionId": "Eye_ball_6", "label": "Eye Ball 6", "skinName": "eye_boll/Eye_ball_6", "previewUrl": "" },
+            { "optionId": "Eye_ball_7", "label": "Eye Ball 7", "skinName": "eye_boll/Eye_ball_7", "previewUrl": "" }
           ]
         },
         {
           "key": "face",
-          "label": "Face",
+          "label": "face",
           "options": [
-            { "optionId": "face_1", "label": "Style 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/face_1.png" },
-            { "optionId": "face_2", "label": "Style 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/face_2.png" },
-            { "optionId": "face_3", "label": "Style 3", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/face_3.png" }
+            { "optionId": "face_1", "label": "Face 1", "skinName": "face/face_1", "previewUrl": "" },
+            { "optionId": "face_2", "label": "Face 2", "skinName": "face/face_2", "previewUrl": "" },
+            { "optionId": "face_3", "label": "Face 3", "skinName": "face/face_3", "previewUrl": "" }
           ]
         },
         {
-          "key": "eye_brow",
-          "label": "Eye brow",
+          "key": "Hair",
+          "label": "Hair",
           "options": [
-            { "optionId": "black", "label": "Black", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_black.png" },
-            { "optionId": "black_2", "label": "Black 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_black_2.png" },
-            { "optionId": "black_3", "label": "Black 3", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_black_3.png" },
-            { "optionId": "black_4", "label": "Black 4", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_black_4.png" },
-            { "optionId": "black_5", "label": "Black 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_black_5.png" },
-            { "optionId": "blonde", "label": "Blonde", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_blonde.png" },
-            { "optionId": "blue", "label": "Blue", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_blue.png" },
-            { "optionId": "white", "label": "White", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/eyebrow_white.png" }
+            { "optionId": "Hair_1", "label": "Hair 1", "skinName": "Hair/Hair_1", "previewUrl": "" },
+            { "optionId": "Hair_3", "label": "Hair 3", "skinName": "Hair/Hair_3", "previewUrl": "" },
+            { "optionId": "hair_5", "label": "Hair 5", "skinName": "Hair/hair_5", "previewUrl": "" },
+            { "optionId": "hair_7", "label": "Hair 7", "skinName": "Hair/hair_7", "previewUrl": "" },
+            { "optionId": "hair_8", "label": "Hair 8", "skinName": "Hair/hair_8", "previewUrl": "" },
+            { "optionId": "hair_9", "label": "Hair 9", "skinName": "Hair/hair_9", "previewUrl": "" },
+            { "optionId": "hair_10", "label": "Hair 10", "skinName": "Hair/hair_10", "previewUrl": "" },
+            { "optionId": "hair_11", "label": "Hair 11", "skinName": "Hair/hair_11", "previewUrl": "" },
+            { "optionId": "hair_12", "label": "Hair 12", "skinName": "Hair/hair_12", "previewUrl": "" },
+            { "optionId": "hair_13", "label": "Hair 13", "skinName": "Hair/hair_13", "previewUrl": "" },
+            { "optionId": "hair_14", "label": "Hair 14", "skinName": "Hair/hair_14", "previewUrl": "" },
+            { "optionId": "hair_15", "label": "Hair 15", "skinName": "Hair/hair_15", "previewUrl": "" },
+            { "optionId": "hair_16", "label": "Hair 16", "skinName": "Hair/hair_16", "previewUrl": "" },
+            { "optionId": "hair_17", "label": "Hair 17", "skinName": "Hair/hair_17", "previewUrl": "" }
           ]
         }
       ]
@@ -69,22 +69,41 @@
       "label": "Fashion",
       "subcategories": [
         {
-          "key": "costume",
-          "label": "Costume",
+          "key": "Coustume",
+          "label": "Coustume",
           "options": [
-            { "optionId": "costume_1", "label": "Outfit 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/costume_1.png" },
-            { "optionId": "costume_2", "label": "Outfit 2", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/costume_2.png" },
-            { "optionId": "costume_3", "label": "Outfit 3", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/costume_3.png" },
-            { "optionId": "costume_4", "label": "Outfit 4", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/costume_4.png" },
-            { "optionId": "costume_5", "label": "Outfit 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/costume_5.png" }
+            { "optionId": "coustume_1", "label": "Costume 1", "skinName": "Coustume/coustume_1", "previewUrl": "" },
+            { "optionId": "coustume_2", "label": "Costume 2", "skinName": "Coustume/coustume_2", "previewUrl": "" },
+            { "optionId": "coustume_3", "label": "Costume 3", "skinName": "Coustume/coustume_3", "previewUrl": "" },
+            { "optionId": "coustume_4", "label": "Costume 4", "skinName": "Coustume/coustume_4", "previewUrl": "" },
+            { "optionId": "coustume_5", "label": "Costume 5", "skinName": "Coustume/coustume_5", "previewUrl": "" }
+          ]
+        },
+        {
+          "key": "shoes",
+          "label": "shoes",
+          "options": [
+            { "optionId": "shoes_1", "label": "Shoes 1", "skinName": "shoes/shoes_1", "previewUrl": "" },
+            { "optionId": "shoes_2", "label": "Shoes 2", "skinName": "shoes/shoes_2", "previewUrl": "" },
+            { "optionId": "shoes_3", "label": "Shoes 3", "skinName": "shoes/shoes_3", "previewUrl": "" },
+            { "optionId": "Shoes_4", "label": "Shoes 4", "skinName": "shoes/Shoes_4", "previewUrl": "" },
+            { "optionId": "shoes_5", "label": "Shoes 5", "skinName": "shoes/shoes_5", "previewUrl": "" }
           ]
         },
         {
           "key": "watch",
-          "label": "Watch",
+          "label": "watch",
           "options": [
-            { "optionId": "watch_1", "label": "Watch 1", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/watch_1.png" },
-            { "optionId": "watch_5", "label": "Watch 5", "previewUrl": "https://cdn.jsdelivr.net/gh/kalpix-games/kalpix-avatars@main/avatars/avatar1/previews/watch_5.png" }
+            { "optionId": "watch_1", "label": "Watch 1", "skinName": "watch/watch_1", "previewUrl": "" },
+            { "optionId": "watch_2", "label": "Watch 2", "skinName": "watch/watch_2", "previewUrl": "" },
+            { "optionId": "watch_3", "label": "Watch 3", "skinName": "watch/watch_3", "previewUrl": "" },
+            { "optionId": "watch_4", "label": "Watch 4", "skinName": "watch/watch_4", "previewUrl": "" },
+            { "optionId": "watch_5", "label": "Watch 5", "skinName": "watch/watch_5", "previewUrl": "" },
+            { "optionId": "watch_6", "label": "Watch 6", "skinName": "watch/watch_6", "previewUrl": "" },
+            { "optionId": "watch_7", "label": "Watch 7", "skinName": "watch/watch_7", "previewUrl": "" },
+            { "optionId": "watch_8", "label": "Watch 8", "skinName": "watch/watch_8", "previewUrl": "" },
+            { "optionId": "watch_9", "label": "Watch 9", "skinName": "watch/watch_9", "previewUrl": "" },
+            { "optionId": "watch_10", "label": "Watch 10", "skinName": "watch/watch_10", "previewUrl": "" }
           ]
         }
       ]
@@ -95,10 +114,11 @@
       "subcategories": [
         {
           "key": "animation",
-          "label": "Animation",
+          "label": "animation",
           "options": [
-            { "optionId": "idel_basic", "label": "Idle basic", "previewUrl": "" },
-            { "optionId": "idel_basic_offset", "label": "Idle basic offset", "previewUrl": "" }
+            { "optionId": "idel_basic", "label": "Idle Basic", "previewUrl": "" },
+            { "optionId": "idel_basic_offset", "label": "Idle Basic Offset", "previewUrl": "" },
+            { "optionId": "idel_basic_offset_v02", "label": "Idle Basic Offset V02", "previewUrl": "" }
           ]
         }
       ]
