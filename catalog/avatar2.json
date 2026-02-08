@@ -1,76 +1,208 @@
 {
-  "slug": "avatar2",
-  "avatarName": "Japanese Girl",
-  "categories": [
-    {
-      "key": "body",
-      "label": "Body",
-      "subcategories": [
-        {
-          "key": "hair",
-          "label": "hair",
-          "options": [
-            { "optionId": "hair_1", "label": "Hair 1", "skinName": "hair/hair_1", "previewUrl": "" },
-            { "optionId": "hair_2", "label": "Hair 2", "skinName": "hair/hair_2", "previewUrl": "" },
-            { "optionId": "hair_3", "label": "Hair 3", "skinName": "hair/hair_3", "previewUrl": "" },
-            { "optionId": "hair_4", "label": "Hair 4", "skinName": "hair/hair_4", "previewUrl": "" },
-            { "optionId": "hair_5", "label": "Hair 5", "skinName": "hair/hair_5", "previewUrl": "" },
-            { "optionId": "hair_6", "label": "Hair 6", "skinName": "hair/hair_6", "previewUrl": "" },
-            { "optionId": "hair_7", "label": "Hair 7", "skinName": "hair/hair_7", "previewUrl": "" },
-            { "optionId": "hair_8", "label": "Hair 8", "skinName": "hair/hair_8", "previewUrl": "" },
-            { "optionId": "hair_9", "label": "Hair 9", "skinName": "hair/hair_9", "previewUrl": "" }
-          ]
-        },
-        {
-          "key": "lip",
-          "label": "lip",
-          "options": [
-            { "optionId": "lip_1", "label": "Lip 1", "skinName": "lip/lip_1", "previewUrl": "" },
-            { "optionId": "lip_2", "label": "Lip 2", "skinName": "lip/lip_2", "previewUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "fashion",
-      "label": "Fashion",
-      "subcategories": [
-        {
-          "key": "coustume",
-          "label": "coustume",
-          "options": [
-            { "optionId": "costume_1", "label": "Sailor 1", "skinName": "coustume/costume_1", "previewUrl": "" },
-            { "optionId": "costume_2", "label": "Sailor 2", "skinName": "coustume/costume_2", "previewUrl": "" },
-            { "optionId": "costume_3", "label": "Formal", "skinName": "coustume/costume_3", "previewUrl": "" },
-            { "optionId": "costume_4", "label": "Outfit 4", "skinName": "coustume/costume_4", "previewUrl": "" },
-            { "optionId": "costume_5", "label": "Outfit 5", "skinName": "coustume/costume_5", "previewUrl": "" }
-          ]
-        },
-        {
-          "key": "fan",
-          "label": "fan",
-          "options": [
-            { "optionId": "fan_1", "label": "Fan 1", "skinName": "fan/fan_1", "previewUrl": "" },
-            { "optionId": "fan_2", "label": "Fan 2", "skinName": "fan/fan_2", "previewUrl": "" },
-            { "optionId": "fan_3", "label": "Fan 3", "skinName": "fan/fan_3", "previewUrl": "" },
-            { "optionId": "fan_4", "label": "Fan 4", "skinName": "fan/fan_4", "previewUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "animation",
-      "label": "Animation",
-      "subcategories": [
-        {
-          "key": "animation",
-          "label": "animation",
-          "options": [
-            { "optionId": "idel_anim_basic", "label": "Idle Basic", "previewUrl": "" },
-            { "optionId": "idel_anim_offset", "label": "Idle Offset", "previewUrl": "" }
-          ]
-        }
-      ]
-    }
-  ]
+	"slug": "avatar2",
+	"avatarName": "Japanese Girl",
+	"categories": [
+		{
+			"key": "body",
+			"label": "Body",
+			"subcategories": [
+				{
+					"key": "hair",
+					"label": "Hair",
+					"options": [
+						{
+							"optionId": "hair_1",
+							"label": "Hair 1",
+							"skinName": "hair/hair_1",
+							"previewUrl": "catalog/avatar2/hair/1.png"
+						},
+						{
+							"optionId": "hair_2",
+							"label": "Hair 2",
+							"skinName": "hair/hair_2",
+							"previewUrl": "catalog/avatar2/hair/2.png"
+						},
+						{
+							"optionId": "hair_3",
+							"label": "Hair 3",
+							"skinName": "hair/hair_3",
+							"previewUrl": "catalog/avatar2/hair/3.png"
+						},
+						{
+							"optionId": "hair_4",
+							"label": "Hair 4",
+							"skinName": "hair/hair_4",
+							"previewUrl": "catalog/avatar2/hair/4.png"
+						},
+						{
+							"optionId": "hair_5",
+							"label": "Hair 5",
+							"skinName": "hair/hair_5",
+							"previewUrl": "catalog/avatar2/hair/5.png"
+						},
+						{
+							"optionId": "hair_6",
+							"label": "Hair 6",
+							"skinName": "hair/hair_6",
+							"previewUrl": "catalog/avatar2/hair/6.png"
+						},
+						{
+							"optionId": "hair_7",
+							"label": "Hair 7",
+							"skinName": "hair/hair_7",
+							"previewUrl": "catalog/avatar2/hair/7.png"
+						},
+						{
+							"optionId": "hair_8",
+							"label": "Hair 8",
+							"skinName": "hair/hair_8",
+							"previewUrl": "catalog/avatar2/hair/8.png"
+						},
+						{
+							"optionId": "hair_9",
+							"label": "Hair 9",
+							"skinName": "hair/hair_9",
+							"previewUrl": "catalog/avatar2/hair/9.png"
+						}
+					]
+				},
+				{
+					"key": "lips",
+					"label": "lips",
+					"options": [
+						{
+							"optionId": "lips_1",
+							"label": "lips 1",
+							"skinName": "lips/lips_1",
+							"previewUrl": "catalog/avatar2/lips/1.png"
+						},
+						{
+							"optionId": "lips_2",
+							"label": "lips 2",
+							"skinName": "lips/lips_2",
+							"previewUrl": "catalog/avatar2/lips/2.png"
+						},
+						{
+							"optionId": "lips_3",
+							"label": "lips 3",
+							"skinName": "lips/lips_3",
+							"previewUrl": "catalog/avatar2/lips/3.png"
+						},
+						{
+							"optionId": "lips_4",
+							"label": "lips 4",
+							"skinName": "lips/lips_4",
+							"previewUrl": "catalog/avatar2/lips/4.png"
+						},
+						{
+							"optionId": "lips_5",
+							"label": "lips 5",
+							"skinName": "lips/lips_5",
+							"previewUrl": "catalog/avatar2/lips/5.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "fashion",
+			"label": "Fashion",
+			"subcategories": [
+				{
+					"key": "dress",
+					"label": "Dress",
+					"options": [
+						{
+							"optionId": "dress_1",
+							"label": "Dress 1",
+							"skinName": "dress/dress_1",
+							"previewUrl": "catalog/avatar2/dress/1.png"
+						},
+						{
+							"optionId": "dress_2",
+							"label": "Dress 2",
+							"skinName": "dress/dress_2",
+							"previewUrl": "catalog/avatar2/dress/2.png"
+						},
+						{
+							"optionId": "dress_3",
+							"label": "Dress 3",
+							"skinName": "dress/dress_3",
+							"previewUrl": "catalog/avatar2/dress/3.png"
+						},
+						{
+							"optionId": "dress_4",
+							"label": "Outfit 4",
+							"skinName": "dress/dress_4",
+							"previewUrl": "catalog/avatar2/dress/4.png"
+						},
+						{
+							"optionId": "dress_5",
+							"label": "Outfit 5",
+							"skinName": "dress/dress_5",
+							"previewUrl": "catalog/avatar2/dress/5.png"
+						}
+					]
+				},
+				{
+					"key": "fan",
+					"label": "Fan",
+					"options": [
+						{
+							"optionId": "fan_1",
+							"label": "Fan 1",
+							"skinName": "fan/fan_1",
+							"previewUrl": "catalog/avatar2/fan/1.png"
+						},
+						{
+							"optionId": "fan_2",
+							"label": "Fan 2",
+							"skinName": "fan/fan_2",
+							"previewUrl": "catalog/avatar2/fan/2.png"
+						},
+						{
+							"optionId": "fan_3",
+							"label": "Fan 3",
+							"skinName": "fan/fan_3",
+							"previewUrl": "catalog/avatar2/fan/3.png"
+						},
+						{
+							"optionId": "fan_4",
+							"label": "Fan 4",
+							"skinName": "fan/fan_4",
+							"previewUrl": "catalog/avatar2/fan/4.png"
+						},
+						{
+							"optionId": "fan_5",
+							"label": "Fan 5",
+							"skinName": "fan/fan_5",
+							"previewUrl": "catalog/avatar2/fan/5.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "animation",
+			"label": "Animation",
+			"subcategories": [
+				{
+					"key": "animation",
+					"label": "animation",
+					"options": [
+						{
+							"optionId": "idel_anim_basic",
+							"label": "Idle Basic",
+							"previewUrl": ""
+						},
+						{
+							"optionId": "idel_anim_offset",
+							"label": "Idle Offset",
+							"previewUrl": ""
+						}
+					]
+				}
+			]
+		}
+	]
 }

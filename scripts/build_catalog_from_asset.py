@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 Build catalog JSON from Spine asset JSON (skins + animations).
-- Uses exact names from asset (e.g. Coustume, eye_boll, Hair). No normalizing.
+- Uses exact names from asset (e.g. dress, eyes, Hair). No normalizing.
 - Top categories: body, fashion, animation.
-  - body: eyebrow, eye_boll, face, Hair, hair, lip
-  - fashion: Coustume, costume, coustume, shoes, watch, fan
+  - body: eyebrow, eyes, face, Hair, hair, lips
+  - fashion: dress, costume, dress, shoes, watch, fan
   - animation: animation names from animations object
 - Excludes "default". Output: catalog/<slug>.json
 """
@@ -16,7 +16,7 @@ from pathlib import Path
 
 
 def humanize(s: str) -> str:
-    """Title-case for labels (e.g. costume_1 -> Costume 1). Does not change subcategory keys."""
+    """Title-case for labels (e.g. dress_1 -> Dress 1). Does not change subcategory keys."""
     if not s:
         return s
     s = s.replace("_", " ")
@@ -26,9 +26,9 @@ def humanize(s: str) -> str:
 def top_category(sub_key: str) -> str:
     """Map subcategory name (exact from asset) to top category: body, fashion, animation."""
     lower = sub_key.lower()
-    if lower in ("coustume", "costume", "shoes", "watch", "fan"):
+    if lower in ("dress", "costume", "shoes", "watch", "fan"):
         return "fashion"
-    if lower in ("eyebrow", "eye_boll", "face", "hair", "lip"):
+    if lower in ("eyebrow", "eyes", "face", "hair", "lips"):
         return "body"
     if lower == "animation":
         return "animation"
@@ -43,7 +43,7 @@ def build_catalog(asset_path: Path, slug: str, avatar_name: str, cdn_base: str) 
         print(f"Failed to load {asset_path}: {e}", file=sys.stderr)
         raise
 
-    # Subcategory key exact from asset (e.g. Coustume, eye_boll) -> list of optionIds
+    # Subcategory key exact from asset (e.g. dress, eyes) -> list of optionIds
     subcategory_options: dict[str, list[str]] = {}
 
     for skin in data.get("skins", []):
@@ -67,8 +67,8 @@ def build_catalog(asset_path: Path, slug: str, avatar_name: str, cdn_base: str) 
             subcategory_options["animation"] = sorted(anim_opts)
 
     # Group by top category (exact subcategory key from asset)
-    body_order = ["eyebrow", "eye_boll", "face", "Hair", "hair", "lip"]
-    fashion_order = ["Coustume", "costume", "coustume", "shoes", "watch", "fan"]
+    body_order = ["eyebrow", "eyes", "face", "Hair", "hair", "lips"]
+    fashion_order = ["dress", "costume", "dress", "shoes", "watch", "fan"]
 
     def build_subcategory_list(sub_keys_order, all_subs, is_animation=False):
         seen = set()

@@ -42,337 +42,337 @@ costume 3_fan_3
 bounds:251,2,207,231
 costume 3_fan_4
 bounds:2256,640,233,220
-costume_4
+dress_4
 bounds:508,1457,341,542
 rotate:90
-costume_4_fan_1
+dress_4_fan_1
 bounds:1483,1155,261,321
-costume_4_fan_2
+dress_4_fan_2
 bounds:3656,487,224,106
-costume_4_fan_3
+dress_4_fan_3
 bounds:2,2,251,247
 rotate:90
-costume_4_fan_4
+dress_4_fan_4
 bounds:1447,128,245,219
-costume_5
+dress_5
 bounds:1580,1478,320,488
 rotate:90
-costume_5_fan_1
+dress_5_fan_1
 bounds:1746,1155,261,321
-costume_5_fan_2
+dress_5_fan_2
 bounds:2432,5,225,108
-costume_5_fan_3
+dress_5_fan_3
 bounds:1052,44,251,247
 offsets:1,0,253,247
 rotate:90
-costume_5_fan_4
+dress_5_fan_4
 bounds:1457,349,247,215
-coustume_1
+dress_1
 bounds:2560,1479,319,450
 rotate:90
-coustume_1_left_hand_down_1
+dress_1_left_hand_down_1
 bounds:2227,376,130,248
 rotate:90
-coustume_1_left_hand_up_1
+dress_1_left_hand_up_1
 bounds:2855,814,120,303
 offsets:0,88,120,391
 rotate:90
-coustume_1_left_leg_ shoe_1
+dress_1_left_leg_ shoe_1
 bounds:3416,387,143,193
 rotate:90
-coustume_1_left_leg_ shoe_2
+dress_1_left_leg_ shoe_2
 bounds:3892,560,90,167
-coustume_1_left_leg_down_1
+dress_1_left_leg_down_1
 bounds:2560,1151,210,346
 rotate:90
-coustume_1_left_leg_down_2
+dress_1_left_leg_down_2
 bounds:1447,2,219,124
-coustume_1_left_leg_up_1
+dress_1_left_leg_up_1
 bounds:3509,1025,158,337
 rotate:90
-coustume_1_left_leg_up_2
+dress_1_left_leg_up_2
 bounds:484,817,170,433
 offsets:7,11,177,444
 rotate:90
-coustume_1_right hand up_1
+dress_1_right hand up_1
 bounds:1706,328,212,148
 rotate:90
-coustume_1_right hand up_2
+dress_1_right hand up_2
 bounds:1707,542,144,236
-coustume_4_right hand up_2
+dress_4_right hand up_2
 bounds:1707,542,144,236
-coustume_1_right hand up_3
+dress_1_right hand up_3
 bounds:1694,130,211,196
 offsets:0,44,255,240
-coustume_1_right_hand_down_1
+dress_1_right_hand_down_1
 bounds:2432,227,127,225
 offsets:0,0,127,231
 rotate:90
-coustume_1_right_hand_down_2
+dress_1_right_hand_down_2
 bounds:919,817,234,174
-coustume_1_right_hand_down_3
+dress_1_right_hand_down_3
 bounds:2659,233,116,162
 rotate:90
-coustume_1_right_hand_down_4
+dress_1_right_hand_down_4
 bounds:2377,879,170,140
 offsets:0,22,182,162
-coustume_1_right_hand_down_back_part_1
+dress_1_right_hand_down_back_part_1
 bounds:999,1405,50,51
 rotate:90
-coustume_1_right_leg_ up
+dress_1_right_leg_ up
 bounds:1483,1005,148,368
 offsets:7,0,155,368
 rotate:90
-coustume_1_right_leg_down
+dress_1_right_leg_down
 bounds:2560,1363,114,447
 rotate:90
-coustume_1_right_leg_shoe
+dress_1_right_leg_shoe
 bounds:3245,424,169,165
-coustume_1_tie
+dress_1_tie
 bounds:2987,3,94,130
-coustume_2
+dress_2
 bounds:2070,1416,382,488
 rotate:90
-coustume_2_left leg bow
+dress_2_left leg bow
 bounds:3611,385,100,185
 rotate:90
-coustume_2_left_hand_down_2
+dress_2_left_hand_down_2
 bounds:3185,950,160,288
 offsets:0,4,160,292
 rotate:90
-coustume_2_left_hand_up_2
+dress_2_left_hand_up_2
 bounds:2549,851,138,304
 rotate:90
-coustume_2_left_leg_ shoe_1
+dress_2_left_leg_ shoe_1
 bounds:3848,1028,120,178
-coustume_2_left_leg_ shoe_2
+dress_2_left_leg_ shoe_2
 bounds:3892,1513,91,126
-coustume_2_left_leg_bow_1
+dress_2_left_leg_bow_1
 bounds:302,828,65,161
 rotate:90
-coustume_2_left_leg_bow_2
+dress_2_left_leg_bow_2
 bounds:2828,43,87,157
 rotate:90
-coustume_2_left_leg_down_1
+dress_2_left_leg_down_1
 bounds:3509,1185,195,335
 rotate:90
-coustume_2_left_leg_down_2
+dress_2_left_leg_down_2
 bounds:1736,783,220,115
 rotate:90
-coustume_2_left_leg_up_1
+dress_2_left_leg_up_1
 bounds:2009,1013,187,324
 offsets:8,0,221,324
 rotate:90
-coustume_2_left_leg_up_2
+dress_2_left_leg_up_2
 bounds:2874,936,213,309
 rotate:90
-coustume_2_right hand up_1
+dress_2_right hand up_1
 bounds:3792,843,180,191
 rotate:90
-coustume_2_right hand up_2
+dress_2_right hand up_2
 bounds:2728,615,119,234
-coustume_2_right hand up_3
+dress_2_right hand up_3
 bounds:2230,181,200,193
-coustume_2_right_hand_down_1
+dress_2_right_hand_down_1
 bounds:3452,745,156,256
 rotate:90
-coustume_2_right_hand_down_2
+dress_2_right_hand_down_2
 bounds:1229,822,252,217
-coustume_2_right_hand_down_3
+dress_2_right_hand_down_3
 bounds:3846,1208,137,172
-coustume_2_right_hand_down_4
+dress_2_right_hand_down_4
 bounds:3597,235,171,148
 offsets:1,1,174,152
-coustume_2_right_hand_down_back_part_1
+dress_2_right_hand_down_back_part_1
 bounds:3710,847,80,54
-coustume_2_right_hand_down_back_part_2
+dress_2_right_hand_down_back_part_2
 bounds:3512,42,65,80
-coustume_2_right_hand_down_back_part_3
+dress_2_right_hand_down_back_part_3
 bounds:2009,1416,60,45
 rotate:90
-coustume_2_right_hand_down_back_part_4
+dress_2_right_hand_down_back_part_4
 bounds:1155,817,46,57
 offsets:1,1,48,59
-coustume_2_right_leg_ up
+dress_2_right_leg_ up
 bounds:2549,991,158,323
 rotate:90
-coustume_2_right_leg_down
+dress_2_right_leg_down
 bounds:1052,1365,125,429
 offsets:0,0,129,429
 rotate:90
-coustume_2_right_leg_shoe
+dress_2_right_leg_shoe
 bounds:3052,144,121,155
 rotate:90
-coustume_2_tie
+dress_2_tie
 bounds:2828,132,147,139
-coustume_3
+dress_3
 bounds:2,789,298,588
 offsets:0,44,298,632
-coustume_3_left_hand_down_2
+dress_3_left_hand_down_2
 bounds:1981,546,103,251
 rotate:90
-coustume_3_left_hand_plam
+dress_3_left_hand_plam
 bounds:3715,27,114,122
-coustume_3_left_hand_up_2
+dress_3_left_hand_up_2
 bounds:3185,836,112,265
 rotate:90
-coustume_3_left_leg_ shoe_1
+dress_3_left_leg_ shoe_1
 bounds:1668,2,124,171
 rotate:90
-coustume_3_left_leg_ shoe_2
+dress_3_left_leg_ shoe_2
 bounds:3369,44,78,141
 offsets:0,0,78,157
 rotate:90
-coustume_3_left_leg_down_1
+dress_3_left_leg_down_1
 bounds:2009,1202,212,350
 offsets:0,0,224,350
 rotate:90
-coustume_3_left_leg_down_2
+dress_3_left_leg_down_2
 bounds:2007,2,202,123
-coustume_3_left_leg_up_1
+dress_3_left_leg_up_1
 bounds:508,1293,162,489
 rotate:90
-coustume_3_left_leg_up_2
+dress_3_left_leg_up_2
 bounds:2,255,184,532
-coustume_3_right hand up_1
+dress_3_right hand up_1
 bounds:1853,910,243,154
 rotate:90
-coustume_3_right hand up_2
+dress_3_right hand up_2
 bounds:3186,591,167,243
-coustume_3_right hand up_3
+dress_3_right hand up_3
 bounds:2361,1181,233,197
 offsets:4,0,237,197
 rotate:90
-coustume_3_right_hand_down_1
+dress_3_right_hand_down_1
 bounds:2834,273,97,218
 rotate:90
-coustume_3_right_hand_down_2
+dress_3_right_hand_down_2
 bounds:1907,130,196,146
 rotate:90
-coustume_3_right_hand_down_3
+dress_3_right_hand_down_3
 bounds:3892,1641,91,157
-coustume_3_right_hand_down_4
+dress_3_right_hand_down_4
 bounds:3083,44,143,98
 offsets:1,1,148,100
-coustume_3_right_hand_plam_1
+dress_3_right_hand_plam_1
 bounds:3892,1398,83,113
-coustume_3_right_hand_plam_2
+dress_3_right_hand_plam_2
 bounds:3597,151,82,136
 offsets:0,0,83,136
 rotate:90
-coustume_3_right_hand_plam_3
+dress_3_right_hand_plam_3
 bounds:2352,36,143,78
 offsets:0,5,143,83
 rotate:90
-coustume_3_right_hand_plam_3_othres_fingers
+dress_3_right_hand_plam_3_othres_fingers
 bounds:3928,321,54,44
 rotate:90
-coustume_3_right_hand_plam_4
+dress_3_right_hand_plam_4
 bounds:3228,49,93,139
 offsets:0,0,93,140
 rotate:90
-coustume_3_right_hand_plam_4_othres_fingers
+dress_3_right_hand_plam_4_othres_fingers
 bounds:3185,1112,48,37
 offsets:10,2,60,41
-coustume_3_right_hand_plam_5
+dress_3_right_hand_plam_5
 bounds:3831,44,123,87
 offsets:2,2,126,90
 rotate:90
-coustume_3_right_leg_ up
+dress_3_right_leg_ up
 bounds:302,895,180,482
-coustume_3_right_leg_down
+dress_3_right_leg_down
 bounds:3458,1382,111,415
 rotate:90
-coustume_3_right_leg_shoe
+dress_3_right_leg_shoe
 bounds:1841,2,126,164
 rotate:90
-coustume_4_left_hand_down_2
+dress_4_left_hand_down_2
 bounds:2477,356,130,248
 offsets:0,8,130,256
 rotate:90
-coustume_4_left_hand_up_2
+dress_4_left_hand_up_2
 bounds:3475,903,120,315
 offsets:0,89,120,404
 rotate:90
-coustume_4_left_leg_down_1
+dress_4_left_leg_down_1
 bounds:2908,1151,208,344
 offsets:1,1,210,346
 rotate:90
-coustume_4_right hand up_1
+dress_4_right hand up_1
 bounds:1856,328,212,146
 offsets:0,2,212,148
 rotate:90
-coustume_4_right hand up_3
+dress_4_right hand up_3
 bounds:2491,631,235,218
 offsets:0,22,255,240
-coustume_4_right_hand_down_1
+dress_4_right_hand_down_1
 bounds:2490,488,141,226
 rotate:90
-coustume_4_right_hand_down_2
+dress_4_right_hand_down_2
 bounds:1277,350,232,178
 rotate:90
-coustume_4_right_hand_down_3
+dress_4_right_hand_down_3
 bounds:2230,2,120,177
 offsets:0,9,120,186
-coustume_4_right_hand_down_4
+dress_4_right_hand_down_4
 bounds:1853,542,161,126
 offsets:2,1,182,128
 rotate:90
-coustume_4_right_leg_ up
+dress_4_right_leg_ up
 bounds:2009,862,149,366
 offsets:4,1,155,368
 rotate:90
-coustume_4_right_leg_down
+dress_4_right_leg_down
 bounds:3009,1361,111,445
 offsets:1,1,114,447
 rotate:90
-coustume_4_right_leg_shoe
+dress_4_right_leg_shoe
 bounds:3246,260,165,162
 offsets:2,2,169,165
-coustume_4_tie
+dress_4_tie
 bounds:3579,53,134,96
-coustume_5_left_hand_down_2
+dress_5_left_hand_down_2
 bounds:2234,508,130,254
 rotate:90
-coustume_5_left_hand_up_2
+dress_5_left_hand_up_2
 bounds:883,993,114,298
-coustume_5_right hand up_1
+dress_5_right hand up_1
 bounds:2335,1021,212,158
-coustume_5_right hand up_2
+dress_5_right hand up_2
 bounds:3420,599,144,254
 rotate:90
-coustume_5_right hand up_3
+dress_5_right hand up_3
 bounds:2004,363,181,221
 offsets:0,0,181,222
 rotate:90
-coustume_5_right_hand_down_1
+dress_5_right_hand_down_1
 bounds:3676,595,132,214
 rotate:90
-coustume_5_right_hand_down_2
+dress_5_right_hand_down_2
 bounds:695,2,227,174
 rotate:90
-coustume_5_right_hand_down_3
+dress_5_right_hand_down_3
 bounds:3770,253,116,156
 rotate:90
-coustume_5_right_hand_down_4
+dress_5_right_hand_down_4
 bounds:2660,104,166,127
-coustume_5_right_hand_down_back_part_1
+dress_5_right_hand_down_back_part_1
 bounds:3928,269,50,47
 offsets:1,2,52,56
 rotate:90
-coustume_5_tie
+dress_5_tie
 bounds:2718,490,119,123
 offsets:0,8,128,131
-coustume_skirt_1
+dress_skirt_1
 bounds:3458,1495,432,303
-coustume_skirt_2
+dress_skirt_2
 bounds:1052,1492,526,306
-coustume_skirt_3
+dress_skirt_3
 bounds:3012,1474,444,324
 offsets:2,10,447,352
-coustume_skirt_4
+dress_skirt_4
 bounds:335,514,397,301
-coustume_skirt_5
+dress_skirt_5
 bounds:484,989,397,302
 face
 bounds:3054,267,151,190
@@ -445,7 +445,7 @@ bounds:997,501,49,28
 rotate:90
 left_eye_closed_2
 bounds:3909,377,46,36
-left_eyeball
+left_eyes
 bounds:2855,973,17,16
 mouth_closed_1
 bounds:1204,552,44,30
@@ -497,7 +497,7 @@ rotate:90
 right_eye_white
 bounds:1268,7,35,31
 rotate:90
-right_eyeball
+right_eyes
 bounds:2211,109,17,16
 right_hand_plam_1
 bounds:1301,2,81,119

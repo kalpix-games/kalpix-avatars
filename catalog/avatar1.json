@@ -1,127 +1,399 @@
 {
-  "slug": "avatar1",
-  "avatarName": "Genz Boy",
-  "categories": [
-    {
-      "key": "body",
-      "label": "Body",
-      "subcategories": [
-        {
-          "key": "eyebrow",
-          "label": "eyebrow",
-          "options": [
-            { "optionId": "eyebrow_1", "label": "Eyebrow 1", "skinName": "eyebrow/eyebrow_1", "previewUrl": "" },
-            { "optionId": "eyebrow_2", "label": "Eyebrow 2", "skinName": "eyebrow/eyebrow_2", "previewUrl": "" },
-            { "optionId": "eyebrow_3", "label": "Eyebrow 3", "skinName": "eyebrow/eyebrow_3", "previewUrl": "" },
-            { "optionId": "eyebrow_4", "label": "Eyebrow 4", "skinName": "eyebrow/eyebrow_4", "previewUrl": "" },
-            { "optionId": "eyebrow_5", "label": "Eyebrow 5", "skinName": "eyebrow/eyebrow_5", "previewUrl": "" },
-            { "optionId": "eyebrow_6", "label": "Eyebrow 6", "skinName": "eyebrow/eyebrow_6", "previewUrl": "" },
-            { "optionId": "eyebrow_7", "label": "Eyebrow 7", "skinName": "eyebrow/eyebrow_7", "previewUrl": "" },
-            { "optionId": "eyebrow_8", "label": "Eyebrow 8", "skinName": "eyebrow/eyebrow_8", "previewUrl": "" }
-          ]
-        },
-        {
-          "key": "eye_boll",
-          "label": "eye_boll",
-          "options": [
-            { "optionId": "Eye_ball_1", "label": "Eye Ball 1", "skinName": "eye_boll/Eye_ball_1", "previewUrl": "" },
-            { "optionId": "Eye_ball_2", "label": "Eye Ball 2", "skinName": "eye_boll/Eye_ball_2", "previewUrl": "" },
-            { "optionId": "Eye_ball_3", "label": "Eye Ball 3", "skinName": "eye_boll/Eye_ball_3", "previewUrl": "" },
-            { "optionId": "Eye_ball_4", "label": "Eye Ball 4", "skinName": "eye_boll/Eye_ball_4", "previewUrl": "" },
-            { "optionId": "Eye_ball_5", "label": "Eye Ball 5", "skinName": "eye_boll/Eye_ball_5", "previewUrl": "" },
-            { "optionId": "Eye_ball_6", "label": "Eye Ball 6", "skinName": "eye_boll/Eye_ball_6", "previewUrl": "" },
-            { "optionId": "Eye_ball_7", "label": "Eye Ball 7", "skinName": "eye_boll/Eye_ball_7", "previewUrl": "" }
-          ]
-        },
-        {
-          "key": "face",
-          "label": "face",
-          "options": [
-            { "optionId": "face_1", "label": "Face 1", "skinName": "face/face_1", "previewUrl": "" },
-            { "optionId": "face_2", "label": "Face 2", "skinName": "face/face_2", "previewUrl": "" },
-            { "optionId": "face_3", "label": "Face 3", "skinName": "face/face_3", "previewUrl": "" }
-          ]
-        },
-        {
-          "key": "Hair",
-          "label": "Hair",
-          "options": [
-            { "optionId": "Hair_1", "label": "Hair 1", "skinName": "Hair/Hair_1", "previewUrl": "" },
-            { "optionId": "Hair_3", "label": "Hair 3", "skinName": "Hair/Hair_3", "previewUrl": "" },
-            { "optionId": "hair_5", "label": "Hair 5", "skinName": "Hair/hair_5", "previewUrl": "" },
-            { "optionId": "hair_7", "label": "Hair 7", "skinName": "Hair/hair_7", "previewUrl": "" },
-            { "optionId": "hair_8", "label": "Hair 8", "skinName": "Hair/hair_8", "previewUrl": "" },
-            { "optionId": "hair_9", "label": "Hair 9", "skinName": "Hair/hair_9", "previewUrl": "" },
-            { "optionId": "hair_10", "label": "Hair 10", "skinName": "Hair/hair_10", "previewUrl": "" },
-            { "optionId": "hair_11", "label": "Hair 11", "skinName": "Hair/hair_11", "previewUrl": "" },
-            { "optionId": "hair_12", "label": "Hair 12", "skinName": "Hair/hair_12", "previewUrl": "" },
-            { "optionId": "hair_13", "label": "Hair 13", "skinName": "Hair/hair_13", "previewUrl": "" },
-            { "optionId": "hair_14", "label": "Hair 14", "skinName": "Hair/hair_14", "previewUrl": "" },
-            { "optionId": "hair_15", "label": "Hair 15", "skinName": "Hair/hair_15", "previewUrl": "" },
-            { "optionId": "hair_16", "label": "Hair 16", "skinName": "Hair/hair_16", "previewUrl": "" },
-            { "optionId": "hair_17", "label": "Hair 17", "skinName": "Hair/hair_17", "previewUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "fashion",
-      "label": "Fashion",
-      "subcategories": [
-        {
-          "key": "Coustume",
-          "label": "Coustume",
-          "options": [
-            { "optionId": "coustume_1", "label": "Costume 1", "skinName": "Coustume/coustume_1", "previewUrl": "" },
-            { "optionId": "coustume_2", "label": "Costume 2", "skinName": "Coustume/coustume_2", "previewUrl": "" },
-            { "optionId": "coustume_3", "label": "Costume 3", "skinName": "Coustume/coustume_3", "previewUrl": "" },
-            { "optionId": "coustume_4", "label": "Costume 4", "skinName": "Coustume/coustume_4", "previewUrl": "" },
-            { "optionId": "coustume_5", "label": "Costume 5", "skinName": "Coustume/coustume_5", "previewUrl": "" }
-          ]
-        },
-        {
-          "key": "shoes",
-          "label": "shoes",
-          "options": [
-            { "optionId": "shoes_1", "label": "Shoes 1", "skinName": "shoes/shoes_1", "previewUrl": "" },
-            { "optionId": "shoes_2", "label": "Shoes 2", "skinName": "shoes/shoes_2", "previewUrl": "" },
-            { "optionId": "shoes_3", "label": "Shoes 3", "skinName": "shoes/shoes_3", "previewUrl": "" },
-            { "optionId": "Shoes_4", "label": "Shoes 4", "skinName": "shoes/Shoes_4", "previewUrl": "" },
-            { "optionId": "shoes_5", "label": "Shoes 5", "skinName": "shoes/shoes_5", "previewUrl": "" }
-          ]
-        },
-        {
-          "key": "watch",
-          "label": "watch",
-          "options": [
-            { "optionId": "watch_1", "label": "Watch 1", "skinName": "watch/watch_1", "previewUrl": "" },
-            { "optionId": "watch_2", "label": "Watch 2", "skinName": "watch/watch_2", "previewUrl": "" },
-            { "optionId": "watch_3", "label": "Watch 3", "skinName": "watch/watch_3", "previewUrl": "" },
-            { "optionId": "watch_4", "label": "Watch 4", "skinName": "watch/watch_4", "previewUrl": "" },
-            { "optionId": "watch_5", "label": "Watch 5", "skinName": "watch/watch_5", "previewUrl": "" },
-            { "optionId": "watch_6", "label": "Watch 6", "skinName": "watch/watch_6", "previewUrl": "" },
-            { "optionId": "watch_7", "label": "Watch 7", "skinName": "watch/watch_7", "previewUrl": "" },
-            { "optionId": "watch_8", "label": "Watch 8", "skinName": "watch/watch_8", "previewUrl": "" },
-            { "optionId": "watch_9", "label": "Watch 9", "skinName": "watch/watch_9", "previewUrl": "" },
-            { "optionId": "watch_10", "label": "Watch 10", "skinName": "watch/watch_10", "previewUrl": "" }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "animation",
-      "label": "Animation",
-      "subcategories": [
-        {
-          "key": "animation",
-          "label": "animation",
-          "options": [
-            { "optionId": "idel_basic", "label": "Idle Basic", "previewUrl": "" },
-            { "optionId": "idel_basic_offset", "label": "Idle Basic Offset", "previewUrl": "" },
-            { "optionId": "idel_basic_offset_v02", "label": "Idle Basic Offset V02", "previewUrl": "" }
-          ]
-        }
-      ]
-    }
-  ]
+	"slug": "avatar1",
+	"avatarName": "Genz Boy",
+	"categories": [
+		{
+			"key": "body",
+			"label": "Body",
+			"subcategories": [
+				{
+					"key": "eyebrow",
+					"label": "eyebrow",
+					"options": [
+						{
+							"optionId": "eyebrow_1",
+							"label": "Eyebrow 1",
+							"skinName": "eyebrow/eyebrow_1",
+							"previewUrl": "catalog/avatar1/eyebrow/1.webp"
+						},
+						{
+							"optionId": "eyebrow_2",
+							"label": "Eyebrow 2",
+							"skinName": "eyebrow/eyebrow_2",
+							"previewUrl": "catalog/avatar1/eyebrow/2.webp"
+						},
+						{
+							"optionId": "eyebrow_3",
+							"label": "Eyebrow 3",
+							"skinName": "eyebrow/eyebrow_3",
+							"previewUrl": "catalog/avatar1/eyebrow/3.webp"
+						},
+						{
+							"optionId": "eyebrow_4",
+							"label": "Eyebrow 4",
+							"skinName": "eyebrow/eyebrow_4",
+							"previewUrl": "catalog/avatar1/eyebrow/4.webp"
+						},
+						{
+							"optionId": "eyebrow_5",
+							"label": "Eyebrow 5",
+							"skinName": "eyebrow/eyebrow_5",
+							"previewUrl": "catalog/avatar1/eyebrow/5.webp"
+						},
+						{
+							"optionId": "eyebrow_6",
+							"label": "Eyebrow 6",
+							"skinName": "eyebrow/eyebrow_6",
+							"previewUrl": "catalog/avatar1/eyebrow/6.webp"
+						},
+						{
+							"optionId": "eyebrow_7",
+							"label": "Eyebrow 7",
+							"skinName": "eyebrow/eyebrow_7",
+							"previewUrl": "catalog/avatar1/eyebrow/7.webp"
+						},
+						{
+							"optionId": "eyebrow_8",
+							"label": "Eyebrow 8",
+							"skinName": "eyebrow/eyebrow_8",
+							"previewUrl": "catalog/avatar1/eyebrow/8.webp"
+						}
+					]
+				},
+				{
+					"key": "eyes",
+					"label": "eyes",
+					"options": [
+						{
+							"optionId": "eyes_1",
+							"label": "Eyes 1",
+							"skinName": "eyes/eyes_1",
+							"previewUrl": "catalog/avatar1/eyes/1.webp"
+						},
+						{
+							"optionId": "eyes_2",
+							"label": "Eyes 2",
+							"skinName": "eyes/eyes_2",
+							"previewUrl": "catalog/avatar1/eyes/2.webp"
+						},
+						{
+							"optionId": "eyes_3",
+							"label": "Eyes 3",
+							"skinName": "eyes/eyes_3",
+							"previewUrl": "catalog/avatar1/eyes/3.webp"
+						},
+						{
+							"optionId": "eyes_4",
+							"label": "Eyes 4",
+							"skinName": "eyes/eyes_4",
+							"previewUrl": "catalog/avatar1/eyes/4.webp"
+						},
+						{
+							"optionId": "eyes_5",
+							"label": "Eyes 5",
+							"skinName": "eyes/eyes_5",
+							"previewUrl": "catalog/avatar1/eyes/5.webp"
+						},
+						{
+							"optionId": "eyes_6",
+							"label": "Eyes 6",
+							"skinName": "eyes/eyes_6",
+							"previewUrl": "catalog/avatar1/eyes/6.webp"
+						},
+						{
+							"optionId": "eyes_7",
+							"label": "Eyes 7",
+							"skinName": "eyes/eyes_7",
+							"previewUrl": "catalog/avatar1/eyes/7.webp"
+						}
+					]
+				},
+				{
+					"key": "face",
+					"label": "face",
+					"options": [
+						{
+							"optionId": "face_1",
+							"label": "Face 1",
+							"skinName": "face/face_1",
+							"previewUrl": "catalog/avatar1/face/1.webp"
+						},
+						{
+							"optionId": "face_2",
+							"label": "Face 2",
+							"skinName": "face/face_2",
+							"previewUrl": "catalog/avatar1/face/2.webp"
+						},
+						{
+							"optionId": "face_3",
+							"label": "Face 3",
+							"skinName": "face/face_3",
+							"previewUrl": "catalog/avatar1/face/3.webp"
+						}
+					]
+				},
+				{
+					"key": "hair",
+					"label": "Hair",
+					"options": [
+						{
+							"optionId": "hair_1",
+							"label": "Hair 1",
+							"skinName": "hair/hair_1",
+							"previewUrl": "catalog/avatar1/hair/1.webp"
+						},
+						{
+							"optionId": "hair_3",
+							"label": "Hair 3",
+							"skinName": "hair/hair_3",
+							"previewUrl": "catalog/avatar1/hair/3.webp"
+						},
+						{
+							"optionId": "hair_5",
+							"label": "Hair 5",
+							"skinName": "hair/hair_5",
+							"previewUrl": "catalog/avatar1/hair/5.webp"
+						},
+						{
+							"optionId": "hair_7",
+							"label": "Hair 7",
+							"skinName": "hair/hair_7",
+							"previewUrl": "catalog/avatar1/hair/7.webp"
+						},
+						{
+							"optionId": "hair_8",
+							"label": "Hair 8",
+							"skinName": "hair/hair_8",
+							"previewUrl": "catalog/avatar1/hair/8.webp"
+						},
+						{
+							"optionId": "hair_9",
+							"label": "Hair 9",
+							"skinName": "hair/hair_9",
+							"previewUrl": "catalog/avatar1/hair/9.webp"
+						},
+						{
+							"optionId": "hair_10",
+							"label": "Hair 10",
+							"skinName": "hair/hair_10",
+							"previewUrl": "catalog/avatar1/hair/10.webp"
+						},
+						{
+							"optionId": "hair_11",
+							"label": "Hair 11",
+							"skinName": "hair/hair_11",
+							"previewUrl": "catalog/avatar1/hair/11.webp"
+						},
+						{
+							"optionId": "hair_12",
+							"label": "Hair 12",
+							"skinName": "hair/hair_12",
+							"previewUrl": "catalog/avatar1/hair/12.webp"
+						},
+						{
+							"optionId": "hair_13",
+							"label": "Hair 13",
+							"skinName": "hair/hair_13",
+							"previewUrl": "catalog/avatar1/hair/13.webp"
+						},
+						{
+							"optionId": "hair_14",
+							"label": "Hair 14",
+							"skinName": "hair/hair_14",
+							"previewUrl": "catalog/avatar1/hair/14.webp"
+						},
+						{
+							"optionId": "hair_15",
+							"label": "Hair 15",
+							"skinName": "hair/hair_15",
+							"previewUrl": "catalog/avatar1/hair/15.webp"
+						},
+						{
+							"optionId": "hair_16",
+							"label": "Hair 16",
+							"skinName": "hair/hair_16",
+							"previewUrl": "catalog/avatar1/hair/16.webp"
+						},
+						{
+							"optionId": "hair_17",
+							"label": "Hair 17",
+							"skinName": "hair/hair_17",
+							"previewUrl": "catalog/avatar1/hair/17.webp"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "fashion",
+			"label": "Fashion",
+			"subcategories": [
+				{
+					"key": "dress",
+					"label": "Dress",
+					"options": [
+						{
+							"optionId": "dress_1",
+							"label": "Dress 1",
+							"skinName": "dress/dress_1",
+							"previewUrl": "catalog/avatar1/dress/1.webp"
+						},
+						{
+							"optionId": "dress_2",
+							"label": "Dress 2",
+							"skinName": "dress/dress_2",
+							"previewUrl": "catalog/avatar1/dress/2.webp"
+						},
+						{
+							"optionId": "dress_3",
+							"label": "Dress 3",
+							"skinName": "dress/dress_3",
+							"previewUrl": "catalog/avatar1/dress/3.webp"
+						},
+						{
+							"optionId": "dress_4",
+							"label": "Dress 4",
+							"skinName": "dress/dress_4",
+							"previewUrl": "catalog/avatar1/dress/4.webp"
+						},
+						{
+							"optionId": "dress_5",
+							"label": "Dress 5",
+							"skinName": "dress/dress_5",
+							"previewUrl": "catalog/avatar1/dress/5.webp"
+						}
+					]
+				},
+				{
+					"key": "shoes",
+					"label": "Shoes",
+					"options": [
+						{
+							"optionId": "shoes_1",
+							"label": "Shoes 1",
+							"skinName": "shoes/shoes_1",
+							"previewUrl": "catalog/avatar1/shoes/1.webp"
+						},
+						{
+							"optionId": "shoes_2",
+							"label": "Shoes 2",
+							"skinName": "shoes/shoes_2",
+							"previewUrl": "catalog/avatar1/shoes/2.webp"
+						},
+						{
+							"optionId": "shoes_3",
+							"label": "Shoes 3",
+							"skinName": "shoes/shoes_3",
+							"previewUrl": "catalog/avatar1/shoes/3.webp"
+						},
+						{
+							"optionId": "shoes_4",
+							"label": "Shoes 4",
+							"skinName": "shoes/shoes_4",
+							"previewUrl": "catalog/avatar1/shoes/4.webp"
+						},
+						{
+							"optionId": "shoes_5",
+							"label": "Shoes 5",
+							"skinName": "shoes/shoes_5",
+							"previewUrl": "catalog/avatar1/shoes/5.webp"
+						}
+					]
+				},
+				{
+					"key": "watch",
+					"label": "Watch",
+					"options": [
+						{
+							"optionId": "watch_1",
+							"label": "Watch 1",
+							"skinName": "watch/watch_1",
+							"previewUrl": "catalog/avatar1/watch/1.webp"
+						},
+						{
+							"optionId": "watch_2",
+							"label": "Watch 2",
+							"skinName": "watch/watch_2",
+							"previewUrl": "catalog/avatar1/watch/2.webp"
+						},
+						{
+							"optionId": "watch_3",
+							"label": "Watch 3",
+							"skinName": "watch/watch_3",
+							"previewUrl": "catalog/avatar1/watch/3.webp"
+						},
+						{
+							"optionId": "watch_4",
+							"label": "Watch 4",
+							"skinName": "watch/watch_4",
+							"previewUrl": "catalog/avatar1/watch/4.webp"
+						},
+						{
+							"optionId": "watch_5",
+							"label": "Watch 5",
+							"skinName": "watch/watch_5",
+							"previewUrl": "catalog/avatar1/watch/5.webp"
+						},
+						{
+							"optionId": "watch_6",
+							"label": "Watch 6",
+							"skinName": "watch/watch_6",
+							"previewUrl": "catalog/avatar1/watch/6.webp"
+						},
+						{
+							"optionId": "watch_7",
+							"label": "Watch 7",
+							"skinName": "watch/watch_7",
+							"previewUrl": "catalog/avatar1/watch/7.webp"
+						},
+						{
+							"optionId": "watch_8",
+							"label": "Watch 8",
+							"skinName": "watch/watch_8",
+							"previewUrl": "catalog/avatar1/watch/8.webp"
+						},
+						{
+							"optionId": "watch_9",
+							"label": "Watch 9",
+							"skinName": "watch/watch_9",
+							"previewUrl": "catalog/avatar1/watch/9.webp"
+						},
+						{
+							"optionId": "watch_10",
+							"label": "Watch 10",
+							"skinName": "watch/watch_10",
+							"previewUrl": "catalog/avatar1/watch/10.webp"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "animation",
+			"label": "Animation",
+			"subcategories": [
+				{
+					"key": "animation",
+					"label": "animation",
+					"options": [
+						{
+							"optionId": "idel_basic",
+							"label": "Idle Basic",
+							"previewUrl": ""
+						},
+						{
+							"optionId": "idel_basic_offset",
+							"label": "Idle Basic Offset",
+							"previewUrl": ""
+						},
+						{
+							"optionId": "idel_basic_offset_v02",
+							"label": "Idle Basic Offset V02",
+							"previewUrl": ""
+						}
+					]
+				}
+			]
+		}
+	]
 }
