@@ -29,7 +29,7 @@ Reads each `avatars/<slug>/<slug>.json` (Spine), extracts skins (`Subcategory/Op
 go run ./scripts/create_avatars_catalog
 ```
 
-**Options:** `-avatars=avatars`, `-catalog=catalog`, `-cdn-base=https://...` (optional full preview URLs).
+**Options:** `-avatars=avatars`, `-catalog=catalog`, `-cdn-base=https://...` (optional full preview URLs), `-preview-ext=png|webp` (default `png`; must match your option image files, e.g. use `png` for avatar2).
 
 ---
 

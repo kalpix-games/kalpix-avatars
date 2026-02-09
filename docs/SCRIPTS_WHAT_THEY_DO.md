@@ -58,7 +58,7 @@ Optional flags: `-avatars=avatars`, `-out=avatars_list.json`, `-base-url=https:/
    - `optionId` (e.g. `eyebrow_1`)
    - `label` (humanized, e.g. "Eyebrow 1")
    - `skinName` (e.g. `eyebrow/eyebrow_1`) for Spine `setSkin`
-   - `previewUrl` (relative like `catalog/avatar1/eyebrow/1.webp` or full URL if `-cdn-base` is set)
+   - `previewUrl` (relative like `catalog/avatar1/eyebrow/1.png` or full URL if `-cdn-base` is set). The extension is controlled by **`-preview-ext`** (default `png`; use `webp` if your option images are .webp). The **backend** rewrites relative previewUrl to full URLs when serving the catalog via `avatar/get_character_catalog`, so the client always receives a full link.
 
 5. **Writes** one file per avatar: **`catalog/<slug>.json`** (e.g. `catalog/avatar1.json`, `catalog/avatar2.json`). The backend fetches these from the CDN when the client calls `avatar/get_character_catalog` with an `avatarId`; it resolves the slug and requests `catalog/<slug>.json` from the CDN.
 
@@ -69,7 +69,7 @@ The backend does **not** read the Spine JSON directly. It only serves the **pre-
 ```bash
 go run ./scripts/create_avatars_catalog
 ```
-Optional flags: `-avatars=avatars`, `-catalog=catalog`, `-cdn-base=https://...`
+Optional flags: `-avatars=avatars`, `-catalog=catalog`, `-cdn-base=https://...`, **`-preview-ext=png`** (default) or **`-preview-ext=webp`** so previewUrl matches your option image files (e.g. avatar2 uses PNG → use default or `-preview-ext=png`).
 
 ---
 
@@ -81,3 +81,5 @@ Optional flags: `-avatars=avatars`, `-catalog=catalog`, `-cdn-base=https://...`
 | **create_avatars_catalog** | Spine JSON at `avatars/<slug>/<slug>.json` (skins with `Subcategory/OptionId` names + `animations` keys). | One file per avatar: **`catalog/<slug>.json`** (categories, subcategories, options with optionId, skinName, previewUrl). | Backend fetches these from CDN when client calls `avatar/get_character_catalog` and serves the catalog. |
 
 Both scripts run from the **kalpix-avatars** repo root. After running them, upload the generated files to your CDN (e.g. Cloudflare R2) so the backend can fetch them.
+
+For Spine asset layout and Flutter compatibility, see [SPINE_ASSETS_AND_FLUTTER.md](./SPINE_ASSETS_AND_FLUTTER.md).

@@ -87,7 +87,14 @@ func main() {
 	avatarsDir := flag.String("avatars", "avatars", "Path to avatars folder (relative to cwd)")
 	catalogDir := flag.String("catalog", "catalog", "Path to catalog output folder")
 	cdnBase := flag.String("cdn-base", "", "Optional CDN base for previewUrl (e.g. https://cdn.example.com/kalpix-avatars)")
+	previewExt := flag.String("preview-ext", "png", "Preview image extension for option previewUrl: png or webp (must match your uploaded files)")
 	flag.Parse()
+
+	ext := strings.ToLower(strings.TrimPrefix(*previewExt, "."))
+	if ext != "png" && ext != "webp" {
+		fmt.Fprintf(os.Stderr, "Error: preview-ext must be png or webp, got %q\n", *previewExt)
+		os.Exit(1)
+	}
 
 	dirs, err := os.ReadDir(*avatarsDir)
 	if err != nil {
@@ -112,7 +119,7 @@ func main() {
 			continue
 		}
 
-		catalog, err := buildCatalog(assetPath, slug, humanize(slug), *cdnBase)
+		catalog, err := buildCatalog(assetPath, slug, humanize(slug), *cdnBase, ext)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "Build catalog for %s: %v\n", slug, err)
 			continue
@@ -139,7 +146,7 @@ func main() {
 	fmt.Printf("Done: %d catalog(s) written to %s\n", written, *catalogDir)
 }
 
-func buildCatalog(assetPath, slug, avatarName, cdnBase string) (*catalogOutput, error) {
+func buildCatalog(assetPath, slug, avatarName, cdnBase, previewExt string) (*catalogOutput, error) {
 	data, err := os.ReadFile(assetPath)
 	if err != nil {
 		return nil, err
@@ -222,21 +229,21 @@ func buildCatalog(assetPath, slug, avatarName, cdnBase string) (*catalogOutput, 
 		categories = append(categories, categoryOut{
 			Key:           "body",
 			Label:         "Body",
-			Subcategories: buildSubcategoryList(bodyOrder, bodySubs, slug, previewBase, false),
+			Subcategories: buildSubcategoryList(bodyOrder, bodySubs, slug, previewBase, previewExt, false),
 		})
 	}
 	if len(fashionSubs) > 0 {
 		categories = append(categories, categoryOut{
 			Key:           "fashion",
 			Label:         "Fashion",
-			Subcategories: buildSubcategoryList(fashionOrder, fashionSubs, slug, previewBase, false),
+			Subcategories: buildSubcategoryList(fashionOrder, fashionSubs, slug, previewBase, previewExt, false),
 		})
 	}
 	if len(animationSubs) > 0 {
 		categories = append(categories, categoryOut{
 			Key:           "animation",
 			Label:         "Animation",
-			Subcategories: buildSubcategoryList([]string{"animation"}, animationSubs, slug, previewBase, true),
+			Subcategories: buildSubcategoryList([]string{"animation"}, animationSubs, slug, previewBase, previewExt, true),
 		})
 	}
 
@@ -247,7 +254,7 @@ func buildCatalog(assetPath, slug, avatarName, cdnBase string) (*catalogOutput, 
 	}, nil
 }
 
-func buildSubcategoryList(order []string, all map[string][]string, slug, previewBase string, isAnimation bool) []subcategoryOut {
+func buildSubcategoryList(order []string, all map[string][]string, slug, previewBase, previewExt string, isAnimation bool) []subcategoryOut {
 	seen := make(map[string]bool)
 	var result []subcategoryOut
 	for _, k := range order {
@@ -261,10 +268,11 @@ func buildSubcategoryList(order []string, all map[string][]string, slug, preview
 			opt := optionOut{OptionID: oid, Label: humanize(oid)}
 			if !isAnimation {
 				opt.SkinName = k + "/" + oid
+				suffix := "." + previewExt
 				if previewBase != "" {
-					opt.PreviewURL = previewBase + "/" + k + "/" + oid + ".webp"
+					opt.PreviewURL = previewBase + "/" + k + "/" + oid + suffix
 				} else {
-					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + fmt.Sprintf("%d", i+1) + ".webp"
+					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + fmt.Sprintf("%d", i+1) + suffix
 				}
 			}
 			options = append(options, opt)
@@ -280,10 +288,11 @@ func buildSubcategoryList(order []string, all map[string][]string, slug, preview
 			opt := optionOut{OptionID: oid, Label: humanize(oid)}
 			if !isAnimation {
 				opt.SkinName = k + "/" + oid
+				suffix := "." + previewExt
 				if previewBase != "" {
-					opt.PreviewURL = previewBase + "/" + k + "/" + oid + ".webp"
+					opt.PreviewURL = previewBase + "/" + k + "/" + oid + suffix
 				} else {
-					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + fmt.Sprintf("%d", i+1) + ".webp"
+					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + fmt.Sprintf("%d", i+1) + suffix
 				}
 			}
 			options = append(options, opt)
