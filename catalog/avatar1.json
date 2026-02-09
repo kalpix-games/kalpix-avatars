@@ -1,6 +1,6 @@
 {
 	"slug": "avatar1",
-	"avatarName": "Genz Boy",
+	"avatarName": "Avatar1",
 	"categories": [
 		{
 			"key": "body",
@@ -134,7 +134,7 @@
 				},
 				{
 					"key": "hair",
-					"label": "Hair",
+					"label": "hair",
 					"options": [
 						{
 							"optionId": "hair_1",
@@ -143,82 +143,82 @@
 							"previewUrl": "catalog/avatar1/hair/1.webp"
 						},
 						{
-							"optionId": "hair_3",
-							"label": "Hair 3",
-							"skinName": "hair/hair_3",
-							"previewUrl": "catalog/avatar1/hair/3.webp"
-						},
-						{
-							"optionId": "hair_5",
-							"label": "Hair 5",
-							"skinName": "hair/hair_5",
-							"previewUrl": "catalog/avatar1/hair/5.webp"
-						},
-						{
-							"optionId": "hair_7",
-							"label": "Hair 7",
-							"skinName": "hair/hair_7",
-							"previewUrl": "catalog/avatar1/hair/7.webp"
-						},
-						{
-							"optionId": "hair_8",
-							"label": "Hair 8",
-							"skinName": "hair/hair_8",
-							"previewUrl": "catalog/avatar1/hair/8.webp"
-						},
-						{
-							"optionId": "hair_9",
-							"label": "Hair 9",
-							"skinName": "hair/hair_9",
-							"previewUrl": "catalog/avatar1/hair/9.webp"
-						},
-						{
 							"optionId": "hair_10",
 							"label": "Hair 10",
 							"skinName": "hair/hair_10",
-							"previewUrl": "catalog/avatar1/hair/10.webp"
+							"previewUrl": "catalog/avatar1/hair/2.webp"
 						},
 						{
 							"optionId": "hair_11",
 							"label": "Hair 11",
 							"skinName": "hair/hair_11",
-							"previewUrl": "catalog/avatar1/hair/11.webp"
+							"previewUrl": "catalog/avatar1/hair/3.webp"
 						},
 						{
 							"optionId": "hair_12",
 							"label": "Hair 12",
 							"skinName": "hair/hair_12",
-							"previewUrl": "catalog/avatar1/hair/12.webp"
+							"previewUrl": "catalog/avatar1/hair/4.webp"
 						},
 						{
 							"optionId": "hair_13",
 							"label": "Hair 13",
 							"skinName": "hair/hair_13",
-							"previewUrl": "catalog/avatar1/hair/13.webp"
+							"previewUrl": "catalog/avatar1/hair/5.webp"
 						},
 						{
 							"optionId": "hair_14",
 							"label": "Hair 14",
 							"skinName": "hair/hair_14",
-							"previewUrl": "catalog/avatar1/hair/14.webp"
+							"previewUrl": "catalog/avatar1/hair/6.webp"
 						},
 						{
 							"optionId": "hair_15",
 							"label": "Hair 15",
 							"skinName": "hair/hair_15",
-							"previewUrl": "catalog/avatar1/hair/15.webp"
+							"previewUrl": "catalog/avatar1/hair/7.webp"
 						},
 						{
 							"optionId": "hair_16",
 							"label": "Hair 16",
 							"skinName": "hair/hair_16",
-							"previewUrl": "catalog/avatar1/hair/16.webp"
+							"previewUrl": "catalog/avatar1/hair/8.webp"
 						},
 						{
 							"optionId": "hair_17",
 							"label": "Hair 17",
 							"skinName": "hair/hair_17",
-							"previewUrl": "catalog/avatar1/hair/17.webp"
+							"previewUrl": "catalog/avatar1/hair/9.webp"
+						},
+						{
+							"optionId": "hair_3",
+							"label": "Hair 3",
+							"skinName": "hair/hair_3",
+							"previewUrl": "catalog/avatar1/hair/10.webp"
+						},
+						{
+							"optionId": "hair_5",
+							"label": "Hair 5",
+							"skinName": "hair/hair_5",
+							"previewUrl": "catalog/avatar1/hair/11.webp"
+						},
+						{
+							"optionId": "hair_7",
+							"label": "Hair 7",
+							"skinName": "hair/hair_7",
+							"previewUrl": "catalog/avatar1/hair/12.webp"
+						},
+						{
+							"optionId": "hair_8",
+							"label": "Hair 8",
+							"skinName": "hair/hair_8",
+							"previewUrl": "catalog/avatar1/hair/13.webp"
+						},
+						{
+							"optionId": "hair_9",
+							"label": "Hair 9",
+							"skinName": "hair/hair_9",
+							"previewUrl": "catalog/avatar1/hair/14.webp"
 						}
 					]
 				}
@@ -230,7 +230,7 @@
 			"subcategories": [
 				{
 					"key": "dress",
-					"label": "Dress",
+					"label": "dress",
 					"options": [
 						{
 							"optionId": "dress_1",
@@ -266,7 +266,7 @@
 				},
 				{
 					"key": "shoes",
-					"label": "Shoes",
+					"label": "shoes",
 					"options": [
 						{
 							"optionId": "shoes_1",
@@ -302,7 +302,7 @@
 				},
 				{
 					"key": "watch",
-					"label": "Watch",
+					"label": "watch",
 					"options": [
 						{
 							"optionId": "watch_1",
@@ -311,57 +311,57 @@
 							"previewUrl": "catalog/avatar1/watch/1.webp"
 						},
 						{
+							"optionId": "watch_10",
+							"label": "Watch 10",
+							"skinName": "watch/watch_10",
+							"previewUrl": "catalog/avatar1/watch/2.webp"
+						},
+						{
 							"optionId": "watch_2",
 							"label": "Watch 2",
 							"skinName": "watch/watch_2",
-							"previewUrl": "catalog/avatar1/watch/2.webp"
+							"previewUrl": "catalog/avatar1/watch/3.webp"
 						},
 						{
 							"optionId": "watch_3",
 							"label": "Watch 3",
 							"skinName": "watch/watch_3",
-							"previewUrl": "catalog/avatar1/watch/3.webp"
+							"previewUrl": "catalog/avatar1/watch/4.webp"
 						},
 						{
 							"optionId": "watch_4",
 							"label": "Watch 4",
 							"skinName": "watch/watch_4",
-							"previewUrl": "catalog/avatar1/watch/4.webp"
+							"previewUrl": "catalog/avatar1/watch/5.webp"
 						},
 						{
 							"optionId": "watch_5",
 							"label": "Watch 5",
 							"skinName": "watch/watch_5",
-							"previewUrl": "catalog/avatar1/watch/5.webp"
+							"previewUrl": "catalog/avatar1/watch/6.webp"
 						},
 						{
 							"optionId": "watch_6",
 							"label": "Watch 6",
 							"skinName": "watch/watch_6",
-							"previewUrl": "catalog/avatar1/watch/6.webp"
+							"previewUrl": "catalog/avatar1/watch/7.webp"
 						},
 						{
 							"optionId": "watch_7",
 							"label": "Watch 7",
 							"skinName": "watch/watch_7",
-							"previewUrl": "catalog/avatar1/watch/7.webp"
+							"previewUrl": "catalog/avatar1/watch/8.webp"
 						},
 						{
 							"optionId": "watch_8",
 							"label": "Watch 8",
 							"skinName": "watch/watch_8",
-							"previewUrl": "catalog/avatar1/watch/8.webp"
+							"previewUrl": "catalog/avatar1/watch/9.webp"
 						},
 						{
 							"optionId": "watch_9",
 							"label": "Watch 9",
 							"skinName": "watch/watch_9",
-							"previewUrl": "catalog/avatar1/watch/9.webp"
-						},
-						{
-							"optionId": "watch_10",
-							"label": "Watch 10",
-							"skinName": "watch/watch_10",
 							"previewUrl": "catalog/avatar1/watch/10.webp"
 						}
 					]
@@ -378,18 +378,19 @@
 					"options": [
 						{
 							"optionId": "idel_basic",
-							"label": "Idle Basic",
-							"previewUrl": ""
+							"label": "Idel Basic"
 						},
 						{
 							"optionId": "idel_basic_offset",
-							"label": "Idle Basic Offset",
-							"previewUrl": ""
+							"label": "Idel Basic Offset"
 						},
 						{
 							"optionId": "idel_basic_offset_v02",
-							"label": "Idle Basic Offset V02",
-							"previewUrl": ""
+							"label": "Idel Basic Offset V02"
+						},
+						{
+							"optionId": "win_anim_props",
+							"label": "Win Anim Props"
 						}
 					]
 				}

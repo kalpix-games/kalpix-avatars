@@ -918,14 +918,14 @@
 		{ "name": "hair_10", "bone": "root", "attachment": "hair_10" },
 		{ "name": "hair 10 back", "bone": "root", "attachment": "hair 10 back" },
 		{
-			"name": "costume 4_legs_left_down",
+			"name": "dress 4_legs_left_down",
 			"bone": "root",
-			"attachment": "costume 4_legs_left_down"
+			"attachment": "dress 4_legs_left_down"
 		},
 		{
-			"name": "costume 4_legs_left_up",
+			"name": "dress 4_legs_left_up",
 			"bone": "root",
-			"attachment": "costume 4_legs_left_up"
+			"attachment": "dress 4_legs_left_up"
 		},
 		{
 			"name": "dress_1_left_hand_1_palm",
@@ -1006,112 +1006,112 @@
 			"attachment": "dress_5_left_hand_5_up"
 		},
 		{
-			"name": "costume 1_legs_left_up",
+			"name": "dress 1_legs_left_up",
 			"bone": "root",
-			"attachment": "costume 1_legs_left_up"
+			"attachment": "dress 1_legs_left_up"
 		},
 		{
-			"name": "costume 1_legs_left_dowen",
+			"name": "dress 1_legs_left_dowen",
 			"bone": "root",
-			"attachment": "costume 1_legs_left_dowen"
+			"attachment": "dress 1_legs_left_dowen"
 		},
 		{
-			"name": "costume 1_legs_right_dowen",
+			"name": "dress 1_legs_right_dowen",
 			"bone": "root",
-			"attachment": "costume 1_legs_right_dowen"
+			"attachment": "dress 1_legs_right_dowen"
 		},
 		{
-			"name": "costume 1_legs_right_up",
+			"name": "dress 1_legs_right_up",
 			"bone": "root",
-			"attachment": "costume 1_legs_right_up"
+			"attachment": "dress 1_legs_right_up"
 		},
 		{
-			"name": "costume 1_legs_hip",
+			"name": "dress 1_legs_hip",
 			"bone": "root",
-			"attachment": "costume 1_legs_hip"
+			"attachment": "dress 1_legs_hip"
 		},
 		{
-			"name": "costume 2_legs_left_down",
+			"name": "dress 2_legs_left_down",
 			"bone": "root",
-			"attachment": "costume 2_legs_left_down"
+			"attachment": "dress 2_legs_left_down"
 		},
 		{
-			"name": "costume 2_legs_eft_up",
+			"name": "dress 2_legs_eft_up",
 			"bone": "root",
-			"attachment": "costume 2_legs_eft_up"
+			"attachment": "dress 2_legs_eft_up"
 		},
 		{
-			"name": "costume 2_legs_right_down",
+			"name": "dress 2_legs_right_down",
 			"bone": "root",
-			"attachment": "costume 2_legs_right_down"
+			"attachment": "dress 2_legs_right_down"
 		},
 		{
-			"name": "costume 2_legs_right_up",
+			"name": "dress 2_legs_right_up",
 			"bone": "root",
-			"attachment": "costume 2_legs_right_up"
+			"attachment": "dress 2_legs_right_up"
 		},
-		{ "name": "costume 2_hip", "bone": "root", "attachment": "costume 2_hip" },
+		{ "name": "dress 2_hip", "bone": "root", "attachment": "dress 2_hip" },
 		{
-			"name": "costume 3_legs_left_up",
+			"name": "dress 3_legs_left_up",
 			"bone": "root",
-			"attachment": "costume 3_legs_left_up"
-		},
-		{
-			"name": "costume 3_legs_left_down",
-			"bone": "root",
-			"attachment": "costume 3_legs_left_down"
+			"attachment": "dress 3_legs_left_up"
 		},
 		{
-			"name": "costume 3_legs_right_down",
+			"name": "dress 3_legs_left_down",
 			"bone": "root",
-			"attachment": "costume 3_legs_right_down"
+			"attachment": "dress 3_legs_left_down"
 		},
 		{
-			"name": "costume 3_legs_right_up",
+			"name": "dress 3_legs_right_down",
 			"bone": "root",
-			"attachment": "costume 3_legs_right_up"
+			"attachment": "dress 3_legs_right_down"
 		},
 		{
-			"name": "costume 3_legs_hip",
+			"name": "dress 3_legs_right_up",
 			"bone": "root",
-			"attachment": "costume 3_legs_hip"
+			"attachment": "dress 3_legs_right_up"
 		},
 		{
-			"name": "costume 4_legs_hip",
+			"name": "dress 3_legs_hip",
 			"bone": "root",
-			"attachment": "costume 4_legs_hip"
+			"attachment": "dress 3_legs_hip"
 		},
 		{
-			"name": "costume 4_legs_right_down",
+			"name": "dress 4_legs_hip",
 			"bone": "root",
-			"attachment": "costume 4_legs_right_down"
+			"attachment": "dress 4_legs_hip"
 		},
 		{
-			"name": "costume 5_legs_left_up",
+			"name": "dress 4_legs_right_down",
 			"bone": "root",
-			"attachment": "costume 5_legs_left_up"
+			"attachment": "dress 4_legs_right_down"
 		},
 		{
-			"name": "costume 5_legs_left_down",
+			"name": "dress 5_legs_left_up",
 			"bone": "root",
-			"attachment": "costume 5_legs_left_down"
+			"attachment": "dress 5_legs_left_up"
 		},
 		{
-			"name": "costume 5_legs_hip",
+			"name": "dress 5_legs_left_down",
 			"bone": "root",
-			"attachment": "costume 5_legs_hip"
+			"attachment": "dress 5_legs_left_down"
 		},
 		{
-			"name": "costume 5_legs_right_down",
+			"name": "dress 5_legs_hip",
 			"bone": "root",
-			"attachment": "costume 5_legs_right_down"
+			"attachment": "dress 5_legs_hip"
 		},
 		{
-			"name": "costume 5_legs_right_up",
+			"name": "dress 5_legs_right_down",
 			"bone": "root",
-			"attachment": "costume 5_legs_right_up"
+			"attachment": "dress 5_legs_right_down"
 		},
-		{ "name": "costume 1_legs_pocket_2", "bone": "root" },
+		{
+			"name": "dress 5_legs_right_up",
+			"bone": "root",
+			"attachment": "dress 5_legs_right_up"
+		},
+		{ "name": "dress 1_legs_pocket_2", "bone": "root" },
 		{
 			"name": "dress_1_body",
 			"bone": "root",
@@ -1138,9 +1138,9 @@
 			"attachment": "dress_3_body_1"
 		},
 		{
-			"name": "costume 4_legs_right_up",
+			"name": "dress 4_legs_right_up",
 			"bone": "root",
-			"attachment": "costume 4_legs_right_up"
+			"attachment": "dress 4_legs_right_up"
 		},
 		{ "name": "dress_3_body_2", "bone": "root" },
 		{
@@ -1360,9 +1360,9 @@
 			"attachment": "dress_1_right_hand_1_1right_hand_up"
 		},
 		{
-			"name": "costume 1_legs_pocket_3",
+			"name": "dress 1_legs_pocket_3",
 			"bone": "root",
-			"attachment": "costume 1_legs_pocket_3"
+			"attachment": "dress 1_legs_pocket_3"
 		},
 		{
 			"name": "dress_1_right_hand_1_1_right_hand_dowen",
@@ -1514,14 +1514,14 @@
 		{ "name": "watch_1_9", "bone": "root" },
 		{ "name": "watch_1_10", "bone": "root" },
 		{
-			"name": "costume 1_legs_pocket_4",
+			"name": "dress 1_legs_pocket_4",
 			"bone": "root",
-			"attachment": "costume 1_legs_pocket_4"
+			"attachment": "dress 1_legs_pocket_4"
 		},
 		{
-			"name": "costume 1_legs_pocket_5",
+			"name": "dress 1_legs_pocket_5",
 			"bone": "root",
-			"attachment": "costume 1_legs_pocket_4"
+			"attachment": "dress 1_legs_pocket_4"
 		},
 		{ "name": "watch_4_10", "bone": "root" },
 		{ "name": "watch_5_1", "bone": "root", "attachment": "watch_5_1" },
@@ -1545,70 +1545,70 @@
 		{ "name": "watch_5_10", "bone": "root" },
 		{ "name": "watch_5_20", "bone": "root" },
 		{
-			"name": "costume 1_legs_pocket_1",
+			"name": "dress 1_legs_pocket_1",
 			"bone": "root",
-			"attachment": "costume 1_legs_pocket_1"
+			"attachment": "dress 1_legs_pocket_1"
 		},
 		{
-			"name": "costume 1_legs_pocket",
+			"name": "dress 1_legs_pocket",
 			"bone": "root",
-			"attachment": "costume 1_legs_pocket"
+			"attachment": "dress 1_legs_pocket"
 		},
 		{
-			"name": "costume 1_legs_string",
+			"name": "dress 1_legs_string",
 			"bone": "root",
-			"attachment": "costume 1_legs_string"
+			"attachment": "dress 1_legs_string"
 		},
 		{
-			"name": "costume 1_left_shoe",
+			"name": "dress 1_left_shoe",
 			"bone": "root",
-			"attachment": "costume 1_left_shoe"
+			"attachment": "dress 1_left_shoe"
 		},
 		{
-			"name": "costume 1_legs_right_shoe",
+			"name": "dress 1_legs_right_shoe",
 			"bone": "root",
-			"attachment": "costume 1_legs_right_shoe"
+			"attachment": "dress 1_legs_right_shoe"
 		},
 		{
-			"name": "costume 2_legs_shoe_left",
+			"name": "dress 2_legs_shoe_left",
 			"bone": "root",
-			"attachment": "costume 2_legs_shoe_left"
+			"attachment": "dress 2_legs_shoe_left"
 		},
 		{
-			"name": "costume 2_legs_shoe_right",
+			"name": "dress 2_legs_shoe_right",
 			"bone": "root",
-			"attachment": "costume 2_legs_shoe_right"
+			"attachment": "dress 2_legs_shoe_right"
 		},
 		{
-			"name": "costume 3_legs_shoe_left",
+			"name": "dress 3_legs_shoe_left",
 			"bone": "root",
-			"attachment": "costume 3_legs_shoe_left"
+			"attachment": "dress 3_legs_shoe_left"
 		},
 		{
-			"name": "costume 3_legs_shoe_right",
+			"name": "dress 3_legs_shoe_right",
 			"bone": "root",
-			"attachment": "costume 3_legs_shoe_right"
+			"attachment": "dress 3_legs_shoe_right"
 		},
 		{
-			"name": "costume 4_legs_shoe_left",
+			"name": "dress 4_legs_shoe_left",
 			"bone": "root",
-			"attachment": "costume 4_legs_shoe_left"
+			"attachment": "dress 4_legs_shoe_left"
 		},
 		{ "name": "hair_17_2", "bone": "root", "attachment": "hair_17_2" },
 		{
-			"name": "costume 4_legs_shoe_right",
+			"name": "dress 4_legs_shoe_right",
 			"bone": "root",
-			"attachment": "costume 4_legs_shoe_right"
+			"attachment": "dress 4_legs_shoe_right"
 		},
 		{
-			"name": "costume 5_legs_shoe_left",
+			"name": "dress 5_legs_shoe_left",
 			"bone": "root",
-			"attachment": "costume 5_legs_shoe_left"
+			"attachment": "dress 5_legs_shoe_left"
 		},
 		{
-			"name": "costume 5_legs_shoe_right",
+			"name": "dress 5_legs_shoe_right",
 			"bone": "root",
-			"attachment": "costume 5_legs_shoe_right"
+			"attachment": "dress 5_legs_shoe_right"
 		},
 		{
 			"name": "black_5_left_eyebrow",
@@ -1710,8 +1710,8 @@
 		{
 			"name": "default",
 			"attachments": {
-				"costume 1_legs_pocket_2": {
-					"costume 1_legs_pocket_2": {
+				"dress 1_legs_pocket_2": {
+					"dress 1_legs_pocket_2": {
 						"x": 4,
 						"y": -22,
 						"width": 186,
@@ -2594,8 +2594,8 @@
 				"chest10f"
 			],
 			"attachments": {
-				"costume 1_legs_hip": {
-					"costume 1_legs_hip": {
+				"dress 1_legs_hip": {
+					"dress 1_legs_hip": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.38884, 1, 0.77769, 1, 1, 0.86313, 1, 0.66625, 1, 0.24243, 1,
@@ -2651,8 +2651,8 @@
 						"height": 250
 					}
 				},
-				"costume 1_legs_left_dowen": {
-					"costume 1_legs_left_dowen": {
+				"dress 1_legs_left_dowen": {
+					"dress 1_legs_left_dowen": {
 						"type": "mesh",
 						"uvs": [
 							0.0534, 0, 0.75723, 0, 1, 0, 0.99999, 0.13183, 0.99999, 0.36537,
@@ -2698,8 +2698,8 @@
 						"height": 419
 					}
 				},
-				"costume 1_legs_left_up": {
-					"costume 1_legs_left_up": {
+				"dress 1_legs_left_up": {
+					"dress 1_legs_left_up": {
 						"type": "mesh",
 						"uvs": [
 							0, 0.66312, 0, 0.45898, 0, 0.25485, 0.22378, 0.05837, 0.29002,
@@ -2749,8 +2749,8 @@
 						"height": 357
 					}
 				},
-				"costume 1_legs_pocket": {
-					"costume 1_legs_pocket": {
+				"dress 1_legs_pocket": {
+					"dress 1_legs_pocket": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -2765,8 +2765,8 @@
 						"height": 170
 					}
 				},
-				"costume 1_legs_right_dowen": {
-					"costume 1_legs_right_dowen": {
+				"dress 1_legs_right_dowen": {
+					"dress 1_legs_right_dowen": {
 						"type": "mesh",
 						"uvs": [
 							0.27344, 0.00726, 0.79649, 0.01118, 1, 0.03524, 1, 0.16636,
@@ -2810,8 +2810,8 @@
 						"height": 456
 					}
 				},
-				"costume 1_legs_right_up": {
-					"costume 1_legs_right_up": {
+				"dress 1_legs_right_up": {
+					"dress 1_legs_right_up": {
 						"type": "mesh",
 						"uvs": [
 							0.09013, 0.15352, 0.18026, 0.00643, 0.44568, 0, 0.6016, 0.01546,
@@ -2855,8 +2855,8 @@
 						"height": 370
 					}
 				},
-				"costume 1_legs_string": {
-					"costume 1_legs_string": {
+				"dress 1_legs_string": {
+					"dress 1_legs_string": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.07205, 1, 0.25415, 1, 0.43471, 1, 0.60909, 1, 0.80199, 1, 1,
@@ -3544,8 +3544,8 @@
 		{
 			"name": "dress/dress_2",
 			"attachments": {
-				"costume 1_legs_pocket_1": {
-					"costume 1_legs_pocket_1": {
+				"dress 1_legs_pocket_1": {
+					"dress 1_legs_pocket_1": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -3559,8 +3559,8 @@
 						"height": 230
 					}
 				},
-				"costume 2_hip": {
-					"costume 2_hip": {
+				"dress 2_hip": {
+					"dress 2_hip": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.29094, 1, 0.64547, 1, 1, 0.76878, 1, 0.45342, 1, 0.22671, 1,
@@ -3607,8 +3607,8 @@
 						"height": 292
 					}
 				},
-				"costume 2_legs_eft_up": {
-					"costume 2_legs_eft_up": {
+				"dress 2_legs_eft_up": {
+					"dress 2_legs_eft_up": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.2039, 1, 0.4078, 1, 0.58615, 1, 0.76416, 1, 0.92666, 1, 1,
@@ -3655,8 +3655,8 @@
 						"height": 357
 					}
 				},
-				"costume 2_legs_left_down": {
-					"costume 2_legs_left_down": {
+				"dress 2_legs_left_down": {
+					"dress 2_legs_left_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.14171, 1, 0.39687, 1, 0.65504, 1, 0.87668, 1, 1, 0.30451, 1,
@@ -3695,8 +3695,8 @@
 						"height": 419
 					}
 				},
-				"costume 2_legs_right_down": {
-					"costume 2_legs_right_down": {
+				"dress 2_legs_right_down": {
+					"dress 2_legs_right_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.17982, 1, 0.41858, 1, 0.64932, 0.99999, 0.86029, 1, 1, 0, 1,
@@ -3732,8 +3732,8 @@
 						"height": 456
 					}
 				},
-				"costume 2_legs_right_up": {
-					"costume 2_legs_right_up": {
+				"dress 2_legs_right_up": {
+					"dress 2_legs_right_up": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.17311, 1, 0.42061, 1, 0.71031, 1, 0.85515, 1, 1, 0.66121, 1,
@@ -4129,8 +4129,8 @@
 		{
 			"name": "dress/dress_3",
 			"attachments": {
-				"costume 1_legs_pocket_3": {
-					"costume 1_legs_pocket_3": {
+				"dress 1_legs_pocket_3": {
+					"dress 1_legs_pocket_3": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -4146,8 +4146,8 @@
 						"height": 232
 					}
 				},
-				"costume 3_legs_hip": {
-					"costume 3_legs_hip": {
+				"dress 3_legs_hip": {
+					"dress 3_legs_hip": {
 						"type": "mesh",
 						"uvs": [
 							0.73134, 0, 0.4761, 4.8e-4, 0.18398, 0.00119, 0.07054, 0, 0.04337,
@@ -4200,8 +4200,8 @@
 						"height": 275
 					}
 				},
-				"costume 3_legs_left_down": {
-					"costume 3_legs_left_down": {
+				"dress 3_legs_left_down": {
+					"dress 3_legs_left_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.14579, 1, 0.424, 1, 0.70222, 1, 0.91787, 1, 1, 0.25612, 1, 0,
@@ -4236,8 +4236,8 @@
 						"height": 419
 					}
 				},
-				"costume 3_legs_left_up": {
-					"costume 3_legs_left_up": {
+				"dress 3_legs_left_up": {
+					"dress 3_legs_left_up": {
 						"type": "mesh",
 						"uvs": [
 							0.63113, 0, 0.81557, 0, 1, 0, 1, 0.10084, 1, 0.27842, 1, 0.55685,
@@ -4281,8 +4281,8 @@
 						"height": 357
 					}
 				},
-				"costume 3_legs_right_down": {
-					"costume 3_legs_right_down": {
+				"dress 3_legs_right_down": {
+					"dress 3_legs_right_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.1572, 1, 0.39492, 0.99999, 0.62889, 0.99999, 0.89374, 1, 1,
@@ -4319,8 +4319,8 @@
 						"height": 456
 					}
 				},
-				"costume 3_legs_right_up": {
-					"costume 3_legs_right_up": {
+				"dress 3_legs_right_up": {
+					"dress 3_legs_right_up": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.16278, 1, 0.44657, 1, 0.73311, 1, 1, 0.5, 1, 0, 1, 0,
@@ -4772,8 +4772,8 @@
 		{
 			"name": "dress/dress_4",
 			"attachments": {
-				"costume 1_legs_pocket_5": {
-					"costume 1_legs_pocket_4": {
+				"dress 1_legs_pocket_5": {
+					"dress 1_legs_pocket_4": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -4787,8 +4787,8 @@
 						"height": 209
 					}
 				},
-				"costume 4_legs_hip": {
-					"costume 4_legs_hip": {
+				"dress 4_legs_hip": {
+					"dress 4_legs_hip": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.25, 1, 0.5, 1, 0.75, 1, 1, 0.76694, 1, 0.48197, 1, 0.24098,
@@ -4855,8 +4855,8 @@
 						"height": 285
 					}
 				},
-				"costume 4_legs_left_down": {
-					"costume 4_legs_left_down": {
+				"dress 4_legs_left_down": {
+					"dress 4_legs_left_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.14313, 1, 0.331, 1, 0.56898, 1, 0.78449, 1, 1, 0.37397, 1, 0,
@@ -4896,8 +4896,8 @@
 						"height": 420
 					}
 				},
-				"costume 4_legs_left_up": {
-					"costume 4_legs_left_up": {
+				"dress 4_legs_left_up": {
+					"dress 4_legs_left_up": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.16499, 1, 0.38286, 1, 0.55837, 1, 0.7248, 1, 0.8624, 1, 1,
@@ -4945,8 +4945,8 @@
 						"height": 361
 					}
 				},
-				"costume 4_legs_right_down": {
-					"costume 4_legs_right_down": {
+				"dress 4_legs_right_down": {
+					"dress 4_legs_right_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.17237, 1, 0.33919, 1, 0.50602, 1, 0.66172, 1, 0.83086, 1, 1,
@@ -4986,8 +4986,8 @@
 						"height": 473
 					}
 				},
-				"costume 4_legs_right_up": {
-					"costume 4_legs_right_up": {
+				"dress 4_legs_right_up": {
+					"dress 4_legs_right_up": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.1818, 1, 0.36359, 1, 0.50535, 1, 0.6869, 1, 0.88089, 1, 1,
@@ -5481,8 +5481,8 @@
 				"chest12f"
 			],
 			"attachments": {
-				"costume 1_legs_pocket_4": {
-					"costume 1_legs_pocket_4": {
+				"dress 1_legs_pocket_4": {
+					"dress 1_legs_pocket_4": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -5496,8 +5496,8 @@
 						"height": 209
 					}
 				},
-				"costume 5_legs_hip": {
-					"costume 5_legs_hip": {
+				"dress 5_legs_hip": {
+					"dress 5_legs_hip": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.14868, 1, 0.39528, 1, 0.66005, 1, 1, 0.84873, 1, 0.69746, 1,
@@ -5559,8 +5559,8 @@
 						"height": 319
 					}
 				},
-				"costume 5_legs_left_down": {
-					"costume 5_legs_left_down": {
+				"dress 5_legs_left_down": {
+					"dress 5_legs_left_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.12215, 1, 0.25365, 1, 0.38515, 1, 0.55275, 1, 0.73839, 1,
@@ -5605,8 +5605,8 @@
 						"height": 419
 					}
 				},
-				"costume 5_legs_left_up": {
-					"costume 5_legs_left_up": {
+				"dress 5_legs_left_up": {
+					"dress 5_legs_left_up": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.06443, 1, 0.17263, 1, 0.35706, 1, 0.55133, 1, 0.7456, 1,
@@ -5659,8 +5659,8 @@
 						"height": 357
 					}
 				},
-				"costume 5_legs_right_down": {
-					"costume 5_legs_right_down": {
+				"dress 5_legs_right_down": {
+					"dress 5_legs_right_down": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.16807, 1, 0.33088, 1, 0.4937, 1, 0.65539, 1, 0.8277, 1,
@@ -5702,8 +5702,8 @@
 						"height": 465
 					}
 				},
-				"costume 5_legs_right_up": {
-					"costume 5_legs_right_up": {
+				"dress 5_legs_right_up": {
+					"dress 5_legs_right_up": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.20207, 1, 0.40415, 1, 0.62182, 1, 0.83075, 1, 1, 0.5, 1, 0,
@@ -10622,8 +10622,8 @@
 		{
 			"name": "shoes/shoes_1",
 			"attachments": {
-				"costume 1_left_shoe": {
-					"costume 1_left_shoe": {
+				"dress 1_left_shoe": {
+					"dress 1_left_shoe": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.3535, 1, 0.70701, 1, 0.90664, 1, 1, 0, 1, 0, 0.72062, 0,
@@ -10658,8 +10658,8 @@
 						"height": 179
 					}
 				},
-				"costume 1_legs_right_shoe": {
-					"costume 1_legs_right_shoe": {
+				"dress 1_legs_right_shoe": {
+					"dress 1_legs_right_shoe": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.19538, 0.99999, 0.55355, 1, 1, 0.5, 1, 0, 1, 1.0e-5, 0.54031,
@@ -10698,8 +10698,8 @@
 		{
 			"name": "shoes/shoes_2",
 			"attachments": {
-				"costume 2_legs_shoe_left": {
-					"costume 2_legs_shoe_left": {
+				"dress 2_legs_shoe_left": {
+					"dress 2_legs_shoe_left": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.38404, 1, 0.76808, 1, 1, 0.84148, 1, 0.54433, 1, 0.24718, 1,
@@ -10742,8 +10742,8 @@
 						"height": 176
 					}
 				},
-				"costume 2_legs_shoe_right": {
-					"costume 2_legs_shoe_right": {
+				"dress 2_legs_shoe_right": {
+					"dress 2_legs_shoe_right": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.21301, 1, 0.58849, 1, 1, 0.5, 1, 0, 1, 0, 0.58849, 0,
@@ -10777,8 +10777,8 @@
 		{
 			"name": "shoes/shoes_3",
 			"attachments": {
-				"costume 3_legs_shoe_left": {
-					"costume 3_legs_shoe_left": {
+				"dress 3_legs_shoe_left": {
+					"dress 3_legs_shoe_left": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.40441, 1, 0.70221, 1, 1, 0.88223, 1, 0.56682, 0.99999,
@@ -10821,8 +10821,8 @@
 						"height": 191
 					}
 				},
-				"costume 3_legs_shoe_right": {
-					"costume 3_legs_shoe_right": {
+				"dress 3_legs_shoe_right": {
+					"dress 3_legs_shoe_right": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.23777, 1, 0.61377, 1, 1, 0.5, 1, 0, 1, 0, 0.60865, 0,
@@ -10855,8 +10855,8 @@
 		{
 			"name": "shoes/shoes_4",
 			"attachments": {
-				"costume 4_legs_shoe_left": {
-					"costume 4_legs_shoe_left": {
+				"dress 4_legs_shoe_left": {
+					"dress 4_legs_shoe_left": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.21062, 1, 0.42124, 1, 0.71062, 1, 1, 0.87949, 1, 0.24359, 1,
@@ -10900,8 +10900,8 @@
 						"height": 192
 					}
 				},
-				"costume 4_legs_shoe_right": {
-					"costume 4_legs_shoe_right": {
+				"dress 4_legs_shoe_right": {
+					"dress 4_legs_shoe_right": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.30037, 1, 0.60074, 1, 1, 0.5, 1, 0, 1, 0, 0.58388, 0,
@@ -10935,8 +10935,8 @@
 		{
 			"name": "shoes/shoes_5",
 			"attachments": {
-				"costume 5_legs_shoe_left": {
-					"costume 5_legs_shoe_left": {
+				"dress 5_legs_shoe_left": {
+					"dress 5_legs_shoe_left": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.37378, 1, 0.75801, 1, 1, 0.81697, 1, 0.52078, 1, 0.22458, 1,
@@ -10977,8 +10977,8 @@
 						"height": 181
 					}
 				},
-				"costume 5_legs_shoe_right": {
-					"costume 5_legs_shoe_right": {
+				"dress 5_legs_shoe_right": {
+					"dress 5_legs_shoe_right": {
 						"type": "mesh",
 						"uvs": [
 							1, 0.19064, 0.99999, 0.55653, 1, 1, 0.5, 1, 0, 1, 0.01162,
@@ -19318,8 +19318,8 @@
 					}
 				},
 				"dress/dress_2": {
-					"costume 2_legs_eft_up": {
-						"costume 2_legs_eft_up": {
+					"dress 2_legs_eft_up": {
+						"dress 2_legs_eft_up": {
 							"deform": [
 								{
 									"offset": 64,
@@ -19413,8 +19413,8 @@
 							]
 						}
 					},
-					"costume 2_legs_right_down": {
-						"costume 2_legs_right_down": {
+					"dress 2_legs_right_down": {
+						"dress 2_legs_right_down": {
 							"deform": [
 								{
 									"vertices": [
@@ -19431,8 +19431,8 @@
 							]
 						}
 					},
-					"costume 2_legs_right_up": {
-						"costume 2_legs_right_up": {
+					"dress 2_legs_right_up": {
+						"dress 2_legs_right_up": {
 							"deform": [
 								{ "time": 2.1 },
 								{
@@ -19766,8 +19766,8 @@
 					}
 				},
 				"dress/dress_3": {
-					"costume 1_legs_pocket_3": {
-						"costume 1_legs_pocket_3": {
+					"dress 1_legs_pocket_3": {
+						"dress 1_legs_pocket_3": {
 							"deform": [
 								{
 									"vertices": [
@@ -19779,8 +19779,8 @@
 							]
 						}
 					},
-					"costume 3_legs_hip": {
-						"costume 3_legs_hip": {
+					"dress 3_legs_hip": {
+						"dress 3_legs_hip": {
 							"deform": [
 								{
 									"vertices": [
@@ -19856,8 +19856,8 @@
 							]
 						}
 					},
-					"costume 3_legs_left_down": {
-						"costume 3_legs_left_down": {
+					"dress 3_legs_left_down": {
+						"dress 3_legs_left_down": {
 							"deform": [
 								{
 									"vertices": [
@@ -19948,8 +19948,8 @@
 							]
 						}
 					},
-					"costume 3_legs_left_up": {
-						"costume 3_legs_left_up": {
+					"dress 3_legs_left_up": {
+						"dress 3_legs_left_up": {
 							"deform": [
 								{
 									"vertices": [
@@ -20115,8 +20115,8 @@
 							]
 						}
 					},
-					"costume 3_legs_right_down": {
-						"costume 3_legs_right_down": {
+					"dress 3_legs_right_down": {
+						"dress 3_legs_right_down": {
 							"deform": [
 								{
 									"vertices": [
@@ -20227,8 +20227,8 @@
 							]
 						}
 					},
-					"costume 3_legs_right_up": {
-						"costume 3_legs_right_up": {
+					"dress 3_legs_right_up": {
+						"dress 3_legs_right_up": {
 							"deform": [
 								{
 									"vertices": [
@@ -20731,8 +20731,8 @@
 					}
 				},
 				"dress/dress_4": {
-					"costume 1_legs_pocket_5": {
-						"costume 1_legs_pocket_4": {
+					"dress 1_legs_pocket_5": {
+						"dress 1_legs_pocket_4": {
 							"deform": [
 								{
 									"vertices": [
@@ -20743,8 +20743,8 @@
 							]
 						}
 					},
-					"costume 4_legs_left_up": {
-						"costume 4_legs_left_up": {
+					"dress 4_legs_left_up": {
+						"dress 4_legs_left_up": {
 							"deform": [
 								{
 									"offset": 44,
@@ -21072,8 +21072,8 @@
 					}
 				},
 				"dress/dress_5": {
-					"costume 1_legs_pocket_4": {
-						"costume 1_legs_pocket_4": {
+					"dress 1_legs_pocket_4": {
+						"dress 1_legs_pocket_4": {
 							"deform": [
 								{
 									"vertices": [
@@ -21084,8 +21084,8 @@
 							]
 						}
 					},
-					"costume 5_legs_left_up": {
-						"costume 5_legs_left_up": {
+					"dress 5_legs_left_up": {
+						"dress 5_legs_left_up": {
 							"deform": [
 								{
 									"offset": 48,
@@ -21193,8 +21193,8 @@
 							]
 						}
 					},
-					"costume 5_legs_right_up": {
-						"costume 5_legs_right_up": {
+					"dress 5_legs_right_up": {
+						"dress 5_legs_right_up": {
 							"deform": [
 								{
 									"offset": 4,
@@ -21835,8 +21835,8 @@
 					}
 				},
 				"shoes/shoes_1": {
-					"costume 1_legs_right_shoe": {
-						"costume 1_legs_right_shoe": {
+					"dress 1_legs_right_shoe": {
+						"dress 1_legs_right_shoe": {
 							"deform": [
 								{
 									"offset": 30,
@@ -21847,8 +21847,8 @@
 					}
 				},
 				"shoes/shoes_2": {
-					"costume 2_legs_shoe_left": {
-						"costume 2_legs_shoe_left": {
+					"dress 2_legs_shoe_left": {
+						"dress 2_legs_shoe_left": {
 							"deform": [
 								{
 									"vertices": [
@@ -21869,8 +21869,8 @@
 							]
 						}
 					},
-					"costume 2_legs_shoe_right": {
-						"costume 2_legs_shoe_right": {
+					"dress 2_legs_shoe_right": {
+						"dress 2_legs_shoe_right": {
 							"deform": [
 								{
 									"vertices": [
@@ -21887,8 +21887,8 @@
 					}
 				},
 				"shoes/shoes_5": {
-					"costume 5_legs_shoe_right": {
-						"costume 5_legs_shoe_right": {
+					"dress 5_legs_shoe_right": {
+						"dress 5_legs_shoe_right": {
 							"deform": [
 								{
 									"offset": 20,
@@ -22549,7 +22549,7 @@
 			"drawOrder": [
 				{
 					"time": 2.1333,
-					"offsets": [{ "slot": "costume 1_legs_pocket_4", "offset": -228 }]
+					"offsets": [{ "slot": "dress 1_legs_pocket_4", "offset": -228 }]
 				}
 			]
 		},
@@ -29113,8 +29113,8 @@
 					}
 				},
 				"dress/dress_2": {
-					"costume 2_legs_eft_up": {
-						"costume 2_legs_eft_up": {
+					"dress 2_legs_eft_up": {
+						"dress 2_legs_eft_up": {
 							"deform": [
 								{
 									"offset": 64,
@@ -29208,8 +29208,8 @@
 							]
 						}
 					},
-					"costume 2_legs_right_down": {
-						"costume 2_legs_right_down": {
+					"dress 2_legs_right_down": {
+						"dress 2_legs_right_down": {
 							"deform": [
 								{
 									"vertices": [
@@ -29226,8 +29226,8 @@
 							]
 						}
 					},
-					"costume 2_legs_right_up": {
-						"costume 2_legs_right_up": {
+					"dress 2_legs_right_up": {
+						"dress 2_legs_right_up": {
 							"deform": [
 								{ "time": 2.1 },
 								{
@@ -29561,8 +29561,8 @@
 					}
 				},
 				"dress/dress_3": {
-					"costume 1_legs_pocket_3": {
-						"costume 1_legs_pocket_3": {
+					"dress 1_legs_pocket_3": {
+						"dress 1_legs_pocket_3": {
 							"deform": [
 								{
 									"vertices": [
@@ -29574,8 +29574,8 @@
 							]
 						}
 					},
-					"costume 3_legs_hip": {
-						"costume 3_legs_hip": {
+					"dress 3_legs_hip": {
+						"dress 3_legs_hip": {
 							"deform": [
 								{
 									"vertices": [
@@ -29651,8 +29651,8 @@
 							]
 						}
 					},
-					"costume 3_legs_left_down": {
-						"costume 3_legs_left_down": {
+					"dress 3_legs_left_down": {
+						"dress 3_legs_left_down": {
 							"deform": [
 								{
 									"vertices": [
@@ -29743,8 +29743,8 @@
 							]
 						}
 					},
-					"costume 3_legs_left_up": {
-						"costume 3_legs_left_up": {
+					"dress 3_legs_left_up": {
+						"dress 3_legs_left_up": {
 							"deform": [
 								{
 									"vertices": [
@@ -29910,8 +29910,8 @@
 							]
 						}
 					},
-					"costume 3_legs_right_down": {
-						"costume 3_legs_right_down": {
+					"dress 3_legs_right_down": {
+						"dress 3_legs_right_down": {
 							"deform": [
 								{
 									"vertices": [
@@ -30022,8 +30022,8 @@
 							]
 						}
 					},
-					"costume 3_legs_right_up": {
-						"costume 3_legs_right_up": {
+					"dress 3_legs_right_up": {
+						"dress 3_legs_right_up": {
 							"deform": [
 								{
 									"vertices": [
@@ -30526,8 +30526,8 @@
 					}
 				},
 				"dress/dress_4": {
-					"costume 1_legs_pocket_5": {
-						"costume 1_legs_pocket_4": {
+					"dress 1_legs_pocket_5": {
+						"dress 1_legs_pocket_4": {
 							"deform": [
 								{
 									"vertices": [
@@ -30538,8 +30538,8 @@
 							]
 						}
 					},
-					"costume 4_legs_left_up": {
-						"costume 4_legs_left_up": {
+					"dress 4_legs_left_up": {
+						"dress 4_legs_left_up": {
 							"deform": [
 								{
 									"offset": 44,
@@ -30867,8 +30867,8 @@
 					}
 				},
 				"dress/dress_5": {
-					"costume 1_legs_pocket_4": {
-						"costume 1_legs_pocket_4": {
+					"dress 1_legs_pocket_4": {
+						"dress 1_legs_pocket_4": {
 							"deform": [
 								{
 									"vertices": [
@@ -30879,8 +30879,8 @@
 							]
 						}
 					},
-					"costume 5_legs_left_up": {
-						"costume 5_legs_left_up": {
+					"dress 5_legs_left_up": {
+						"dress 5_legs_left_up": {
 							"deform": [
 								{
 									"offset": 48,
@@ -30988,8 +30988,8 @@
 							]
 						}
 					},
-					"costume 5_legs_right_up": {
-						"costume 5_legs_right_up": {
+					"dress 5_legs_right_up": {
+						"dress 5_legs_right_up": {
 							"deform": [
 								{
 									"offset": 4,
@@ -31630,8 +31630,8 @@
 					}
 				},
 				"shoes/shoes_1": {
-					"costume 1_legs_right_shoe": {
-						"costume 1_legs_right_shoe": {
+					"dress 1_legs_right_shoe": {
+						"dress 1_legs_right_shoe": {
 							"deform": [
 								{
 									"offset": 30,
@@ -31642,8 +31642,8 @@
 					}
 				},
 				"shoes/shoes_2": {
-					"costume 2_legs_shoe_left": {
-						"costume 2_legs_shoe_left": {
+					"dress 2_legs_shoe_left": {
+						"dress 2_legs_shoe_left": {
 							"deform": [
 								{
 									"vertices": [
@@ -31664,8 +31664,8 @@
 							]
 						}
 					},
-					"costume 2_legs_shoe_right": {
-						"costume 2_legs_shoe_right": {
+					"dress 2_legs_shoe_right": {
+						"dress 2_legs_shoe_right": {
 							"deform": [
 								{
 									"vertices": [
@@ -31682,8 +31682,8 @@
 					}
 				},
 				"shoes/shoes_5": {
-					"costume 5_legs_shoe_right": {
-						"costume 5_legs_shoe_right": {
+					"dress 5_legs_shoe_right": {
+						"dress 5_legs_shoe_right": {
 							"deform": [
 								{
 									"offset": 20,
@@ -32344,7 +32344,7 @@
 			"drawOrder": [
 				{
 					"time": 2.1333,
-					"offsets": [{ "slot": "costume 1_legs_pocket_4", "offset": -228 }]
+					"offsets": [{ "slot": "dress 1_legs_pocket_4", "offset": -228 }]
 				}
 			]
 		},

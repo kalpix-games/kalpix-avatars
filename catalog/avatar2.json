@@ -1,6 +1,6 @@
 {
 	"slug": "avatar2",
-	"avatarName": "Japanese Girl",
+	"avatarName": "Avatar2",
 	"categories": [
 		{
 			"key": "body",
@@ -8,61 +8,61 @@
 			"subcategories": [
 				{
 					"key": "hair",
-					"label": "Hair",
+					"label": "hair",
 					"options": [
 						{
 							"optionId": "hair_1",
 							"label": "Hair 1",
 							"skinName": "hair/hair_1",
-							"previewUrl": "catalog/avatar2/hair/1.png"
+							"previewUrl": "catalog/avatar2/hair/1.webp"
 						},
 						{
 							"optionId": "hair_2",
 							"label": "Hair 2",
 							"skinName": "hair/hair_2",
-							"previewUrl": "catalog/avatar2/hair/2.png"
+							"previewUrl": "catalog/avatar2/hair/2.webp"
 						},
 						{
 							"optionId": "hair_3",
 							"label": "Hair 3",
 							"skinName": "hair/hair_3",
-							"previewUrl": "catalog/avatar2/hair/3.png"
+							"previewUrl": "catalog/avatar2/hair/3.webp"
 						},
 						{
 							"optionId": "hair_4",
 							"label": "Hair 4",
 							"skinName": "hair/hair_4",
-							"previewUrl": "catalog/avatar2/hair/4.png"
+							"previewUrl": "catalog/avatar2/hair/4.webp"
 						},
 						{
 							"optionId": "hair_5",
 							"label": "Hair 5",
 							"skinName": "hair/hair_5",
-							"previewUrl": "catalog/avatar2/hair/5.png"
+							"previewUrl": "catalog/avatar2/hair/5.webp"
 						},
 						{
 							"optionId": "hair_6",
 							"label": "Hair 6",
 							"skinName": "hair/hair_6",
-							"previewUrl": "catalog/avatar2/hair/6.png"
+							"previewUrl": "catalog/avatar2/hair/6.webp"
 						},
 						{
 							"optionId": "hair_7",
 							"label": "Hair 7",
 							"skinName": "hair/hair_7",
-							"previewUrl": "catalog/avatar2/hair/7.png"
+							"previewUrl": "catalog/avatar2/hair/7.webp"
 						},
 						{
 							"optionId": "hair_8",
 							"label": "Hair 8",
 							"skinName": "hair/hair_8",
-							"previewUrl": "catalog/avatar2/hair/8.png"
+							"previewUrl": "catalog/avatar2/hair/8.webp"
 						},
 						{
 							"optionId": "hair_9",
 							"label": "Hair 9",
 							"skinName": "hair/hair_9",
-							"previewUrl": "catalog/avatar2/hair/9.png"
+							"previewUrl": "catalog/avatar2/hair/9.webp"
 						}
 					]
 				},
@@ -72,33 +72,33 @@
 					"options": [
 						{
 							"optionId": "lips_1",
-							"label": "lips 1",
+							"label": "Lips 1",
 							"skinName": "lips/lips_1",
-							"previewUrl": "catalog/avatar2/lips/1.png"
+							"previewUrl": "catalog/avatar2/lips/1.webp"
 						},
 						{
 							"optionId": "lips_2",
-							"label": "lips 2",
+							"label": "Lips 2",
 							"skinName": "lips/lips_2",
-							"previewUrl": "catalog/avatar2/lips/2.png"
+							"previewUrl": "catalog/avatar2/lips/2.webp"
 						},
 						{
 							"optionId": "lips_3",
-							"label": "lips 3",
+							"label": "Lips 3",
 							"skinName": "lips/lips_3",
-							"previewUrl": "catalog/avatar2/lips/3.png"
+							"previewUrl": "catalog/avatar2/lips/3.webp"
 						},
 						{
 							"optionId": "lips_4",
-							"label": "lips 4",
+							"label": "Lips 4",
 							"skinName": "lips/lips_4",
-							"previewUrl": "catalog/avatar2/lips/4.png"
+							"previewUrl": "catalog/avatar2/lips/4.webp"
 						},
 						{
 							"optionId": "lips_5",
-							"label": "lips 5",
+							"label": "Lips 5",
 							"skinName": "lips/lips_5",
-							"previewUrl": "catalog/avatar2/lips/5.png"
+							"previewUrl": "catalog/avatar2/lips/5.webp"
 						}
 					]
 				}
@@ -110,73 +110,73 @@
 			"subcategories": [
 				{
 					"key": "dress",
-					"label": "Dress",
+					"label": "dress",
 					"options": [
 						{
 							"optionId": "dress_1",
 							"label": "Dress 1",
 							"skinName": "dress/dress_1",
-							"previewUrl": "catalog/avatar2/dress/1.png"
+							"previewUrl": "catalog/avatar2/dress/1.webp"
 						},
 						{
 							"optionId": "dress_2",
 							"label": "Dress 2",
 							"skinName": "dress/dress_2",
-							"previewUrl": "catalog/avatar2/dress/2.png"
+							"previewUrl": "catalog/avatar2/dress/2.webp"
 						},
 						{
 							"optionId": "dress_3",
 							"label": "Dress 3",
 							"skinName": "dress/dress_3",
-							"previewUrl": "catalog/avatar2/dress/3.png"
+							"previewUrl": "catalog/avatar2/dress/3.webp"
 						},
 						{
 							"optionId": "dress_4",
-							"label": "Outfit 4",
+							"label": "Dress 4",
 							"skinName": "dress/dress_4",
-							"previewUrl": "catalog/avatar2/dress/4.png"
+							"previewUrl": "catalog/avatar2/dress/4.webp"
 						},
 						{
 							"optionId": "dress_5",
-							"label": "Outfit 5",
+							"label": "Dress 5",
 							"skinName": "dress/dress_5",
-							"previewUrl": "catalog/avatar2/dress/5.png"
+							"previewUrl": "catalog/avatar2/dress/5.webp"
 						}
 					]
 				},
 				{
 					"key": "fan",
-					"label": "Fan",
+					"label": "fan",
 					"options": [
 						{
 							"optionId": "fan_1",
 							"label": "Fan 1",
 							"skinName": "fan/fan_1",
-							"previewUrl": "catalog/avatar2/fan/1.png"
+							"previewUrl": "catalog/avatar2/fan/1.webp"
 						},
 						{
 							"optionId": "fan_2",
 							"label": "Fan 2",
 							"skinName": "fan/fan_2",
-							"previewUrl": "catalog/avatar2/fan/2.png"
+							"previewUrl": "catalog/avatar2/fan/2.webp"
 						},
 						{
 							"optionId": "fan_3",
 							"label": "Fan 3",
 							"skinName": "fan/fan_3",
-							"previewUrl": "catalog/avatar2/fan/3.png"
+							"previewUrl": "catalog/avatar2/fan/3.webp"
 						},
 						{
 							"optionId": "fan_4",
 							"label": "Fan 4",
 							"skinName": "fan/fan_4",
-							"previewUrl": "catalog/avatar2/fan/4.png"
+							"previewUrl": "catalog/avatar2/fan/4.webp"
 						},
 						{
 							"optionId": "fan_5",
 							"label": "Fan 5",
 							"skinName": "fan/fan_5",
-							"previewUrl": "catalog/avatar2/fan/5.png"
+							"previewUrl": "catalog/avatar2/fan/5.webp"
 						}
 					]
 				}
@@ -191,14 +191,28 @@
 					"label": "animation",
 					"options": [
 						{
+							"optionId": "Props_animation",
+							"label": "Props Animation"
+						},
+						{
 							"optionId": "idel_anim_basic",
-							"label": "Idle Basic",
-							"previewUrl": ""
+							"label": "Idel Anim Basic"
 						},
 						{
 							"optionId": "idel_anim_offset",
-							"label": "Idle Offset",
-							"previewUrl": ""
+							"label": "Idel Anim Offset"
+						},
+						{
+							"optionId": "idel_anim_offset + win",
+							"label": "Idel Anim Offset + Win"
+						},
+						{
+							"optionId": "idel_anim_offset + win_backup",
+							"label": "Idel Anim Offset + Win Backup"
+						},
+						{
+							"optionId": "win2_final",
+							"label": "Win2 Final"
 						}
 					]
 				}

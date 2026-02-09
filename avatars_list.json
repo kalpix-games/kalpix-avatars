@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "avatar1",
+    "avatarName": "Avatar1",
+    "isActive": true,
+    "sortOrder": 1
+  },
+  {
+    "slug": "avatar2",
+    "avatarName": "Avatar2",
+    "isActive": true,
+    "sortOrder": 2
+  }
+]

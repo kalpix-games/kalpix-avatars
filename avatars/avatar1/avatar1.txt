@@ -41,112 +41,112 @@ bounds:3671,373,38,16
 rotate:90
 blue_right_eyebrow blue
 bounds:2222,511,60,24
-costume 1_left_shoe
+dress 1_left_shoe
 bounds:3014,1387,290,179
 rotate:90
-costume 1_legs_hip
+dress 1_legs_hip
 bounds:2303,1646,354,250
-costume 1_legs_left_dowen
+dress 1_legs_left_dowen
 bounds:1960,1947,165,419
 rotate:90
-costume 1_legs_left_up
+dress 1_legs_left_up
 bounds:2647,1973,195,357
 rotate:90
-costume 1_legs_pocket
+dress 1_legs_pocket
 bounds:3613,1099,161,170
-costume 1_legs_pocket_1
+dress 1_legs_pocket_1
 bounds:1547,1356,186,230
-costume 1_legs_pocket_2
+dress 1_legs_pocket_2
 bounds:2636,307,184,216
 offsets:1,1,186,230
-costume 1_legs_pocket_3
+dress 1_legs_pocket_3
 bounds:1986,781,196,232
 rotate:90
-costume 1_legs_pocket_4
+dress 1_legs_pocket_4
 bounds:2869,1114,206,209
-costume 1_legs_right_dowen
+dress 1_legs_right_dowen
 bounds:3590,2336,196,453
 offsets:0,0,196,456
 rotate:90
-costume 1_legs_right_shoe
+dress 1_legs_right_shoe
 bounds:3073,967,143,212
 rotate:90
-costume 1_legs_right_up
+dress 1_legs_right_up
 bounds:626,19,221,370
-costume 1_legs_string
+dress 1_legs_string
 bounds:3161,1702,34,269
-costume 2_hip
+dress 2_hip
 bounds:495,391,347,292
 rotate:90
-costume 2_legs_eft_up
+dress 2_legs_eft_up
 bounds:2301,1472,172,357
 rotate:90
-costume 2_legs_left_down
+dress 2_legs_left_down
 bounds:2648,2170,152,419
 rotate:90
-costume 2_legs_right_down
+dress 2_legs_right_down
 bounds:297,630,193,456
-costume 2_legs_right_up
+dress 2_legs_right_up
 bounds:2660,1463,213,352
 rotate:90
-costume 2_legs_shoe_left
+dress 2_legs_shoe_left
 bounds:1878,190,286,176
 rotate:90
-costume 2_legs_shoe_right
+dress 2_legs_shoe_right
 bounds:3395,1124,145,216
 rotate:90
-costume 3_legs_hip
+dress 3_legs_hip
 bounds:492,740,348,275
 rotate:90
-costume 3_legs_left_down
+dress 3_legs_left_down
 bounds:434,1698,150,419
 rotate:90
-costume 3_legs_left_up
+dress 3_legs_left_up
 bounds:795,1339,173,357
-costume 3_legs_right_down
+dress 3_legs_right_down
 bounds:1283,1771,193,456
 rotate:90
-costume 3_legs_right_up
+dress 3_legs_right_up
 bounds:1193,1372,214,352
 rotate:90
-costume 3_legs_shoe_left
+dress 3_legs_shoe_left
 bounds:2029,507,272,191
 rotate:90
-costume 3_legs_shoe_right
+dress 3_legs_shoe_right
 bounds:2852,966,146,219
 rotate:90
-costume 4_legs_hip
+dress 4_legs_hip
 bounds:418,1090,345,285
-costume 4_legs_left_down
+dress 4_legs_left_down
 bounds:1981,2114,161,420
 rotate:90
-costume 4_legs_left_up
+dress 4_legs_left_up
 bounds:1278,1588,181,361
 rotate:90
-costume 4_legs_right_down
+dress 4_legs_right_down
 bounds:2648,2324,208,473
 rotate:90
-costume 4_legs_right_up
+dress 4_legs_right_up
 bounds:1741,1611,217,353
-costume 4_legs_shoe_left
+dress 4_legs_shoe_left
 bounds:2381,1898,264,192
-costume 4_legs_shoe_right
+dress 4_legs_shoe_right
 bounds:1737,1137,138,231
-costume 5_legs_hip
+dress 5_legs_hip
 bounds:418,1377,375,319
-costume 5_legs_left_down
+dress 5_legs_left_down
 bounds:857,1721,150,419
 rotate:90
-costume 5_legs_left_up
+dress 5_legs_left_up
 bounds:849,52,171,357
-costume 5_legs_right_down
+dress 5_legs_right_down
 bounds:3123,2336,196,465
 rotate:90
-costume 5_legs_right_up
+dress 5_legs_right_up
 bounds:970,1364,221,355
-costume 5_legs_shoe_left
+dress 5_legs_shoe_left
 bounds:2583,963,267,181
-costume 5_legs_shoe_right
+dress 5_legs_shoe_right
 bounds:2821,55,138,212
 dress_ 4_body
 bounds:857,1873,424,659

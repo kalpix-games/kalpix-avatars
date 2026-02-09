@@ -15,32 +15,32 @@ back hair _5
 bounds:1301,85,144,263
 back hair _6
 bounds:3062,420,181,168
-costume 1_fan_1
+dress 1_fan_1
 bounds:734,494,261,321
-costume 1_fan_2
+dress 1_fan_2
 bounds:3072,590,222,112
 rotate:90
-costume 1_fan_3
+dress 1_fan_3
 bounds:3254,1112,253,247
-costume 1_fan_4
+dress 1_fan_4
 bounds:2007,651,247,209
-costume 2_fan_1
+dress 2_fan_1
 bounds:704,231,261,321
 rotate:90
-costume 2_fan_2
+dress 2_fan_2
 bounds:2432,115,226,110
-costume 2_fan_3
+dress 2_fan_3
 bounds:1027,297,253,248
 rotate:90
-costume 2_fan_4
+dress 2_fan_4
 bounds:1457,566,248,212
-costume 3_fan_1
+dress 3_fan_1
 bounds:1229,1041,252,322
-costume 3_fan_2
+dress 3_fan_2
 bounds:2839,478,221,114
-costume 3_fan_3
+dress 3_fan_3
 bounds:251,2,207,231
-costume 3_fan_4
+dress 3_fan_4
 bounds:2256,640,233,220
 dress_4
 bounds:508,1457,341,542

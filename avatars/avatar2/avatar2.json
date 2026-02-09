@@ -5246,23 +5246,23 @@
 			"bone": "root",
 			"attachment": "dress_skirt_5"
 		},
-		{ "name": "costume 1_fan_1", "bone": "root" },
-		{ "name": "costume 2_fan_1", "bone": "root" },
+		{ "name": "dress 1_fan_1", "bone": "root" },
+		{ "name": "dress 2_fan_1", "bone": "root" },
 		{
-			"name": "costume 2_fan_2",
+			"name": "dress 2_fan_2",
 			"bone": "root",
-			"attachment": "costume 2_fan_2"
+			"attachment": "dress 2_fan_2"
 		},
-		{ "name": "costume 2_fan_3", "bone": "root" },
-		{ "name": "costume 2_fan_4", "bone": "root" },
-		{ "name": "costume 3_fan_1", "bone": "root" },
+		{ "name": "dress 2_fan_3", "bone": "root" },
+		{ "name": "dress 2_fan_4", "bone": "root" },
+		{ "name": "dress 3_fan_1", "bone": "root" },
 		{
-			"name": "costume 3_fan_2",
+			"name": "dress 3_fan_2",
 			"bone": "root",
-			"attachment": "costume 3_fan_2"
+			"attachment": "dress 3_fan_2"
 		},
-		{ "name": "costume 3_fan_3", "bone": "root" },
-		{ "name": "costume 3_fan_4", "bone": "root" },
+		{ "name": "dress 3_fan_3", "bone": "root" },
+		{ "name": "dress 3_fan_4", "bone": "root" },
 		{ "name": "dress_4_fan_1", "bone": "root" },
 		{ "name": "dress_4_fan_3", "bone": "root" },
 		{ "name": "dress_4_fan_4", "bone": "root" },
@@ -5384,16 +5384,16 @@
 			"attachment": "right_hand_plam_3_othres_fingers"
 		},
 		{
-			"name": "costume 1_fan_2",
+			"name": "dress 1_fan_2",
 			"bone": "root",
-			"attachment": "costume 1_fan_2"
+			"attachment": "dress 1_fan_2"
 		},
 		{
 			"name": "dress_4_fan_2",
 			"bone": "root",
 			"attachment": "dress_4_fan_2"
 		},
-		{ "name": "costume 1_fan_3", "bone": "root" },
+		{ "name": "dress 1_fan_3", "bone": "root" },
 		{
 			"name": "right_hand_plam_3",
 			"bone": "root",
@@ -5437,7 +5437,7 @@
 			"bone": "root",
 			"attachment": "dress_1_left_hand_up_1"
 		},
-		{ "name": "costume 1_fan_4", "bone": "root" },
+		{ "name": "dress 1_fan_4", "bone": "root" },
 		{ "name": "right_hand_plam_5", "bone": "root" },
 		{ "name": "dress_1_right_hand_down_4", "bone": "root" },
 		{ "name": "dress_3_right_hand_plam_5", "bone": "root" },
@@ -13466,8 +13466,8 @@
 		{
 			"name": "fan/fan_1",
 			"attachments": {
-				"costume 1_fan_1": {
-					"costume 1_fan_1": {
+				"dress 1_fan_1": {
+					"dress 1_fan_1": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -13481,8 +13481,8 @@
 						"height": 321
 					}
 				},
-				"costume 1_fan_2": {
-					"costume 1_fan_2": {
+				"dress 1_fan_2": {
+					"dress 1_fan_2": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -13496,8 +13496,8 @@
 						"height": 112
 					}
 				},
-				"costume 1_fan_3": {
-					"costume 1_fan_3": {
+				"dress 1_fan_3": {
+					"dress 1_fan_3": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -13512,8 +13512,8 @@
 						"height": 247
 					}
 				},
-				"costume 1_fan_4": {
-					"costume 1_fan_4": {
+				"dress 1_fan_4": {
+					"dress 1_fan_4": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -13533,8 +13533,8 @@
 		{
 			"name": "fan/fan_2",
 			"attachments": {
-				"costume 2_fan_1": {
-					"costume 2_fan_1": {
+				"dress 2_fan_1": {
+					"dress 2_fan_1": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -13548,8 +13548,8 @@
 						"height": 321
 					}
 				},
-				"costume 2_fan_2": {
-					"costume 2_fan_2": {
+				"dress 2_fan_2": {
+					"dress 2_fan_2": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -13563,8 +13563,8 @@
 						"height": 110
 					}
 				},
-				"costume 2_fan_3": {
-					"costume 2_fan_3": {
+				"dress 2_fan_3": {
+					"dress 2_fan_3": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -13579,8 +13579,8 @@
 						"height": 248
 					}
 				},
-				"costume 2_fan_4": {
-					"costume 2_fan_4": {
+				"dress 2_fan_4": {
+					"dress 2_fan_4": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -13600,8 +13600,8 @@
 		{
 			"name": "fan/fan_3",
 			"attachments": {
-				"costume 3_fan_1": {
-					"costume 3_fan_1": {
+				"dress 3_fan_1": {
+					"dress 3_fan_1": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -13615,8 +13615,8 @@
 						"height": 322
 					}
 				},
-				"costume 3_fan_2": {
-					"costume 3_fan_2": {
+				"dress 3_fan_2": {
+					"dress 3_fan_2": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -13631,8 +13631,8 @@
 						"height": 114
 					}
 				},
-				"costume 3_fan_3": {
-					"costume 3_fan_3": {
+				"dress 3_fan_3": {
+					"dress 3_fan_3": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 2, 3, 1, 3, 0],
@@ -13647,8 +13647,8 @@
 						"height": 231
 					}
 				},
-				"costume 3_fan_4": {
-					"costume 3_fan_4": {
+				"dress 3_fan_4": {
+					"dress 3_fan_4": {
 						"type": "mesh",
 						"uvs": [1, 1, 0, 1, 0, 0, 1, 0],
 						"triangles": [1, 3, 0, 1, 2, 3],
@@ -26483,8 +26483,8 @@
 			},
 			"attachments": {
 				"fan/fan_3": {
-					"costume 3_fan_2": {
-						"costume 3_fan_2": {
+					"dress 3_fan_2": {
+						"dress 3_fan_2": {
 							"deform": [
 								{
 									"vertices": [
@@ -26500,57 +26500,57 @@
 		},
 		"idel_anim_offset + win": {
 			"slots": {
-				"costume 1_fan_1": {
+				"dress 1_fan_1": {
 					"attachment": [
-						{ "time": 3.7333, "name": "costume 1_fan_1" },
+						{ "time": 3.7333, "name": "dress 1_fan_1" },
 						{ "time": 5.1333 }
 					]
 				},
-				"costume 1_fan_2": {
+				"dress 1_fan_2": {
 					"attachment": [
 						{ "time": 3.5667 },
-						{ "time": 5.1333, "name": "costume 1_fan_2" }
+						{ "time": 5.1333, "name": "dress 1_fan_2" }
 					]
 				},
-				"costume 1_fan_3": {
+				"dress 1_fan_3": {
 					"attachment": [
-						{ "time": 3.5667, "name": "costume 1_fan_3" },
+						{ "time": 3.5667, "name": "dress 1_fan_3" },
 						{ "time": 3.7333 }
 					]
 				},
-				"costume 2_fan_1": {
+				"dress 2_fan_1": {
 					"attachment": [
-						{ "time": 3.7333, "name": "costume 2_fan_1" },
+						{ "time": 3.7333, "name": "dress 2_fan_1" },
 						{ "time": 5.1333 }
 					]
 				},
-				"costume 2_fan_2": {
+				"dress 2_fan_2": {
 					"attachment": [
 						{ "time": 3.5667 },
-						{ "time": 5.1333, "name": "costume 2_fan_2" }
+						{ "time": 5.1333, "name": "dress 2_fan_2" }
 					]
 				},
-				"costume 2_fan_3": {
+				"dress 2_fan_3": {
 					"attachment": [
-						{ "time": 3.5667, "name": "costume 2_fan_3" },
+						{ "time": 3.5667, "name": "dress 2_fan_3" },
 						{ "time": 3.7333 }
 					]
 				},
-				"costume 3_fan_1": {
+				"dress 3_fan_1": {
 					"attachment": [
-						{ "time": 3.7333, "name": "costume 3_fan_1" },
+						{ "time": 3.7333, "name": "dress 3_fan_1" },
 						{ "time": 5.1333 }
 					]
 				},
-				"costume 3_fan_2": {
+				"dress 3_fan_2": {
 					"attachment": [
 						{ "time": 3.5667 },
-						{ "time": 5.1333, "name": "costume 3_fan_2" }
+						{ "time": 5.1333, "name": "dress 3_fan_2" }
 					]
 				},
-				"costume 3_fan_3": {
+				"dress 3_fan_3": {
 					"attachment": [
-						{ "time": 3.5667, "name": "costume 3_fan_3" },
+						{ "time": 3.5667, "name": "dress 3_fan_3" },
 						{ "time": 3.7333 }
 					]
 				},
@@ -53411,8 +53411,8 @@
 					}
 				},
 				"fan/fan_1": {
-					"costume 1_fan_3": {
-						"costume 1_fan_3": {
+					"dress 1_fan_3": {
+						"dress 1_fan_3": {
 							"deform": [
 								{
 									"time": 3.5667,
@@ -53458,8 +53458,8 @@
 					}
 				},
 				"fan/fan_2": {
-					"costume 2_fan_1": {
-						"costume 2_fan_1": {
+					"dress 2_fan_1": {
+						"dress 2_fan_1": {
 							"deform": [
 								{
 									"time": 3.7333,
@@ -53471,8 +53471,8 @@
 							]
 						}
 					},
-					"costume 2_fan_2": {
-						"costume 2_fan_2": {
+					"dress 2_fan_2": {
+						"dress 2_fan_2": {
 							"deform": [
 								{
 									"vertices": [
@@ -53483,8 +53483,8 @@
 							]
 						}
 					},
-					"costume 2_fan_3": {
-						"costume 2_fan_3": {
+					"dress 2_fan_3": {
+						"dress 2_fan_3": {
 							"deform": [
 								{
 									"time": 3.5667,
@@ -53515,8 +53515,8 @@
 					}
 				},
 				"fan/fan_3": {
-					"costume 3_fan_1": {
-						"costume 3_fan_1": {
+					"dress 3_fan_1": {
+						"dress 3_fan_1": {
 							"deform": [
 								{
 									"time": 3.7333,
@@ -53528,8 +53528,8 @@
 							]
 						}
 					},
-					"costume 3_fan_2": {
-						"costume 3_fan_2": {
+					"dress 3_fan_2": {
+						"dress 3_fan_2": {
 							"deform": [
 								{
 									"vertices": [
@@ -53540,8 +53540,8 @@
 							]
 						}
 					},
-					"costume 3_fan_3": {
-						"costume 3_fan_3": {
+					"dress 3_fan_3": {
+						"dress 3_fan_3": {
 							"deform": [
 								{
 									"time": 3.5667,
@@ -53673,8 +53673,8 @@
 			"drawOrder": [
 				{
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 63 },
-						{ "slot": "costume 3_fan_2", "offset": 57 },
+						{ "slot": "dress 2_fan_2", "offset": 63 },
+						{ "slot": "dress 3_fan_2", "offset": 57 },
 						{ "slot": "dress_5_fan_2", "offset": 51 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -53684,8 +53684,8 @@
 				{
 					"time": 1.6667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 63 },
-						{ "slot": "costume 3_fan_2", "offset": 61 },
+						{ "slot": "dress 2_fan_2", "offset": 63 },
+						{ "slot": "dress 3_fan_2", "offset": 61 },
 						{ "slot": "dress_5_fan_2", "offset": 51 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -53695,8 +53695,8 @@
 				{
 					"time": 1.7,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 62 },
-						{ "slot": "costume 3_fan_2", "offset": 60 },
+						{ "slot": "dress 2_fan_2", "offset": 62 },
+						{ "slot": "dress 3_fan_2", "offset": 60 },
 						{ "slot": "dress_5_fan_2", "offset": 52 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -53706,8 +53706,8 @@
 				{
 					"time": 3.3333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 59 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 59 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 49 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -53717,8 +53717,8 @@
 				{
 					"time": 3.3667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -53728,8 +53728,8 @@
 				{
 					"time": 3.4,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 61 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 61 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 49 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -53755,15 +53755,15 @@
 				{
 					"time": 3.6,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 118 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 104 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 73 },
 						{ "slot": "right_hand_plam_4", "offset": 68 },
 						{ "slot": "right_hand_plam_10", "offset": 73 },
@@ -53775,15 +53775,15 @@
 				{
 					"time": 3.6333,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 116 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 104 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 72 },
 						{ "slot": "right_hand_plam_4", "offset": 67 },
 						{ "slot": "right_hand_plam_10", "offset": 73 },
@@ -53795,15 +53795,15 @@
 				{
 					"time": 3.6667,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 113 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 105 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 74 },
 						{ "slot": "right_hand_plam_4", "offset": 67 },
 						{ "slot": "right_hand_plam_10", "offset": 73 },
@@ -53815,8 +53815,8 @@
 				{
 					"time": 3.7,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 141 },
-						{ "slot": "costume 3_fan_3", "offset": 138 },
+						{ "slot": "dress 2_fan_3", "offset": 141 },
+						{ "slot": "dress 3_fan_3", "offset": 138 },
 						{ "slot": "dress_4_fan_3", "offset": 136 },
 						{ "slot": "dress_5_fan_2", "offset": 40 },
 						{ "slot": "dress_5_fan_3", "offset": 134 },
@@ -53829,7 +53829,7 @@
 						{ "slot": "right_hand_plam_15", "offset": 102 },
 						{ "slot": "right_hand_plam_16", "offset": 95 },
 						{ "slot": "right_hand_plam_17", "offset": 102 },
-						{ "slot": "costume 1_fan_3", "offset": 76 },
+						{ "slot": "dress 1_fan_3", "offset": 76 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 73 },
 						{ "slot": "right_hand_plam_4", "offset": 59 },
 						{ "slot": "right_hand_plam_9", "offset": 31 }
@@ -53838,9 +53838,9 @@
 				{
 					"time": 3.7333,
 					"offsets": [
-						{ "slot": "costume 1_fan_1", "offset": 145 },
-						{ "slot": "costume 2_fan_1", "offset": 145 },
-						{ "slot": "costume 3_fan_1", "offset": 142 },
+						{ "slot": "dress 1_fan_1", "offset": 145 },
+						{ "slot": "dress 2_fan_1", "offset": 145 },
+						{ "slot": "dress 3_fan_1", "offset": 142 },
 						{ "slot": "dress_4_fan_1", "offset": 139 },
 						{ "slot": "dress_5_fan_1", "offset": 137 },
 						{ "slot": "dress_5_fan_2", "offset": 41 },
@@ -53851,7 +53851,7 @@
 						{ "slot": "right_hand_plam_16", "offset": 97 },
 						{ "slot": "right_hand_plam_17", "offset": 95 },
 						{ "slot": "dress_1_right_hand_down_1", "offset": 94 },
-						{ "slot": "costume 1_fan_3", "offset": 76 },
+						{ "slot": "dress 1_fan_3", "offset": 76 },
 						{ "slot": "right_hand_plam_4", "offset": 61 },
 						{ "slot": "dress_5_right_hand_down_1", "offset": 19 }
 					]
@@ -53859,9 +53859,9 @@
 				{
 					"time": 3.7667,
 					"offsets": [
-						{ "slot": "costume 1_fan_1", "offset": 148 },
-						{ "slot": "costume 2_fan_1", "offset": 148 },
-						{ "slot": "costume 3_fan_1", "offset": 145 },
+						{ "slot": "dress 1_fan_1", "offset": 148 },
+						{ "slot": "dress 2_fan_1", "offset": 148 },
+						{ "slot": "dress 3_fan_1", "offset": 145 },
 						{ "slot": "dress_5_fan_2", "offset": 44 },
 						{ "slot": "dress_3_right_hand_plam_2", "offset": 117 },
 						{ "slot": "dress_2_right_hand_down_1", "offset": 111 },
@@ -53869,7 +53869,7 @@
 						{ "slot": "right_hand_plam_15", "offset": 104 },
 						{ "slot": "right_hand_plam_17", "offset": 97 },
 						{ "slot": "dress_1_right_hand_down_1", "offset": 96 },
-						{ "slot": "costume 1_fan_3", "offset": 79 },
+						{ "slot": "dress 1_fan_3", "offset": 79 },
 						{ "slot": "right_hand_plam_4", "offset": 64 },
 						{ "slot": "dress_5_right_hand_down_1", "offset": 18 }
 					]
@@ -53893,8 +53893,8 @@
 				{
 					"time": 5.1333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 110 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -53904,8 +53904,8 @@
 				{
 					"time": 5.3333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 59 },
-						{ "slot": "costume 3_fan_2", "offset": 56 },
+						{ "slot": "dress 2_fan_2", "offset": 59 },
+						{ "slot": "dress 3_fan_2", "offset": 56 },
 						{ "slot": "dress_5_fan_2", "offset": 50 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 116 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -53915,8 +53915,8 @@
 				{
 					"time": 5.3667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 57 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 57 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -53926,8 +53926,8 @@
 				{
 					"time": 5.5,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 61 },
-						{ "slot": "costume 3_fan_2", "offset": 58 },
+						{ "slot": "dress 2_fan_2", "offset": 61 },
+						{ "slot": "dress 3_fan_2", "offset": 58 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "right_hand_plam_3_othres_fingers2", "offset": -51 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -53938,57 +53938,57 @@
 		},
 		"idel_anim_offset + win_backup": {
 			"slots": {
-				"costume 1_fan_1": {
+				"dress 1_fan_1": {
 					"attachment": [
-						{ "time": 3.7333, "name": "costume 1_fan_1" },
+						{ "time": 3.7333, "name": "dress 1_fan_1" },
 						{ "time": 5.1333 }
 					]
 				},
-				"costume 1_fan_2": {
+				"dress 1_fan_2": {
 					"attachment": [
 						{ "time": 3.5667 },
-						{ "time": 5.1333, "name": "costume 1_fan_2" }
+						{ "time": 5.1333, "name": "dress 1_fan_2" }
 					]
 				},
-				"costume 1_fan_3": {
+				"dress 1_fan_3": {
 					"attachment": [
-						{ "time": 3.5667, "name": "costume 1_fan_3" },
+						{ "time": 3.5667, "name": "dress 1_fan_3" },
 						{ "time": 3.7333 }
 					]
 				},
-				"costume 2_fan_1": {
+				"dress 2_fan_1": {
 					"attachment": [
-						{ "time": 3.7333, "name": "costume 2_fan_1" },
+						{ "time": 3.7333, "name": "dress 2_fan_1" },
 						{ "time": 5.1333 }
 					]
 				},
-				"costume 2_fan_2": {
+				"dress 2_fan_2": {
 					"attachment": [
 						{ "time": 3.5667 },
-						{ "time": 5.1333, "name": "costume 2_fan_2" }
+						{ "time": 5.1333, "name": "dress 2_fan_2" }
 					]
 				},
-				"costume 2_fan_3": {
+				"dress 2_fan_3": {
 					"attachment": [
-						{ "time": 3.5667, "name": "costume 2_fan_3" },
+						{ "time": 3.5667, "name": "dress 2_fan_3" },
 						{ "time": 3.7333 }
 					]
 				},
-				"costume 3_fan_1": {
+				"dress 3_fan_1": {
 					"attachment": [
-						{ "time": 3.7333, "name": "costume 3_fan_1" },
+						{ "time": 3.7333, "name": "dress 3_fan_1" },
 						{ "time": 5.1333 }
 					]
 				},
-				"costume 3_fan_2": {
+				"dress 3_fan_2": {
 					"attachment": [
 						{ "time": 3.5667 },
-						{ "time": 5.1333, "name": "costume 3_fan_2" }
+						{ "time": 5.1333, "name": "dress 3_fan_2" }
 					]
 				},
-				"costume 3_fan_3": {
+				"dress 3_fan_3": {
 					"attachment": [
-						{ "time": 3.5667, "name": "costume 3_fan_3" },
+						{ "time": 3.5667, "name": "dress 3_fan_3" },
 						{ "time": 3.7333 }
 					]
 				},
@@ -80849,8 +80849,8 @@
 					}
 				},
 				"fan/fan_1": {
-					"costume 1_fan_3": {
-						"costume 1_fan_3": {
+					"dress 1_fan_3": {
+						"dress 1_fan_3": {
 							"deform": [
 								{
 									"time": 3.5667,
@@ -80896,8 +80896,8 @@
 					}
 				},
 				"fan/fan_2": {
-					"costume 2_fan_1": {
-						"costume 2_fan_1": {
+					"dress 2_fan_1": {
+						"dress 2_fan_1": {
 							"deform": [
 								{
 									"time": 3.7333,
@@ -80909,8 +80909,8 @@
 							]
 						}
 					},
-					"costume 2_fan_2": {
-						"costume 2_fan_2": {
+					"dress 2_fan_2": {
+						"dress 2_fan_2": {
 							"deform": [
 								{
 									"vertices": [
@@ -80921,8 +80921,8 @@
 							]
 						}
 					},
-					"costume 2_fan_3": {
-						"costume 2_fan_3": {
+					"dress 2_fan_3": {
+						"dress 2_fan_3": {
 							"deform": [
 								{
 									"time": 3.5667,
@@ -80953,8 +80953,8 @@
 					}
 				},
 				"fan/fan_3": {
-					"costume 3_fan_1": {
-						"costume 3_fan_1": {
+					"dress 3_fan_1": {
+						"dress 3_fan_1": {
 							"deform": [
 								{
 									"time": 3.7333,
@@ -80966,8 +80966,8 @@
 							]
 						}
 					},
-					"costume 3_fan_2": {
-						"costume 3_fan_2": {
+					"dress 3_fan_2": {
+						"dress 3_fan_2": {
 							"deform": [
 								{
 									"vertices": [
@@ -80978,8 +80978,8 @@
 							]
 						}
 					},
-					"costume 3_fan_3": {
-						"costume 3_fan_3": {
+					"dress 3_fan_3": {
+						"dress 3_fan_3": {
 							"deform": [
 								{
 									"time": 3.5667,
@@ -81111,8 +81111,8 @@
 			"drawOrder": [
 				{
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 63 },
-						{ "slot": "costume 3_fan_2", "offset": 57 },
+						{ "slot": "dress 2_fan_2", "offset": 63 },
+						{ "slot": "dress 3_fan_2", "offset": 57 },
 						{ "slot": "dress_5_fan_2", "offset": 51 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -81122,8 +81122,8 @@
 				{
 					"time": 1.6667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 63 },
-						{ "slot": "costume 3_fan_2", "offset": 61 },
+						{ "slot": "dress 2_fan_2", "offset": 63 },
+						{ "slot": "dress 3_fan_2", "offset": 61 },
 						{ "slot": "dress_5_fan_2", "offset": 51 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -81133,8 +81133,8 @@
 				{
 					"time": 1.7,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 62 },
-						{ "slot": "costume 3_fan_2", "offset": 60 },
+						{ "slot": "dress 2_fan_2", "offset": 62 },
+						{ "slot": "dress 3_fan_2", "offset": 60 },
 						{ "slot": "dress_5_fan_2", "offset": 52 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -81144,8 +81144,8 @@
 				{
 					"time": 3.3333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 59 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 59 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 49 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -81155,8 +81155,8 @@
 				{
 					"time": 3.3667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -81166,8 +81166,8 @@
 				{
 					"time": 3.4,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 61 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 61 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 49 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -81193,15 +81193,15 @@
 				{
 					"time": 3.6,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 118 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 104 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 73 },
 						{ "slot": "right_hand_plam_4", "offset": 68 },
 						{ "slot": "right_hand_plam_10", "offset": 73 },
@@ -81213,15 +81213,15 @@
 				{
 					"time": 3.6333,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 116 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 104 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 72 },
 						{ "slot": "right_hand_plam_4", "offset": 67 },
 						{ "slot": "right_hand_plam_10", "offset": 73 },
@@ -81233,15 +81233,15 @@
 				{
 					"time": 3.6667,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 113 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 105 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 74 },
 						{ "slot": "right_hand_plam_4", "offset": 67 },
 						{ "slot": "right_hand_plam_10", "offset": 73 },
@@ -81253,8 +81253,8 @@
 				{
 					"time": 3.7,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 141 },
-						{ "slot": "costume 3_fan_3", "offset": 138 },
+						{ "slot": "dress 2_fan_3", "offset": 141 },
+						{ "slot": "dress 3_fan_3", "offset": 138 },
 						{ "slot": "dress_4_fan_3", "offset": 136 },
 						{ "slot": "dress_5_fan_2", "offset": 40 },
 						{ "slot": "dress_5_fan_3", "offset": 134 },
@@ -81267,7 +81267,7 @@
 						{ "slot": "right_hand_plam_15", "offset": 102 },
 						{ "slot": "right_hand_plam_16", "offset": 95 },
 						{ "slot": "right_hand_plam_17", "offset": 102 },
-						{ "slot": "costume 1_fan_3", "offset": 76 },
+						{ "slot": "dress 1_fan_3", "offset": 76 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 73 },
 						{ "slot": "right_hand_plam_4", "offset": 59 },
 						{ "slot": "right_hand_plam_9", "offset": 31 }
@@ -81276,9 +81276,9 @@
 				{
 					"time": 3.7333,
 					"offsets": [
-						{ "slot": "costume 1_fan_1", "offset": 145 },
-						{ "slot": "costume 2_fan_1", "offset": 145 },
-						{ "slot": "costume 3_fan_1", "offset": 142 },
+						{ "slot": "dress 1_fan_1", "offset": 145 },
+						{ "slot": "dress 2_fan_1", "offset": 145 },
+						{ "slot": "dress 3_fan_1", "offset": 142 },
 						{ "slot": "dress_4_fan_1", "offset": 139 },
 						{ "slot": "dress_5_fan_1", "offset": 137 },
 						{ "slot": "dress_5_fan_2", "offset": 41 },
@@ -81289,7 +81289,7 @@
 						{ "slot": "right_hand_plam_16", "offset": 97 },
 						{ "slot": "right_hand_plam_17", "offset": 95 },
 						{ "slot": "dress_1_right_hand_down_1", "offset": 94 },
-						{ "slot": "costume 1_fan_3", "offset": 76 },
+						{ "slot": "dress 1_fan_3", "offset": 76 },
 						{ "slot": "right_hand_plam_4", "offset": 61 },
 						{ "slot": "dress_5_right_hand_down_1", "offset": 19 }
 					]
@@ -81297,9 +81297,9 @@
 				{
 					"time": 3.7667,
 					"offsets": [
-						{ "slot": "costume 1_fan_1", "offset": 148 },
-						{ "slot": "costume 2_fan_1", "offset": 148 },
-						{ "slot": "costume 3_fan_1", "offset": 145 },
+						{ "slot": "dress 1_fan_1", "offset": 148 },
+						{ "slot": "dress 2_fan_1", "offset": 148 },
+						{ "slot": "dress 3_fan_1", "offset": 145 },
 						{ "slot": "dress_5_fan_2", "offset": 44 },
 						{ "slot": "dress_3_right_hand_plam_2", "offset": 117 },
 						{ "slot": "dress_2_right_hand_down_1", "offset": 111 },
@@ -81307,7 +81307,7 @@
 						{ "slot": "right_hand_plam_15", "offset": 104 },
 						{ "slot": "right_hand_plam_17", "offset": 97 },
 						{ "slot": "dress_1_right_hand_down_1", "offset": 96 },
-						{ "slot": "costume 1_fan_3", "offset": 79 },
+						{ "slot": "dress 1_fan_3", "offset": 79 },
 						{ "slot": "right_hand_plam_4", "offset": 64 },
 						{ "slot": "dress_5_right_hand_down_1", "offset": 18 }
 					]
@@ -81331,8 +81331,8 @@
 				{
 					"time": 5.1333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 110 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -81342,8 +81342,8 @@
 				{
 					"time": 5.3333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 59 },
-						{ "slot": "costume 3_fan_2", "offset": 56 },
+						{ "slot": "dress 2_fan_2", "offset": 59 },
+						{ "slot": "dress 3_fan_2", "offset": 56 },
 						{ "slot": "dress_5_fan_2", "offset": 50 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 116 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -81353,8 +81353,8 @@
 				{
 					"time": 5.3667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 57 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 57 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -81364,8 +81364,8 @@
 				{
 					"time": 5.5,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 61 },
-						{ "slot": "costume 3_fan_2", "offset": 58 },
+						{ "slot": "dress 2_fan_2", "offset": 61 },
+						{ "slot": "dress 3_fan_2", "offset": 58 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "right_hand_plam_3_othres_fingers2", "offset": -51 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -87030,26 +87030,26 @@
 		},
 		"win2_final": {
 			"slots": {
-				"costume 1_fan_2": { "attachment": [{ "time": 0.2 }] },
-				"costume 2_fan_1": {
+				"dress 1_fan_2": { "attachment": [{ "time": 0.2 }] },
+				"dress 2_fan_1": {
 					"attachment": [
-						{ "time": 0.3667, "name": "costume 2_fan_1" },
+						{ "time": 0.3667, "name": "dress 2_fan_1" },
 						{ "time": 1.7667 }
 					]
 				},
-				"costume 2_fan_2": {
+				"dress 2_fan_2": {
 					"attachment": [
 						{ "time": 0.2 },
-						{ "time": 1.7667, "name": "costume 2_fan_2" }
+						{ "time": 1.7667, "name": "dress 2_fan_2" }
 					]
 				},
-				"costume 2_fan_3": {
+				"dress 2_fan_3": {
 					"attachment": [
-						{ "time": 0.2, "name": "costume 2_fan_3" },
+						{ "time": 0.2, "name": "dress 2_fan_3" },
 						{ "time": 0.3667 }
 					]
 				},
-				"costume 3_fan_2": { "attachment": [{ "time": 0.2 }] },
+				"dress 3_fan_2": { "attachment": [{ "time": 0.2 }] },
 				"dress_4_fan_1": {
 					"attachment": [
 						{ "time": 0.3667, "name": "dress_4_fan_1" },
@@ -101303,8 +101303,8 @@
 					}
 				},
 				"fan/fan_1": {
-					"costume 1_fan_3": {
-						"costume 1_fan_3": {
+					"dress 1_fan_3": {
+						"dress 1_fan_3": {
 							"deform": [
 								{
 									"time": 0.2667,
@@ -101327,8 +101327,8 @@
 					}
 				},
 				"fan/fan_2": {
-					"costume 2_fan_1": {
-						"costume 2_fan_1": {
+					"dress 2_fan_1": {
+						"dress 2_fan_1": {
 							"deform": [
 								{
 									"time": 0.3667,
@@ -101340,8 +101340,8 @@
 							]
 						}
 					},
-					"costume 2_fan_3": {
-						"costume 2_fan_3": {
+					"dress 2_fan_3": {
+						"dress 2_fan_3": {
 							"deform": [
 								{
 									"time": 0.2,
@@ -101372,8 +101372,8 @@
 					}
 				},
 				"fan/fan_3": {
-					"costume 3_fan_1": {
-						"costume 3_fan_1": {
+					"dress 3_fan_1": {
+						"dress 3_fan_1": {
 							"deform": [
 								{
 									"time": 0.3667,
@@ -101385,8 +101385,8 @@
 							]
 						}
 					},
-					"costume 3_fan_3": {
-						"costume 3_fan_3": {
+					"dress 3_fan_3": {
+						"dress 3_fan_3": {
 							"deform": [
 								{
 									"time": 0.2,
@@ -101494,7 +101494,7 @@
 			"drawOrder": [
 				{
 					"offsets": [
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 49 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_1_right hand up_1", "offset": -7 },
@@ -101505,8 +101505,8 @@
 				{
 					"time": 0.0333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 61 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 61 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 49 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
@@ -101532,15 +101532,15 @@
 				{
 					"time": 0.2333,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 118 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 106 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 70 },
 						{ "slot": "right_hand_plam_4", "offset": 67 },
 						{ "slot": "right_hand_plam_10", "offset": 69 },
@@ -101552,15 +101552,15 @@
 				{
 					"time": 0.2667,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 115 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 104 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 76 },
 						{ "slot": "right_hand_plam_4", "offset": 67 },
 						{ "slot": "right_hand_plam_10", "offset": 71 },
@@ -101572,15 +101572,15 @@
 				{
 					"time": 0.3,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 143 },
-						{ "slot": "costume 3_fan_3", "offset": 140 },
+						{ "slot": "dress 2_fan_3", "offset": 143 },
+						{ "slot": "dress 3_fan_3", "offset": 140 },
 						{ "slot": "dress_4_fan_3", "offset": 138 },
 						{ "slot": "dress_5_fan_2", "offset": 46 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 115 },
 						{ "slot": "dress_2_right_hand_down_back_part_3", "offset": 31 },
 						{ "slot": "dress_2_right_hand_down_3", "offset": 104 },
-						{ "slot": "costume 1_fan_3", "offset": 78 },
+						{ "slot": "dress 1_fan_3", "offset": 78 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 76 },
 						{ "slot": "right_hand_plam_4", "offset": 67 },
 						{ "slot": "right_hand_plam_10", "offset": 70 },
@@ -101592,8 +101592,8 @@
 				{
 					"time": 0.3333,
 					"offsets": [
-						{ "slot": "costume 2_fan_3", "offset": 142 },
-						{ "slot": "costume 3_fan_3", "offset": 139 },
+						{ "slot": "dress 2_fan_3", "offset": 142 },
+						{ "slot": "dress 3_fan_3", "offset": 139 },
 						{ "slot": "dress_4_fan_3", "offset": 137 },
 						{ "slot": "dress_5_fan_2", "offset": 41 },
 						{ "slot": "dress_5_fan_3", "offset": 135 },
@@ -101605,7 +101605,7 @@
 						{ "slot": "right_hand_plam_15", "offset": 102 },
 						{ "slot": "right_hand_plam_16", "offset": 98 },
 						{ "slot": "right_hand_plam_17", "offset": 101 },
-						{ "slot": "costume 1_fan_3", "offset": 77 },
+						{ "slot": "dress 1_fan_3", "offset": 77 },
 						{ "slot": "dress_1_right_hand_down_4", "offset": 76 },
 						{ "slot": "right_hand_plam_4", "offset": 60 }
 					]
@@ -101613,9 +101613,9 @@
 				{
 					"time": 0.3667,
 					"offsets": [
-						{ "slot": "costume 1_fan_1", "offset": 145 },
-						{ "slot": "costume 2_fan_1", "offset": 145 },
-						{ "slot": "costume 3_fan_1", "offset": 142 },
+						{ "slot": "dress 1_fan_1", "offset": 145 },
+						{ "slot": "dress 2_fan_1", "offset": 145 },
+						{ "slot": "dress 3_fan_1", "offset": 142 },
 						{ "slot": "dress_4_fan_1", "offset": 139 },
 						{ "slot": "dress_5_fan_1", "offset": 137 },
 						{ "slot": "dress_5_fan_2", "offset": 41 },
@@ -101626,7 +101626,7 @@
 						{ "slot": "right_hand_plam_16", "offset": 99 },
 						{ "slot": "right_hand_plam_17", "offset": 95 },
 						{ "slot": "dress_1_right_hand_down_1", "offset": 98 },
-						{ "slot": "costume 1_fan_3", "offset": 76 },
+						{ "slot": "dress 1_fan_3", "offset": 76 },
 						{ "slot": "right_hand_plam_4", "offset": 61 },
 						{ "slot": "dress_5_right_hand_down_1", "offset": 17 }
 					]
@@ -101634,8 +101634,8 @@
 				{
 					"time": 0.4,
 					"offsets": [
-						{ "slot": "costume 1_fan_1", "offset": 149 },
-						{ "slot": "costume 2_fan_1", "offset": 149 },
+						{ "slot": "dress 1_fan_1", "offset": 149 },
+						{ "slot": "dress 2_fan_1", "offset": 149 },
 						{ "slot": "dress_5_fan_2", "offset": 45 },
 						{ "slot": "dress_3_right_hand_plam_2", "offset": 118 },
 						{ "slot": "dress_2_right_hand_down_1", "offset": 112 },
@@ -101643,7 +101643,7 @@
 						{ "slot": "right_hand_plam_16", "offset": 100 },
 						{ "slot": "right_hand_plam_17", "offset": 97 },
 						{ "slot": "dress_1_right_hand_down_1", "offset": 97 },
-						{ "slot": "costume 1_fan_3", "offset": 80 },
+						{ "slot": "dress 1_fan_3", "offset": 80 },
 						{ "slot": "right_hand_plam_4", "offset": 65 },
 						{ "slot": "dress_5_right_hand_down_1", "offset": 18 }
 					]
@@ -101683,8 +101683,8 @@
 				{
 					"time": 1.7667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 59 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 59 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 110 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -101694,8 +101694,8 @@
 				{
 					"time": 1.9667,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 59 },
-						{ "slot": "costume 3_fan_2", "offset": 56 },
+						{ "slot": "dress 2_fan_2", "offset": 59 },
+						{ "slot": "dress 3_fan_2", "offset": 56 },
 						{ "slot": "dress_5_fan_2", "offset": 50 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 116 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -101705,8 +101705,8 @@
 				{
 					"time": 2,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 60 },
-						{ "slot": "costume 3_fan_2", "offset": 57 },
+						{ "slot": "dress 2_fan_2", "offset": 60 },
+						{ "slot": "dress 3_fan_2", "offset": 57 },
 						{ "slot": "dress_5_fan_2", "offset": 48 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 119 },
 						{ "slot": "right_hand_plam_4", "offset": 23 },
@@ -101716,8 +101716,8 @@
 				{
 					"time": 2.1333,
 					"offsets": [
-						{ "slot": "costume 2_fan_2", "offset": 61 },
-						{ "slot": "costume 3_fan_2", "offset": 58 },
+						{ "slot": "dress 2_fan_2", "offset": 61 },
+						{ "slot": "dress 3_fan_2", "offset": 58 },
 						{ "slot": "dress_3_right_hand_plam_3", "offset": 58 },
 						{ "slot": "dress_3", "offset": 1 },
 						{ "slot": "dress_2_right_hand_down_2", "offset": -4 }
