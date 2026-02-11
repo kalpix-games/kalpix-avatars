@@ -1,4 +1,4 @@
-avatar2.png
+avatar2.webp
 size:3985,1800
 filter:Linear,Linear
 All_left_hand_plam

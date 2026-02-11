@@ -1,4 +1,4 @@
-avatar1.png
+avatar1.webp
 size:4065,2534
 filter:Linear,Linear
 black_2_left_eyebrow
