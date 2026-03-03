@@ -73,13 +73,33 @@ Optional flags: `-avatars=avatars`, `-catalog=catalog`, `-cdn-base=https://...`,
 
 ---
 
+## 3. `create_raw_catalog_bundle` (single JSON for Kalpsite pricing)
+
+**What it does:**
+
+1. **Reads** all `catalog/<slug>.json` files (you must run **create_avatars_catalog** first).
+2. **Outputs** one JSON bundle: `{ "avatars": [ { "slug", "avatarName", "catalog": { "defaultSelection", "categories" } }, ... ] }`.
+3. Use **`-out=raw_catalog_for_kalpsite.json`** to write to a file; otherwise prints to stdout.
+
+**Why it exists:**  
+The Kalpsite admin Sync page can accept this bundle: you paste or upload it, set **coins** and **gems** per catalog option in a table, then sync to the backend. The backend stores the avatar list and catalog (with prices) and creates store items with unique `itemId` for each option.
+
+**Run:**
+```bash
+go run ./scripts/create_raw_catalog_bundle
+go run ./scripts/create_raw_catalog_bundle -catalog=catalog -out=raw_catalog_for_kalpsite.json
+```
+
+---
+
 ## Summary
 
 | Script | Input | Output | Used by |
 |--------|--------|--------|--------|
 | **create_avatars_list** | Folder layout under `avatars/` (each subdir = one avatar; must have `<slug>.json` and atlas). | Single file **`avatars_list.json`** (JSON array of avatar entries). | Backend fetches this from CDN when `AVATAR_MANIFEST_URL` is set and serves it on `avatar/list_avatars`. |
-| **create_avatars_catalog** | Spine JSON at `avatars/<slug>/<slug>.json` (skins with `Subcategory/OptionId` names + `animations` keys). | One file per avatar: **`catalog/<slug>.json`** (categories, subcategories, options with optionId, skinName, previewUrl). | Backend fetches these from CDN when client calls `avatar/get_character_catalog` and serves the catalog. |
+| **create_avatars_catalog** | Spine JSON at `avatars/<slug>/<slug>.json` (skins with `Subcategory/OptionId` names + `animations` keys). | One file per avatar: **`catalog/<slug>.json`** (categories, subcategories, options with optionId, skinName, previewUrl). | Backend fetches these from CDN when client calls `avatar/get_character_catalog`; or use the bundle below for Kalpsite. |
+| **create_raw_catalog_bundle** | All **`catalog/<slug>.json`** files (run create_avatars_catalog first). | Single **`raw_catalog_for_kalpsite.json`** or stdout: `{ "avatars": [ ... ] }`. | Kalpsite Sync page: paste → set prices → sync to backend. |
 
-Both scripts run from the **kalpix-avatars** repo root. After running them, upload the generated files to your CDN (e.g. Cloudflare R2) so the backend can fetch them.
+Both scripts run from the **kalpix-avatars** repo root. After running them, upload the generated files to your CDN (e.g. Cloudflare R2) or use the raw bundle in Kalpsite for catalog + pricing sync.
 
 For Spine asset layout and Flutter compatibility, see [SPINE_ASSETS_AND_FLUTTER.md](./SPINE_ASSETS_AND_FLUTTER.md).

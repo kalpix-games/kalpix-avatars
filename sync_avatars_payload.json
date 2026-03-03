@@ -1,0 +1,995 @@
+{
+  "avatars": [
+    {
+      "slug": "avatar1",
+      "avatarName": "Avatar1",
+      "sortOrder": 1,
+      "isActive": true,
+      "catalog": {
+        "defaultSelection": {
+          "face": "face_1",
+          "eyes": "eyes_1",
+          "eyebrow": "eyebrow_1",
+          "hair": "hair_1",
+          "dress": "dress_1",
+          "shoes": "shoes_1",
+          "watch": "watch_1",
+          "animation": "idel_basic"
+        },
+        "categories": [
+          {
+            "key": "body",
+            "label": "Body",
+            "subcategories": [
+              {
+                "key": "face",
+                "label": "face",
+                "options": [
+                  {
+                    "optionId": "face_1",
+                    "label": "Face 1",
+                    "skinName": "face/face_1",
+                    "previewUrl": "catalog/avatar1/face/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "face_2",
+                    "label": "Face 2",
+                    "skinName": "face/face_2",
+                    "previewUrl": "catalog/avatar1/face/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "face_3",
+                    "label": "Face 3",
+                    "skinName": "face/face_3",
+                    "previewUrl": "catalog/avatar1/face/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "key": "eyes",
+                "label": "eyes",
+                "options": [
+                  {
+                    "optionId": "eyes_1",
+                    "label": "Eyes 1",
+                    "skinName": "eyes/eyes_1",
+                    "previewUrl": "catalog/avatar1/eyes/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyes_2",
+                    "label": "Eyes 2",
+                    "skinName": "eyes/eyes_2",
+                    "previewUrl": "catalog/avatar1/eyes/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyes_3",
+                    "label": "Eyes 3",
+                    "skinName": "eyes/eyes_3",
+                    "previewUrl": "catalog/avatar1/eyes/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyes_4",
+                    "label": "Eyes 4",
+                    "skinName": "eyes/eyes_4",
+                    "previewUrl": "catalog/avatar1/eyes/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyes_5",
+                    "label": "Eyes 5",
+                    "skinName": "eyes/eyes_5",
+                    "previewUrl": "catalog/avatar1/eyes/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyes_6",
+                    "label": "Eyes 6",
+                    "skinName": "eyes/eyes_6",
+                    "previewUrl": "catalog/avatar1/eyes/6.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyes_7",
+                    "label": "Eyes 7",
+                    "skinName": "eyes/eyes_7",
+                    "previewUrl": "catalog/avatar1/eyes/7.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "key": "eyebrow",
+                "label": "eyebrow",
+                "options": [
+                  {
+                    "optionId": "eyebrow_1",
+                    "label": "Eyebrow 1",
+                    "skinName": "eyebrow/eyebrow_1",
+                    "previewUrl": "catalog/avatar1/eyebrow/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyebrow_2",
+                    "label": "Eyebrow 2",
+                    "skinName": "eyebrow/eyebrow_2",
+                    "previewUrl": "catalog/avatar1/eyebrow/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyebrow_3",
+                    "label": "Eyebrow 3",
+                    "skinName": "eyebrow/eyebrow_3",
+                    "previewUrl": "catalog/avatar1/eyebrow/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyebrow_4",
+                    "label": "Eyebrow 4",
+                    "skinName": "eyebrow/eyebrow_4",
+                    "previewUrl": "catalog/avatar1/eyebrow/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyebrow_5",
+                    "label": "Eyebrow 5",
+                    "skinName": "eyebrow/eyebrow_5",
+                    "previewUrl": "catalog/avatar1/eyebrow/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyebrow_6",
+                    "label": "Eyebrow 6",
+                    "skinName": "eyebrow/eyebrow_6",
+                    "previewUrl": "catalog/avatar1/eyebrow/6.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyebrow_7",
+                    "label": "Eyebrow 7",
+                    "skinName": "eyebrow/eyebrow_7",
+                    "previewUrl": "catalog/avatar1/eyebrow/7.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "eyebrow_8",
+                    "label": "Eyebrow 8",
+                    "skinName": "eyebrow/eyebrow_8",
+                    "previewUrl": "catalog/avatar1/eyebrow/8.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "key": "hair",
+                "label": "hair",
+                "options": [
+                  {
+                    "optionId": "hair_1",
+                    "label": "Hair 1",
+                    "skinName": "hair/hair_1",
+                    "previewUrl": "catalog/avatar1/hair/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_3",
+                    "label": "Hair 3",
+                    "skinName": "hair/hair_3",
+                    "previewUrl": "catalog/avatar1/hair/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_5",
+                    "label": "Hair 5",
+                    "skinName": "hair/hair_5",
+                    "previewUrl": "catalog/avatar1/hair/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_7",
+                    "label": "Hair 7",
+                    "skinName": "hair/hair_7",
+                    "previewUrl": "catalog/avatar1/hair/7.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_8",
+                    "label": "Hair 8",
+                    "skinName": "hair/hair_8",
+                    "previewUrl": "catalog/avatar1/hair/8.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_9",
+                    "label": "Hair 9",
+                    "skinName": "hair/hair_9",
+                    "previewUrl": "catalog/avatar1/hair/9.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_10",
+                    "label": "Hair 10",
+                    "skinName": "hair/hair_10",
+                    "previewUrl": "catalog/avatar1/hair/10.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_11",
+                    "label": "Hair 11",
+                    "skinName": "hair/hair_11",
+                    "previewUrl": "catalog/avatar1/hair/11.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_12",
+                    "label": "Hair 12",
+                    "skinName": "hair/hair_12",
+                    "previewUrl": "catalog/avatar1/hair/12.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_13",
+                    "label": "Hair 13",
+                    "skinName": "hair/hair_13",
+                    "previewUrl": "catalog/avatar1/hair/13.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_14",
+                    "label": "Hair 14",
+                    "skinName": "hair/hair_14",
+                    "previewUrl": "catalog/avatar1/hair/14.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_15",
+                    "label": "Hair 15",
+                    "skinName": "hair/hair_15",
+                    "previewUrl": "catalog/avatar1/hair/15.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_16",
+                    "label": "Hair 16",
+                    "skinName": "hair/hair_16",
+                    "previewUrl": "catalog/avatar1/hair/16.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_17",
+                    "label": "Hair 17",
+                    "skinName": "hair/hair_17",
+                    "previewUrl": "catalog/avatar1/hair/17.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fashion",
+            "label": "Fashion",
+            "subcategories": [
+              {
+                "key": "dress",
+                "label": "dress",
+                "options": [
+                  {
+                    "optionId": "dress_1",
+                    "label": "Dress 1",
+                    "skinName": "dress/dress_1",
+                    "previewUrl": "catalog/avatar1/dress/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_2",
+                    "label": "Dress 2",
+                    "skinName": "dress/dress_2",
+                    "previewUrl": "catalog/avatar1/dress/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_3",
+                    "label": "Dress 3",
+                    "skinName": "dress/dress_3",
+                    "previewUrl": "catalog/avatar1/dress/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_4",
+                    "label": "Dress 4",
+                    "skinName": "dress/dress_4",
+                    "previewUrl": "catalog/avatar1/dress/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_5",
+                    "label": "Dress 5",
+                    "skinName": "dress/dress_5",
+                    "previewUrl": "catalog/avatar1/dress/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "key": "shoes",
+                "label": "shoes",
+                "options": [
+                  {
+                    "optionId": "shoes_1",
+                    "label": "Shoes 1",
+                    "skinName": "shoes/shoes_1",
+                    "previewUrl": "catalog/avatar1/shoes/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "shoes_2",
+                    "label": "Shoes 2",
+                    "skinName": "shoes/shoes_2",
+                    "previewUrl": "catalog/avatar1/shoes/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "shoes_3",
+                    "label": "Shoes 3",
+                    "skinName": "shoes/shoes_3",
+                    "previewUrl": "catalog/avatar1/shoes/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "shoes_4",
+                    "label": "Shoes 4",
+                    "skinName": "shoes/shoes_4",
+                    "previewUrl": "catalog/avatar1/shoes/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "shoes_5",
+                    "label": "Shoes 5",
+                    "skinName": "shoes/shoes_5",
+                    "previewUrl": "catalog/avatar1/shoes/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "key": "watch",
+                "label": "watch",
+                "options": [
+                  {
+                    "optionId": "watch_1",
+                    "label": "Watch 1",
+                    "skinName": "watch/watch_1",
+                    "previewUrl": "catalog/avatar1/watch/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_2",
+                    "label": "Watch 2",
+                    "skinName": "watch/watch_2",
+                    "previewUrl": "catalog/avatar1/watch/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_3",
+                    "label": "Watch 3",
+                    "skinName": "watch/watch_3",
+                    "previewUrl": "catalog/avatar1/watch/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_4",
+                    "label": "Watch 4",
+                    "skinName": "watch/watch_4",
+                    "previewUrl": "catalog/avatar1/watch/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_5",
+                    "label": "Watch 5",
+                    "skinName": "watch/watch_5",
+                    "previewUrl": "catalog/avatar1/watch/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_6",
+                    "label": "Watch 6",
+                    "skinName": "watch/watch_6",
+                    "previewUrl": "catalog/avatar1/watch/6.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_7",
+                    "label": "Watch 7",
+                    "skinName": "watch/watch_7",
+                    "previewUrl": "catalog/avatar1/watch/7.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_8",
+                    "label": "Watch 8",
+                    "skinName": "watch/watch_8",
+                    "previewUrl": "catalog/avatar1/watch/8.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_9",
+                    "label": "Watch 9",
+                    "skinName": "watch/watch_9",
+                    "previewUrl": "catalog/avatar1/watch/9.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "watch_10",
+                    "label": "Watch 10",
+                    "skinName": "watch/watch_10",
+                    "previewUrl": "catalog/avatar1/watch/10.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "animation",
+            "label": "Animation",
+            "subcategories": [
+              {
+                "key": "animation",
+                "label": "animation",
+                "options": [
+                  {
+                    "optionId": "idel_basic",
+                    "label": "Idel Basic",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "idel_basic_offset",
+                    "label": "Idel Basic Offset",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "idel_basic_offset_v02",
+                    "label": "Idel Basic Offset V02",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "win_anim_props",
+                    "label": "Win Anim Props",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "slug": "avatar2",
+      "avatarName": "Avatar2",
+      "sortOrder": 2,
+      "isActive": true,
+      "catalog": {
+        "defaultSelection": {
+          "hair": "hair_1",
+          "lips": "lips_1",
+          "dress": "dress_1",
+          "fan": "fan_1",
+          "animation": "Props_animation"
+        },
+        "categories": [
+          {
+            "key": "body",
+            "label": "Body",
+            "subcategories": [
+              {
+                "key": "hair",
+                "label": "hair",
+                "options": [
+                  {
+                    "optionId": "hair_1",
+                    "label": "Hair 1",
+                    "skinName": "hair/hair_1",
+                    "previewUrl": "catalog/avatar2/hair/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_2",
+                    "label": "Hair 2",
+                    "skinName": "hair/hair_2",
+                    "previewUrl": "catalog/avatar2/hair/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_3",
+                    "label": "Hair 3",
+                    "skinName": "hair/hair_3",
+                    "previewUrl": "catalog/avatar2/hair/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_4",
+                    "label": "Hair 4",
+                    "skinName": "hair/hair_4",
+                    "previewUrl": "catalog/avatar2/hair/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_5",
+                    "label": "Hair 5",
+                    "skinName": "hair/hair_5",
+                    "previewUrl": "catalog/avatar2/hair/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_6",
+                    "label": "Hair 6",
+                    "skinName": "hair/hair_6",
+                    "previewUrl": "catalog/avatar2/hair/6.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_7",
+                    "label": "Hair 7",
+                    "skinName": "hair/hair_7",
+                    "previewUrl": "catalog/avatar2/hair/7.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_8",
+                    "label": "Hair 8",
+                    "skinName": "hair/hair_8",
+                    "previewUrl": "catalog/avatar2/hair/8.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "hair_9",
+                    "label": "Hair 9",
+                    "skinName": "hair/hair_9",
+                    "previewUrl": "catalog/avatar2/hair/9.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "key": "lips",
+                "label": "lips",
+                "options": [
+                  {
+                    "optionId": "lips_1",
+                    "label": "Lips 1",
+                    "skinName": "lips/lips_1",
+                    "previewUrl": "catalog/avatar2/lips/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "lips_2",
+                    "label": "Lips 2",
+                    "skinName": "lips/lips_2",
+                    "previewUrl": "catalog/avatar2/lips/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "lips_3",
+                    "label": "Lips 3",
+                    "skinName": "lips/lips_3",
+                    "previewUrl": "catalog/avatar2/lips/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "lips_4",
+                    "label": "Lips 4",
+                    "skinName": "lips/lips_4",
+                    "previewUrl": "catalog/avatar2/lips/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "lips_5",
+                    "label": "Lips 5",
+                    "skinName": "lips/lips_5",
+                    "previewUrl": "catalog/avatar2/lips/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "fashion",
+            "label": "Fashion",
+            "subcategories": [
+              {
+                "key": "dress",
+                "label": "dress",
+                "options": [
+                  {
+                    "optionId": "dress_1",
+                    "label": "Dress 1",
+                    "skinName": "dress/dress_1",
+                    "previewUrl": "catalog/avatar2/dress/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_2",
+                    "label": "Dress 2",
+                    "skinName": "dress/dress_2",
+                    "previewUrl": "catalog/avatar2/dress/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_3",
+                    "label": "Dress 3",
+                    "skinName": "dress/dress_3",
+                    "previewUrl": "catalog/avatar2/dress/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_4",
+                    "label": "Dress 4",
+                    "skinName": "dress/dress_4",
+                    "previewUrl": "catalog/avatar2/dress/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "dress_5",
+                    "label": "Dress 5",
+                    "skinName": "dress/dress_5",
+                    "previewUrl": "catalog/avatar2/dress/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "key": "fan",
+                "label": "fan",
+                "options": [
+                  {
+                    "optionId": "fan_1",
+                    "label": "Fan 1",
+                    "skinName": "fan/fan_1",
+                    "previewUrl": "catalog/avatar2/fan/1.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "fan_2",
+                    "label": "Fan 2",
+                    "skinName": "fan/fan_2",
+                    "previewUrl": "catalog/avatar2/fan/2.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "fan_3",
+                    "label": "Fan 3",
+                    "skinName": "fan/fan_3",
+                    "previewUrl": "catalog/avatar2/fan/3.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "fan_4",
+                    "label": "Fan 4",
+                    "skinName": "fan/fan_4",
+                    "previewUrl": "catalog/avatar2/fan/4.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "fan_5",
+                    "label": "Fan 5",
+                    "skinName": "fan/fan_5",
+                    "previewUrl": "catalog/avatar2/fan/5.webp",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": "animation",
+            "label": "Animation",
+            "subcategories": [
+              {
+                "key": "animation",
+                "label": "animation",
+                "options": [
+                  {
+                    "optionId": "Props_animation",
+                    "label": "Props Animation",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "idel_anim_basic",
+                    "label": "Idel Anim Basic",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "idel_anim_offset",
+                    "label": "Idel Anim Offset",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "idel_anim_offset + win",
+                    "label": "Idel Anim Offset + Win",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "idel_anim_offset + win_backup",
+                    "label": "Idel Anim Offset + Win Backup",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  },
+                  {
+                    "optionId": "win2_final",
+                    "label": "Win2 Final",
+                    "price": {
+                      "coins": 0,
+                      "gems": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 // create_avatars_catalog scans each avatar's Spine JSON under avatars/ and writes
-// catalog/<slug>.json for each. The backend fetches these from the CDN when the
+// catalog/<slug>.json for each. The backend fetches these when the
 // client calls avatar/get_character_catalog.
 //
 // Usage (from kalpix-avatars repo root):
@@ -16,6 +16,7 @@ import (
 	"os"
 	"path/filepath"
 	"sort"
+	"strconv"
 	"strings"
 )
 
@@ -65,6 +66,47 @@ func humanize(s string) string {
 	return strings.Join(parts, " ")
 }
 
+// sortOptionsNatural sorts option IDs by numeric suffix so hair_1, hair_2, ..., hair_9, hair_10, hair_11.
+// Option IDs with no trailing number keep lexicographic order relative to each other.
+func sortOptionsNatural(opts []string) {
+	sort.Slice(opts, func(i, j int) bool {
+		ni, nj := trailingNumber(opts[i]), trailingNumber(opts[j])
+		if ni >= 0 && nj >= 0 {
+			return ni < nj
+		}
+		if ni >= 0 {
+			return true
+		}
+		if nj >= 0 {
+			return false
+		}
+		return opts[i] < opts[j]
+	})
+}
+
+// trailingNumber returns the number after the last underscore (e.g. "hair_10" -> 10, "eyes_1" -> 1).
+// Returns -1 if there is no numeric suffix.
+func trailingNumber(optionID string) int {
+	idx := strings.LastIndex(optionID, "_")
+	if idx < 0 || idx == len(optionID)-1 {
+		return -1
+	}
+	n, err := strconv.Atoi(optionID[idx+1:])
+	if err != nil {
+		return -1
+	}
+	return n
+}
+
+// previewPathSegment returns the filename segment for an option's preview (e.g. 1, 10).
+// Uses the optionId's numeric suffix when present so hair_10 -> "10"; otherwise uses 1-based index.
+func previewPathSegment(optionID string, index1Based int) string {
+	if n := trailingNumber(optionID); n >= 0 {
+		return strconv.Itoa(n)
+	}
+	return strconv.Itoa(index1Based)
+}
+
 func topCategory(subKey string) string {
 	lower := strings.ToLower(subKey)
 	switch lower {
@@ -75,11 +117,11 @@ func topCategory(subKey string) string {
 	case "animation":
 		return "animation"
 	}
-	return "body"
+	return "others"
 }
 
 var (
-	bodyOrder    = []string{"eyebrow", "eyes", "face", "Hair", "hair", "lips"}
+	bodyOrder    = []string{"face","eyes","eyebrow","hair", "lips"}
 	fashionOrder = []string{"dress", "shoes", "watch", "fan"}
 )
 
@@ -200,12 +242,14 @@ func buildCatalog(assetPath, slug, avatarName, cdnBase, previewExt string) (*cat
 	}
 
 	for k := range subcategoryOptions {
-		sort.Strings(subcategoryOptions[k])
+		sortOptionsNatural(subcategoryOptions[k])
 	}
 
 	bodySubs := make(map[string][]string)
 	fashionSubs := make(map[string][]string)
 	animationSubs := make(map[string][]string)
+	othersSubs := make(map[string][]string)
+
 	for k, opts := range subcategoryOptions {
 		switch topCategory(k) {
 		case "body":
@@ -215,7 +259,7 @@ func buildCatalog(assetPath, slug, avatarName, cdnBase, previewExt string) (*cat
 		case "animation":
 			animationSubs[k] = opts
 		default:
-			bodySubs[k] = opts
+			othersSubs[k] = opts
 		}
 	}
 
@@ -246,7 +290,13 @@ func buildCatalog(assetPath, slug, avatarName, cdnBase, previewExt string) (*cat
 			Subcategories: buildSubcategoryList([]string{"animation"}, animationSubs, slug, previewBase, previewExt, true),
 		})
 	}
-
+	if len(othersSubs) > 0 {
+		categories = append(categories, categoryOut{
+			Key:           "others",
+			Label:         "Others",
+			Subcategories: buildSubcategoryList([]string{"others"}, othersSubs, slug, previewBase, previewExt, false),
+		})
+	}
 	return &catalogOutput{
 		Slug:       slug,
 		AvatarName: avatarName,
@@ -269,10 +319,11 @@ func buildSubcategoryList(order []string, all map[string][]string, slug, preview
 			if !isAnimation {
 				opt.SkinName = k + "/" + oid
 				suffix := "." + previewExt
+				seg := previewPathSegment(oid, i+1)
 				if previewBase != "" {
-					opt.PreviewURL = previewBase + "/" + k + "/" + oid + suffix
+					opt.PreviewURL = previewBase + "/" + k + "/" + seg + suffix
 				} else {
-					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + fmt.Sprintf("%d", i+1) + suffix
+					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + seg + suffix
 				}
 			}
 			options = append(options, opt)
@@ -289,10 +340,11 @@ func buildSubcategoryList(order []string, all map[string][]string, slug, preview
 			if !isAnimation {
 				opt.SkinName = k + "/" + oid
 				suffix := "." + previewExt
+				seg := previewPathSegment(oid, i+1)
 				if previewBase != "" {
-					opt.PreviewURL = previewBase + "/" + k + "/" + oid + suffix
+					opt.PreviewURL = previewBase + "/" + k + "/" + seg + suffix
 				} else {
-					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + fmt.Sprintf("%d", i+1) + suffix
+					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + seg + suffix
 				}
 			}
 			options = append(options, opt)
