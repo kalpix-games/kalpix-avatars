@@ -42,7 +42,7 @@
                     "previewUrl": "catalog/avatar1/face/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
@@ -51,7 +51,7 @@
                     "skinName": "face/face_3",
                     "previewUrl": "catalog/avatar1/face/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   }
@@ -78,7 +78,7 @@
                     "previewUrl": "catalog/avatar1/eyes/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   },
                   {
@@ -87,7 +87,7 @@
                     "skinName": "eyes/eyes_3",
                     "previewUrl": "catalog/avatar1/eyes/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -98,7 +98,7 @@
                     "previewUrl": "catalog/avatar1/eyes/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 5
                     }
                   },
                   {
@@ -107,7 +107,7 @@
                     "skinName": "eyes/eyes_5",
                     "previewUrl": "catalog/avatar1/eyes/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -118,7 +118,7 @@
                     "previewUrl": "catalog/avatar1/eyes/6.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 11
                     }
                   },
                   {
@@ -127,7 +127,7 @@
                     "skinName": "eyes/eyes_7",
                     "previewUrl": "catalog/avatar1/eyes/7.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   }
@@ -154,7 +154,7 @@
                     "previewUrl": "catalog/avatar1/eyebrow/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 17
                     }
                   },
                   {
@@ -163,7 +163,7 @@
                     "skinName": "eyebrow/eyebrow_3",
                     "previewUrl": "catalog/avatar1/eyebrow/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -174,7 +174,7 @@
                     "previewUrl": "catalog/avatar1/eyebrow/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
@@ -183,7 +183,7 @@
                     "skinName": "eyebrow/eyebrow_5",
                     "previewUrl": "catalog/avatar1/eyebrow/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -194,7 +194,7 @@
                     "previewUrl": "catalog/avatar1/eyebrow/6.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   },
                   {
@@ -203,7 +203,7 @@
                     "skinName": "eyebrow/eyebrow_7",
                     "previewUrl": "catalog/avatar1/eyebrow/7.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   },
@@ -214,7 +214,7 @@
                     "previewUrl": "catalog/avatar1/eyebrow/8.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 5
                     }
                   }
                 ]
@@ -239,7 +239,7 @@
                     "skinName": "hair/hair_3",
                     "previewUrl": "catalog/avatar1/hair/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -250,7 +250,7 @@
                     "previewUrl": "catalog/avatar1/hair/5.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 11
                     }
                   },
                   {
@@ -259,7 +259,7 @@
                     "skinName": "hair/hair_7",
                     "previewUrl": "catalog/avatar1/hair/7.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -270,7 +270,7 @@
                     "previewUrl": "catalog/avatar1/hair/8.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 17
                     }
                   },
                   {
@@ -279,7 +279,7 @@
                     "skinName": "hair/hair_9",
                     "previewUrl": "catalog/avatar1/hair/9.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   },
@@ -290,7 +290,7 @@
                     "previewUrl": "catalog/avatar1/hair/10.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
@@ -299,7 +299,7 @@
                     "skinName": "hair/hair_11",
                     "previewUrl": "catalog/avatar1/hair/11.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -310,7 +310,7 @@
                     "previewUrl": "catalog/avatar1/hair/12.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   },
                   {
@@ -319,7 +319,7 @@
                     "skinName": "hair/hair_13",
                     "previewUrl": "catalog/avatar1/hair/13.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -330,7 +330,7 @@
                     "previewUrl": "catalog/avatar1/hair/14.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 5
                     }
                   },
                   {
@@ -339,7 +339,7 @@
                     "skinName": "hair/hair_15",
                     "previewUrl": "catalog/avatar1/hair/15.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   },
@@ -350,7 +350,7 @@
                     "previewUrl": "catalog/avatar1/hair/16.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 11
                     }
                   },
                   {
@@ -359,7 +359,7 @@
                     "skinName": "hair/hair_17",
                     "previewUrl": "catalog/avatar1/hair/17.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   }
@@ -392,7 +392,7 @@
                     "previewUrl": "catalog/avatar1/dress/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 17
                     }
                   },
                   {
@@ -401,7 +401,7 @@
                     "skinName": "dress/dress_3",
                     "previewUrl": "catalog/avatar1/dress/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -412,7 +412,7 @@
                     "previewUrl": "catalog/avatar1/dress/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
@@ -421,7 +421,7 @@
                     "skinName": "dress/dress_5",
                     "previewUrl": "catalog/avatar1/dress/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   }
@@ -448,7 +448,7 @@
                     "previewUrl": "catalog/avatar1/shoes/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   },
                   {
@@ -457,7 +457,7 @@
                     "skinName": "shoes/shoes_3",
                     "previewUrl": "catalog/avatar1/shoes/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -468,7 +468,7 @@
                     "previewUrl": "catalog/avatar1/shoes/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 5
                     }
                   },
                   {
@@ -477,7 +477,7 @@
                     "skinName": "shoes/shoes_5",
                     "previewUrl": "catalog/avatar1/shoes/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   }
@@ -504,7 +504,7 @@
                     "previewUrl": "catalog/avatar1/watch/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 11
                     }
                   },
                   {
@@ -513,7 +513,7 @@
                     "skinName": "watch/watch_3",
                     "previewUrl": "catalog/avatar1/watch/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   },
@@ -524,7 +524,7 @@
                     "previewUrl": "catalog/avatar1/watch/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 17
                     }
                   },
                   {
@@ -533,7 +533,7 @@
                     "skinName": "watch/watch_5",
                     "previewUrl": "catalog/avatar1/watch/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -544,7 +544,7 @@
                     "previewUrl": "catalog/avatar1/watch/6.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
@@ -553,7 +553,7 @@
                     "skinName": "watch/watch_7",
                     "previewUrl": "catalog/avatar1/watch/7.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -564,7 +564,7 @@
                     "previewUrl": "catalog/avatar1/watch/8.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   },
                   {
@@ -573,7 +573,7 @@
                     "skinName": "watch/watch_9",
                     "previewUrl": "catalog/avatar1/watch/9.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   },
@@ -584,7 +584,7 @@
                     "previewUrl": "catalog/avatar1/watch/10.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 5
                     }
                   }
                 ]
@@ -611,7 +611,7 @@
                     "optionId": "idel_basic_offset",
                     "label": "Idel Basic Offset",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -620,14 +620,14 @@
                     "label": "Idel Basic Offset V02",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 11
                     }
                   },
                   {
                     "optionId": "win_anim_props",
                     "label": "Win Anim Props",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   }
@@ -677,7 +677,7 @@
                     "previewUrl": "catalog/avatar2/hair/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 17
                     }
                   },
                   {
@@ -686,7 +686,7 @@
                     "skinName": "hair/hair_3",
                     "previewUrl": "catalog/avatar2/hair/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   },
@@ -697,7 +697,7 @@
                     "previewUrl": "catalog/avatar2/hair/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
@@ -706,7 +706,7 @@
                     "skinName": "hair/hair_5",
                     "previewUrl": "catalog/avatar2/hair/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -717,7 +717,7 @@
                     "previewUrl": "catalog/avatar2/hair/6.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   },
                   {
@@ -726,7 +726,7 @@
                     "skinName": "hair/hair_7",
                     "previewUrl": "catalog/avatar2/hair/7.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -737,7 +737,7 @@
                     "previewUrl": "catalog/avatar2/hair/8.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 5
                     }
                   },
                   {
@@ -746,7 +746,7 @@
                     "skinName": "hair/hair_9",
                     "previewUrl": "catalog/avatar2/hair/9.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   }
@@ -773,7 +773,7 @@
                     "previewUrl": "catalog/avatar2/lips/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 11
                     }
                   },
                   {
@@ -782,7 +782,7 @@
                     "skinName": "lips/lips_3",
                     "previewUrl": "catalog/avatar2/lips/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -793,7 +793,7 @@
                     "previewUrl": "catalog/avatar2/lips/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 17
                     }
                   },
                   {
@@ -802,7 +802,7 @@
                     "skinName": "lips/lips_5",
                     "previewUrl": "catalog/avatar2/lips/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   }
@@ -835,7 +835,7 @@
                     "previewUrl": "catalog/avatar2/dress/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
@@ -844,7 +844,7 @@
                     "skinName": "dress/dress_3",
                     "previewUrl": "catalog/avatar2/dress/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   },
@@ -855,7 +855,7 @@
                     "previewUrl": "catalog/avatar2/dress/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   },
                   {
@@ -864,7 +864,7 @@
                     "skinName": "dress/dress_5",
                     "previewUrl": "catalog/avatar2/dress/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   }
@@ -891,7 +891,7 @@
                     "previewUrl": "catalog/avatar2/fan/2.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 5
                     }
                   },
                   {
@@ -900,7 +900,7 @@
                     "skinName": "fan/fan_3",
                     "previewUrl": "catalog/avatar2/fan/3.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -911,7 +911,7 @@
                     "previewUrl": "catalog/avatar2/fan/4.webp",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 11
                     }
                   },
                   {
@@ -920,7 +920,7 @@
                     "skinName": "fan/fan_5",
                     "previewUrl": "catalog/avatar2/fan/5.webp",
                     "price": {
-                      "coins": 0,
+                      "coins": 150,
                       "gems": 0
                     }
                   }
@@ -949,14 +949,14 @@
                     "label": "Idel Anim Basic",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 17
                     }
                   },
                   {
                     "optionId": "idel_anim_offset",
                     "label": "Idel Anim Offset",
                     "price": {
-                      "coins": 0,
+                      "coins": 250,
                       "gems": 0
                     }
                   },
@@ -965,14 +965,14 @@
                     "label": "Idel Anim Offset + Win",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 8
                     }
                   },
                   {
                     "optionId": "idel_anim_offset + win_backup",
                     "label": "Idel Anim Offset + Win Backup",
                     "price": {
-                      "coins": 0,
+                      "coins": 50,
                       "gems": 0
                     }
                   },
@@ -981,7 +981,7 @@
                     "label": "Win2 Final",
                     "price": {
                       "coins": 0,
-                      "gems": 0
+                      "gems": 14
                     }
                   }
                 ]
