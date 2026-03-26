@@ -9,11 +9,8 @@ const fs = require('fs');
 const path = require('path');
 
 const catalogDir = path.join(__dirname, '..', 'catalog');
-const defaultCoins = 0;
-const defaultGems = 0;
-
 function addPriceToOption(opt) {
-  return { ...opt, price: { coins: defaultCoins, gems: defaultGems } };
+  return { ...opt, currencyType: 'coins', price: 0 };
 }
 
 function addPricesToCategories(categories) {
