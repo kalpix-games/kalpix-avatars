@@ -1,0 +1,225 @@
+{
+	"slug": "japanese_school_girl",
+	"avatarName": "Japanese School Girl",
+	"categories": [
+		{
+			"key": "body",
+			"label": "Body",
+			"subcategories": [
+				{
+					"key": "hair",
+					"label": "hair",
+					"options": [
+						{
+							"optionId": "hair_1",
+							"label": "Hair 1",
+							"skinName": "hair/hair_1",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_1.png"
+						},
+						{
+							"optionId": "hair_2",
+							"label": "Hair 2",
+							"skinName": "hair/hair_2",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_2.png"
+						},
+						{
+							"optionId": "hair_3",
+							"label": "Hair 3",
+							"skinName": "hair/hair_3",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_3.png"
+						},
+						{
+							"optionId": "hair_4",
+							"label": "Hair 4",
+							"skinName": "hair/hair_4",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_4.png"
+						},
+						{
+							"optionId": "hair_5",
+							"label": "Hair 5",
+							"skinName": "hair/hair_5",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_5.png"
+						},
+						{
+							"optionId": "hair_6",
+							"label": "Hair 6",
+							"skinName": "hair/hair_6",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_6.png"
+						},
+						{
+							"optionId": "hair_7",
+							"label": "Hair 7",
+							"skinName": "hair/hair_7",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_7.png"
+						},
+						{
+							"optionId": "hair_8",
+							"label": "Hair 8",
+							"skinName": "hair/hair_8",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_8.png"
+						},
+						{
+							"optionId": "hair_9",
+							"label": "Hair 9",
+							"skinName": "hair/hair_9",
+							"previewUrl": "avatars/japanese_school_girl/previews/hair/hair_9.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "fashion",
+			"label": "Fashion",
+			"subcategories": [
+				{
+					"key": "fan",
+					"label": "fan",
+					"options": [
+						{
+							"optionId": "fan_1",
+							"label": "Fan 1",
+							"skinName": "fan/fan_1",
+							"previewUrl": "avatars/japanese_school_girl/previews/fan/fan_1.png"
+						},
+						{
+							"optionId": "fan_2",
+							"label": "Fan 2",
+							"skinName": "fan/fan_2",
+							"previewUrl": "avatars/japanese_school_girl/previews/fan/fan_2.png"
+						},
+						{
+							"optionId": "fan_3",
+							"label": "Fan 3",
+							"skinName": "fan/fan_3",
+							"previewUrl": "avatars/japanese_school_girl/previews/fan/fan_3.png"
+						},
+						{
+							"optionId": "fan_4",
+							"label": "Fan 4",
+							"skinName": "fan/fan_4",
+							"previewUrl": "avatars/japanese_school_girl/previews/fan/fan_4.png"
+						},
+						{
+							"optionId": "fan_5",
+							"label": "Fan 5",
+							"skinName": "fan/fan_5",
+							"previewUrl": "avatars/japanese_school_girl/previews/fan/fan_5.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "animation",
+			"label": "Animation",
+			"subcategories": [
+				{
+					"key": "animation",
+					"label": "animation",
+					"options": [
+						{
+							"optionId": "Fan Fidget",
+							"label": "Fan Fidget",
+							"previewUrl": "avatars/japanese_school_girl/previews/animation/Fan Fidget.png"
+						},
+						{
+							"optionId": "Peace",
+							"label": "Peace",
+							"previewUrl": "avatars/japanese_school_girl/previews/animation/Peace.png"
+						},
+						{
+							"optionId": "Wink",
+							"label": "Wink",
+							"previewUrl": "avatars/japanese_school_girl/previews/animation/Wink.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "others",
+			"label": "Others",
+			"subcategories": [
+				{
+					"key": "lip",
+					"label": "lip",
+					"options": [
+						{
+							"optionId": "lip_1",
+							"label": "Lip 1",
+							"skinName": "lip/lip_1",
+							"previewUrl": "avatars/japanese_school_girl/previews/lip/lip_1.png"
+						},
+						{
+							"optionId": "lip_2",
+							"label": "Lip 2",
+							"skinName": "lip/lip_2",
+							"previewUrl": "avatars/japanese_school_girl/previews/lip/lip_2.png"
+						},
+						{
+							"optionId": "lip_3",
+							"label": "Lip 3",
+							"skinName": "lip/lip_3",
+							"previewUrl": "avatars/japanese_school_girl/previews/lip/lip_3.png"
+						},
+						{
+							"optionId": "lip_4",
+							"label": "Lip 4",
+							"skinName": "lip/lip_4",
+							"previewUrl": "avatars/japanese_school_girl/previews/lip/lip_4.png"
+						},
+						{
+							"optionId": "lip_5",
+							"label": "Lip 5",
+							"skinName": "lip/lip_5",
+							"previewUrl": "avatars/japanese_school_girl/previews/lip/lip_5.png"
+						}
+					]
+				},
+				{
+					"key": "costume",
+					"label": "costume",
+					"options": [
+						{
+							"optionId": "costume_1",
+							"label": "Costume 1",
+							"skinName": "costume/costume_1",
+							"previewUrl": "avatars/japanese_school_girl/previews/costume/costume_1.png"
+						},
+						{
+							"optionId": "costume_2",
+							"label": "Costume 2",
+							"skinName": "costume/costume_2",
+							"previewUrl": "avatars/japanese_school_girl/previews/costume/costume_2.png"
+						},
+						{
+							"optionId": "costume_3",
+							"label": "Costume 3",
+							"skinName": "costume/costume_3",
+							"previewUrl": "avatars/japanese_school_girl/previews/costume/costume_3.png"
+						},
+						{
+							"optionId": "costume_4",
+							"label": "Costume 4",
+							"skinName": "costume/costume_4",
+							"previewUrl": "avatars/japanese_school_girl/previews/costume/costume_4.png"
+						},
+						{
+							"optionId": "costume_5",
+							"label": "Costume 5",
+							"skinName": "costume/costume_5",
+							"previewUrl": "avatars/japanese_school_girl/previews/costume/costume_5.png"
+						},
+						{
+							"optionId": "costume_6",
+							"label": "Costume 6",
+							"skinName": "costume/costume_6",
+							"previewUrl": "avatars/japanese_school_girl/previews/costume/costume_6.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}

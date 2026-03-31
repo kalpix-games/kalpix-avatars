@@ -1,0 +1,404 @@
+{
+	"slug": "boy",
+	"avatarName": "Boy",
+	"categories": [
+		{
+			"key": "fashion",
+			"label": "Fashion",
+			"subcategories": [
+				{
+					"key": "shoes",
+					"label": "shoes",
+					"options": [
+						{
+							"optionId": "shoes_1",
+							"label": "Shoes 1",
+							"skinName": "shoes/shoes_1",
+							"previewUrl": "avatars/boy/previews/shoes/shoes_1.png"
+						},
+						{
+							"optionId": "shoes_2",
+							"label": "Shoes 2",
+							"skinName": "shoes/shoes_2",
+							"previewUrl": "avatars/boy/previews/shoes/shoes_2.png"
+						},
+						{
+							"optionId": "shoes_3",
+							"label": "Shoes 3",
+							"skinName": "shoes/shoes_3",
+							"previewUrl": "avatars/boy/previews/shoes/shoes_3.png"
+						},
+						{
+							"optionId": "Shoes_4",
+							"label": "Shoes 4",
+							"skinName": "shoes/Shoes_4",
+							"previewUrl": "avatars/boy/previews/shoes/Shoes_4.png"
+						},
+						{
+							"optionId": "shoes_5",
+							"label": "Shoes 5",
+							"skinName": "shoes/shoes_5",
+							"previewUrl": "avatars/boy/previews/shoes/shoes_5.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "animation",
+			"label": "Animation",
+			"subcategories": [
+				{
+					"key": "animation",
+					"label": "animation",
+					"options": [
+						{
+							"optionId": "call",
+							"label": "Call",
+							"previewUrl": "avatars/boy/previews/animation/call.png"
+						},
+						{
+							"optionId": "idle",
+							"label": "Idle",
+							"previewUrl": "avatars/boy/previews/animation/idle.png"
+						},
+						{
+							"optionId": "message",
+							"label": "Message",
+							"previewUrl": "avatars/boy/previews/animation/message.png"
+						},
+						{
+							"optionId": "wink",
+							"label": "Wink",
+							"previewUrl": "avatars/boy/previews/animation/wink.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"key": "others",
+			"label": "Others",
+			"subcategories": [
+				{
+					"key": "faces",
+					"label": "faces",
+					"options": [
+						{
+							"optionId": "face_1",
+							"label": "Face 1",
+							"skinName": "faces/face_1",
+							"previewUrl": "avatars/boy/previews/faces/face_1.png"
+						},
+						{
+							"optionId": "face_2",
+							"label": "Face 2",
+							"skinName": "faces/face_2",
+							"previewUrl": "avatars/boy/previews/faces/face_2.png"
+						},
+						{
+							"optionId": "face_3",
+							"label": "Face 3",
+							"skinName": "faces/face_3",
+							"previewUrl": "avatars/boy/previews/faces/face_3.png"
+						}
+					]
+				},
+				{
+					"key": "hairs",
+					"label": "hairs",
+					"options": [
+						{
+							"optionId": "hair_1",
+							"label": "Hair 1",
+							"skinName": "hairs/hair_1",
+							"previewUrl": "avatars/boy/previews/hairs/hair_1.png"
+						},
+						{
+							"optionId": "hair_2",
+							"label": "Hair 2",
+							"skinName": "hairs/hair_2",
+							"previewUrl": "avatars/boy/previews/hairs/hair_2.png"
+						},
+						{
+							"optionId": "hair_3",
+							"label": "Hair 3",
+							"skinName": "hairs/hair_3",
+							"previewUrl": "avatars/boy/previews/hairs/hair_3.png"
+						},
+						{
+							"optionId": "hair_4",
+							"label": "Hair 4",
+							"skinName": "hairs/hair_4",
+							"previewUrl": "avatars/boy/previews/hairs/hair_4.png"
+						},
+						{
+							"optionId": "hair_5",
+							"label": "Hair 5",
+							"skinName": "hairs/hair_5",
+							"previewUrl": "avatars/boy/previews/hairs/hair_5.png"
+						},
+						{
+							"optionId": "hair_6",
+							"label": "Hair 6",
+							"skinName": "hairs/hair_6",
+							"previewUrl": "avatars/boy/previews/hairs/hair_6.png"
+						},
+						{
+							"optionId": "hair_7",
+							"label": "Hair 7",
+							"skinName": "hairs/hair_7",
+							"previewUrl": "avatars/boy/previews/hairs/hair_7.png"
+						},
+						{
+							"optionId": "hair_8",
+							"label": "Hair 8",
+							"skinName": "hairs/hair_8",
+							"previewUrl": "avatars/boy/previews/hairs/hair_8.png"
+						},
+						{
+							"optionId": "hair_9",
+							"label": "Hair 9",
+							"skinName": "hairs/hair_9",
+							"previewUrl": "avatars/boy/previews/hairs/hair_9.png"
+						},
+						{
+							"optionId": "hair_10",
+							"label": "Hair 10",
+							"skinName": "hairs/hair_10",
+							"previewUrl": "avatars/boy/previews/hairs/hair_10.png"
+						},
+						{
+							"optionId": "hair_11",
+							"label": "Hair 11",
+							"skinName": "hairs/hair_11",
+							"previewUrl": "avatars/boy/previews/hairs/hair_11.png"
+						},
+						{
+							"optionId": "hair_12",
+							"label": "Hair 12",
+							"skinName": "hairs/hair_12",
+							"previewUrl": "avatars/boy/previews/hairs/hair_12.png"
+						},
+						{
+							"optionId": "hair_13",
+							"label": "Hair 13",
+							"skinName": "hairs/hair_13",
+							"previewUrl": "avatars/boy/previews/hairs/hair_13.png"
+						},
+						{
+							"optionId": "hair_14",
+							"label": "Hair 14",
+							"skinName": "hairs/hair_14",
+							"previewUrl": "avatars/boy/previews/hairs/hair_14.png"
+						}
+					]
+				},
+				{
+					"key": "watches",
+					"label": "watches",
+					"options": [
+						{
+							"optionId": "watch_1",
+							"label": "Watch 1",
+							"skinName": "watches/watch_1",
+							"previewUrl": "avatars/boy/previews/watches/watch_1.png"
+						},
+						{
+							"optionId": "watch_2",
+							"label": "Watch 2",
+							"skinName": "watches/watch_2",
+							"previewUrl": "avatars/boy/previews/watches/watch_2.png"
+						},
+						{
+							"optionId": "watch_3",
+							"label": "Watch 3",
+							"skinName": "watches/watch_3",
+							"previewUrl": "avatars/boy/previews/watches/watch_3.png"
+						},
+						{
+							"optionId": "watch_4",
+							"label": "Watch 4",
+							"skinName": "watches/watch_4",
+							"previewUrl": "avatars/boy/previews/watches/watch_4.png"
+						},
+						{
+							"optionId": "watch_5",
+							"label": "Watch 5",
+							"skinName": "watches/watch_5",
+							"previewUrl": "avatars/boy/previews/watches/watch_5.png"
+						},
+						{
+							"optionId": "watch_6",
+							"label": "Watch 6",
+							"skinName": "watches/watch_6",
+							"previewUrl": "avatars/boy/previews/watches/watch_6.png"
+						},
+						{
+							"optionId": "watch_7",
+							"label": "Watch 7",
+							"skinName": "watches/watch_7",
+							"previewUrl": "avatars/boy/previews/watches/watch_7.png"
+						},
+						{
+							"optionId": "watch_8",
+							"label": "Watch 8",
+							"skinName": "watches/watch_8",
+							"previewUrl": "avatars/boy/previews/watches/watch_8.png"
+						},
+						{
+							"optionId": "watch_9",
+							"label": "Watch 9",
+							"skinName": "watches/watch_9",
+							"previewUrl": "avatars/boy/previews/watches/watch_9.png"
+						},
+						{
+							"optionId": "watch_10",
+							"label": "Watch 10",
+							"skinName": "watches/watch_10",
+							"previewUrl": "avatars/boy/previews/watches/watch_10.png"
+						}
+					]
+				},
+				{
+					"key": "costumes",
+					"label": "costumes",
+					"options": [
+						{
+							"optionId": "costume_1",
+							"label": "Costume 1",
+							"skinName": "costumes/costume_1",
+							"previewUrl": "avatars/boy/previews/costumes/costume_1.png"
+						},
+						{
+							"optionId": "costume_2",
+							"label": "Costume 2",
+							"skinName": "costumes/costume_2",
+							"previewUrl": "avatars/boy/previews/costumes/costume_2.png"
+						},
+						{
+							"optionId": "costume_3",
+							"label": "Costume 3",
+							"skinName": "costumes/costume_3",
+							"previewUrl": "avatars/boy/previews/costumes/costume_3.png"
+						},
+						{
+							"optionId": "costume_4",
+							"label": "Costume 4",
+							"skinName": "costumes/costume_4",
+							"previewUrl": "avatars/boy/previews/costumes/costume_4.png"
+						},
+						{
+							"optionId": "costume_5",
+							"label": "Costume 5",
+							"skinName": "costumes/costume_5",
+							"previewUrl": "avatars/boy/previews/costumes/costume_5.png"
+						}
+					]
+				},
+				{
+					"key": "eyebrows",
+					"label": "eyebrows",
+					"options": [
+						{
+							"optionId": "eyebrow_1",
+							"label": "Eyebrow 1",
+							"skinName": "eyebrows/eyebrow_1",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_1.png"
+						},
+						{
+							"optionId": "eyebrow_2",
+							"label": "Eyebrow 2",
+							"skinName": "eyebrows/eyebrow_2",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_2.png"
+						},
+						{
+							"optionId": "eyebrow_3",
+							"label": "Eyebrow 3",
+							"skinName": "eyebrows/eyebrow_3",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_3.png"
+						},
+						{
+							"optionId": "eyebrow_4",
+							"label": "Eyebrow 4",
+							"skinName": "eyebrows/eyebrow_4",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_4.png"
+						},
+						{
+							"optionId": "eyebrow_5",
+							"label": "Eyebrow 5",
+							"skinName": "eyebrows/eyebrow_5",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_5.png"
+						},
+						{
+							"optionId": "eyebrow_6",
+							"label": "Eyebrow 6",
+							"skinName": "eyebrows/eyebrow_6",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_6.png"
+						},
+						{
+							"optionId": "eyebrow_7",
+							"label": "Eyebrow 7",
+							"skinName": "eyebrows/eyebrow_7",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_7.png"
+						},
+						{
+							"optionId": "eyebrow_8",
+							"label": "Eyebrow 8",
+							"skinName": "eyebrows/eyebrow_8",
+							"previewUrl": "avatars/boy/previews/eyebrows/eyebrow_8.png"
+						}
+					]
+				},
+				{
+					"key": "eye_color",
+					"label": "eye_color",
+					"options": [
+						{
+							"optionId": "eye_color_1",
+							"label": "Eye Color 1",
+							"skinName": "eye_color/eye_color_1",
+							"previewUrl": "avatars/boy/previews/eye_color/eye_color_1.png"
+						},
+						{
+							"optionId": "eye_color_2",
+							"label": "Eye Color 2",
+							"skinName": "eye_color/eye_color_2",
+							"previewUrl": "avatars/boy/previews/eye_color/eye_color_2.png"
+						},
+						{
+							"optionId": "eye_color_3",
+							"label": "Eye Color 3",
+							"skinName": "eye_color/eye_color_3",
+							"previewUrl": "avatars/boy/previews/eye_color/eye_color_3.png"
+						},
+						{
+							"optionId": "eye_color_4",
+							"label": "Eye Color 4",
+							"skinName": "eye_color/eye_color_4",
+							"previewUrl": "avatars/boy/previews/eye_color/eye_color_4.png"
+						},
+						{
+							"optionId": "eye_color_5",
+							"label": "Eye Color 5",
+							"skinName": "eye_color/eye_color_5",
+							"previewUrl": "avatars/boy/previews/eye_color/eye_color_5.png"
+						},
+						{
+							"optionId": "eye_color_6",
+							"label": "Eye Color 6",
+							"skinName": "eye_color/eye_color_6",
+							"previewUrl": "avatars/boy/previews/eye_color/eye_color_6.png"
+						},
+						{
+							"optionId": "eye_color_7",
+							"label": "Eye Color 7",
+							"skinName": "eye_color/eye_color_7",
+							"previewUrl": "avatars/boy/previews/eye_color/eye_color_7.png"
+						}
+					]
+				}
+			]
+		}
+	]
+}

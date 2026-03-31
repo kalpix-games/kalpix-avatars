@@ -98,15 +98,6 @@ func trailingNumber(optionID string) int {
 	return n
 }
 
-// previewPathSegment returns the filename segment for an option's preview (e.g. 1, 10).
-// Uses the optionId's numeric suffix when present so hair_10 -> "10"; otherwise uses 1-based index.
-func previewPathSegment(optionID string, index1Based int) string {
-	if n := trailingNumber(optionID); n >= 0 {
-		return strconv.Itoa(n)
-	}
-	return strconv.Itoa(index1Based)
-}
-
 func topCategory(subKey string) string {
 	lower := strings.ToLower(subKey)
 	switch lower {
@@ -265,7 +256,7 @@ func buildCatalog(assetPath, slug, avatarName, cdnBase, previewExt string) (*cat
 
 	previewBase := ""
 	if cdnBase != "" {
-		previewBase = strings.TrimSuffix(cdnBase, "/") + "/catalog/" + slug
+		previewBase = strings.TrimSuffix(cdnBase, "/") + "/avatars/" + slug + "/previews"
 	}
 
 	var categories []categoryOut
@@ -307,49 +298,39 @@ func buildCatalog(assetPath, slug, avatarName, cdnBase, previewExt string) (*cat
 func buildSubcategoryList(order []string, all map[string][]string, slug, previewBase, previewExt string, isAnimation bool) []subcategoryOut {
 	seen := make(map[string]bool)
 	var result []subcategoryOut
+
+	buildOptions := func(k string, opts []string) []optionOut {
+		var options []optionOut
+		suffix := "." + previewExt
+		for _, oid := range opts {
+			opt := optionOut{OptionID: oid, Label: humanize(oid)}
+			if !isAnimation {
+				opt.SkinName = k + "/" + oid
+			}
+			// Animations are not Spine skins; omit skinName but still emit previewUrl (R2: previews/animation/<name>.webp).
+			if previewBase != "" {
+				opt.PreviewURL = previewBase + "/" + k + "/" + oid + suffix
+			} else {
+				opt.PreviewURL = "avatars/" + slug + "/previews/" + k + "/" + oid + suffix
+			}
+			options = append(options, opt)
+		}
+		return options
+	}
+
 	for _, k := range order {
 		opts, ok := all[k]
 		if !ok || seen[k] {
 			continue
 		}
 		seen[k] = true
-		var options []optionOut
-		for i, oid := range opts {
-			opt := optionOut{OptionID: oid, Label: humanize(oid)}
-			if !isAnimation {
-				opt.SkinName = k + "/" + oid
-				suffix := "." + previewExt
-				seg := previewPathSegment(oid, i+1)
-				if previewBase != "" {
-					opt.PreviewURL = previewBase + "/" + k + "/" + seg + suffix
-				} else {
-					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + seg + suffix
-				}
-			}
-			options = append(options, opt)
-		}
-		result = append(result, subcategoryOut{Key: k, Label: k, Options: options})
+		result = append(result, subcategoryOut{Key: k, Label: k, Options: buildOptions(k, opts)})
 	}
 	for k, opts := range all {
 		if seen[k] {
 			continue
 		}
-		var options []optionOut
-		for i, oid := range opts {
-			opt := optionOut{OptionID: oid, Label: humanize(oid)}
-			if !isAnimation {
-				opt.SkinName = k + "/" + oid
-				suffix := "." + previewExt
-				seg := previewPathSegment(oid, i+1)
-				if previewBase != "" {
-					opt.PreviewURL = previewBase + "/" + k + "/" + seg + suffix
-				} else {
-					opt.PreviewURL = "catalog/" + slug + "/" + k + "/" + seg + suffix
-				}
-			}
-			options = append(options, opt)
-		}
-		result = append(result, subcategoryOut{Key: k, Label: k, Options: options})
+		result = append(result, subcategoryOut{Key: k, Label: k, Options: buildOptions(k, opts)})
 	}
 	return result
 }

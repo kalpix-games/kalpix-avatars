@@ -107,19 +107,24 @@ func scanAvatars(avatarsDir, baseURL string) ([]ManifestEntry, error) {
 		slug := d.Name()
 		dirPath := filepath.Join(avatarsDir, slug)
 
-		// Expect <slug>.json, <slug>.txt (atlas), <slug>.png
+		// Expect <slug>.json, <slug>.txt (preferred) or <slug>.atlas, <slug>.webp (or .png)
 		baseName := slug
 		jsonPath := filepath.Join(dirPath, baseName+".json")
-		txtPath := filepath.Join(dirPath, baseName+".txt")
+		txtAtlas := filepath.Join(dirPath, baseName+".txt")
+		dotAtlas := filepath.Join(dirPath, baseName+".atlas")
 
 		if _, err := os.Stat(jsonPath); err != nil {
-			// Try .atlas.txt if .txt missing
-			atlasPath := filepath.Join(dirPath, baseName+".atlas.txt")
-			if _, err2 := os.Stat(atlasPath); err2 != nil {
-				fmt.Fprintf(os.Stderr, "Skip %s: no %s.json (or atlas) found\n", slug, baseName)
-				continue
-			}
-			txtPath = atlasPath
+			fmt.Fprintf(os.Stderr, "Skip %s: no %s.json found\n", slug, baseName)
+			continue
+		}
+		var atlasExt string
+		if _, err := os.Stat(txtAtlas); err == nil {
+			atlasExt = ".txt"
+		} else if _, err := os.Stat(dotAtlas); err == nil {
+			atlasExt = ".atlas"
+		} else {
+			fmt.Fprintf(os.Stderr, "Skip %s: no %s.txt or %s.atlas found\n", slug, baseName, baseName)
+			continue
 		}
 
 		e := ManifestEntry{
@@ -131,18 +136,12 @@ func scanAvatars(avatarsDir, baseURL string) ([]ManifestEntry, error) {
 		sortOrder++
 
 		if baseURL != "" {
-			e.PreviewURL = assetsBase + "/" + slug + "/" + baseName + ".png"
-			e.BaseAtlasURL = assetsBase + "/" + slug + "/" + baseName + ".txt"
-			e.BaseJSONURL = assetsBase + "/" + slug + "/" + baseName + ".json"
-			e.BasePNGURL = assetsBase + "/" + slug + "/" + baseName + ".png"
+			spineBase := assetsBase + "/" + slug + "/spine"
+			e.PreviewURL = assetsBase + "/" + slug + "/thumbnail.webp"
+			e.BaseAtlasURL = spineBase + "/" + baseName + atlasExt
+			e.BaseJSONURL = spineBase + "/" + baseName + ".json"
+			e.BasePNGURL = spineBase + "/" + baseName + ".webp"
 			e.CatalogURL = catalogBase + "/" + slug + ".json"
-			// If atlas is .atlas.txt, fix
-			if _, err := os.Stat(txtPath); err != nil {
-				atlasPath := filepath.Join(dirPath, baseName+".atlas.txt")
-				if _, err2 := os.Stat(atlasPath); err2 == nil {
-					e.BaseAtlasURL = assetsBase + "/" + slug + "/" + baseName + ".atlas.txt"
-				}
-			}
 		}
 
 		entries = append(entries, e)
